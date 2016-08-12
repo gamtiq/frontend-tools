@@ -1,6 +1,7 @@
 # Front-end development tools
 
 #### Table of contents <a name="toc"></a>
+* [ECMAScript specification](#ecma-specification)
 * [JavaScript variant](#js-variant)
 * [JavaScript framework](#js-framework)
 * [JavaScript module system and loader](#loader)
@@ -13,7 +14,12 @@
 * [Task runner / build tool](#task-runner)
 * [Useful articles & resources](#resources)
 
-### JavaScript version and variant <a name="js-variant"></a> [&#x2191;](#toc)
+### ECMAScript specification <a name="ecma-specification"></a> [&#x2191;](#toc)
+* [Version 3 (PDF)](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%203rd%20edition,%20December%201999.pdf)
+* Version 5.1: [HTML](http://www.ecma-international.org/ecma-262/5.1/index.html) | [PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%205.1%20edition%20June%202011.pdf)
+* Version 6 / 2015: [HTML](http://www.ecma-international.org/ecma-262/6.0/index.html) | [PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%206th%20edition%20June%202015.pdf)
+
+### JavaScript variant <a name="js-variant"></a> [&#x2191;](#toc)
 * [TypeScript](http://www.typescriptlang.org/)
 
 ### JavaScript framework <a name="js-framework"></a> [&#x2191;](#toc)
