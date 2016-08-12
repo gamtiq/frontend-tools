@@ -12,9 +12,11 @@
 * [Testing](#testing)
 * [Linting / validation](#linting)
 * [Task runner / build tool](#task-runner)
+* [Development server](#dev-server)
 * [Useful articles & resources](#resources)
 
 ### ECMAScript specification <a name="ecma-specification"></a> [&#x2191;](#toc)
+* [ECMAScript standard specifications](http://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
 * [Version 3 (PDF)](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%203rd%20edition,%20December%201999.pdf)
 * Version 5.1: [HTML](http://www.ecma-international.org/ecma-262/5.1/index.html) | [PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%205.1%20edition%20June%202011.pdf)
 * Version 6 / 2015: [HTML](http://www.ecma-international.org/ecma-262/6.0/index.html) | [PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%206th%20edition%20June%202015.pdf)
@@ -110,6 +112,14 @@
 * [Brunch](http://brunch.io/)
 * [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
+
+### Development server <a name="dev-server"></a> [&#x2191;](#toc)
+* [EasyMock Server](https://github.com/cyberagent/node-easymock)
+* [freddie](https://github.com/Scytl/freddie)
+* [Puer](https://github.com/leeluolee/puer) - more than a live-reload server , built for efficient frontend development.
+* [servedir](https://github.com/evanw/servedir) - a simple Node web server for offline development and testing: running servedir from a directory will create a quick local web server.
+* [server-with-benefits](https://github.com/galbi101/server-with-benefits) - A static Node.js file web server with options for proxing requests and delaying/mocking responses.
+* [Superstatic (with proxy)](https://github.com/colinbate/superstatic-with-proxy)
 
 ### Useful articles & resources <a name="resources"></a> [&#x2191;](#toc)
 * [The cost of transpiling es2015 in 2016](https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016)
