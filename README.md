@@ -13,6 +13,7 @@
 * [Linting / validation](#linting)
 * [Task runner / build tool](#task-runner)
 * [Development server](#dev-server)
+* [Benchmark](#benchmark)
 * [Useful articles & resources](#resources)
 
 ### ECMAScript specification <a name="ecma-specification"></a> [&#x2191;](#toc)
@@ -120,6 +121,10 @@
 * [servedir](https://github.com/evanw/servedir) - a simple Node web server for offline development and testing: running servedir from a directory will create a quick local web server.
 * [server-with-benefits](https://github.com/galbi101/server-with-benefits) - A static Node.js file web server with options for proxing requests and delaying/mocking responses.
 * [Superstatic (with proxy)](https://github.com/colinbate/superstatic-with-proxy)
+
+### Benchmark <a name="benchmark"></a> [&#x2191;](#toc)
+* [JS web frameworks benchmark – Round 3](http://www.stefankrause.net/wp/?p=301)
+* [UI Benchmark](https://localvoid.github.io/uibench/)
 
 ### Useful articles & resources <a name="resources"></a> [&#x2191;](#toc)
 * [The cost of transpiling es2015 in 2016](https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016)
