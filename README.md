@@ -82,6 +82,7 @@
 * [Zimit](http://firezenk.github.io/zimit/) - Awesome, solid, responsive and complete front-end prototyping framework for web-developers.
 
 ### CSS processor <a name="css-processor"></a> [&#x2191;](#toc)
+* [EQCSS](http://elementqueries.com/) - A CSS Extension for Element Queries & More.
 * [Less](http://lesscss.org/)
 * [PostCSS](http://postcss.org/) - A tool for transforming CSS with JavaScript.
 * [Sass](http://sass-lang.com/)
