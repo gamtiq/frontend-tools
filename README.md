@@ -4,6 +4,7 @@
 * [ECMAScript specification](#ecma-specification)
 * [JavaScript variant](#js-variant)
 * [JavaScript framework](#js-framework)
+* [JavaScript UI (view) library / framework](#js-ui-library)
 * [JavaScript module system and loader](#loader)
 * [Module and asset bundler](#bundler)
 * [Package manager](#package-manager)
@@ -28,9 +29,16 @@
 ### JavaScript framework <a name="js-framework"></a> [&#x2191;](#toc)
 * [Angular 2](https://angular.io/)
 * [Aurelia](http://aurelia.io/)
+* [choo](https://github.com/yoshuawuyts/choo) - framework for creating sturdy frontend applications.
 * [Ember](http://emberjs.com/)
-* [React](https://facebook.github.io/react/)
-* [Vue.js](http://vuejs.org/)
+
+### JavaScript UI (view) library / framework <a name="js-ui-library"></a> [&#x2191;](#toc)
+* [Inferno](http://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces.
+* [Monkberry](http://monkberry.js.org/) - blazingly fast, small and simple JavaScript library for building web user interfaces.
+* [Preact](https://preactjs.com/) - Fast 3kb alternative to React with the same ES6 API.
+* [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces.
+* [Riot](http://riotjs.com/) - A React-like user interface micro-library.
+* [Vue.js](http://vuejs.org/) - Simple yet powerful library for building modern web interfaces.
 
 ### JavaScript module system and loader <a name="loader"></a> [&#x2191;](#toc)
 * AMD:
