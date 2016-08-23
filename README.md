@@ -34,6 +34,7 @@
 
 ### JavaScript UI (view) library / framework <a name="js-ui-library"></a> [&#x2191;](#toc)
 * [Inferno](http://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces.
+* [Marko Widgets](http://markojs.com/) - a UI component building library that utilizes Marko templates as the view. It offers advanced features like DOM diffing/patching, batched updates, stateful widgets, declarative event binding and efficient event delegation.
 * [Monkberry](http://monkberry.js.org/) - blazingly fast, small and simple JavaScript library for building web user interfaces.
 * [Preact](https://preactjs.com/) - Fast 3kb alternative to React with the same ES6 API.
 * [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces.
