@@ -73,10 +73,12 @@
 * [Bootstrap](http://getbootstrap.com/)
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox.
 * [Cutestrap](https://www.cutestrap.com/)
+* [Flat UI](http://designmodo.github.io/Flat-UI/) - a beautiful theme for Bootstrap.
 * [Foundation](http://foundation.zurb.com/)
 * [GroundworkCSS](http://groundworkcss.github.io/)
 * [Ink](http://ink.sapo.pt/)
 * [inuitcss](https://github.com/inuitcss/getting-started)
+* [Kube](https://imperavi.com/kube/) - a web framework for professional developers and designers alike. Kube is a wireframe, a skeleton for your project, in a way.
 * [Leaf](http://getleaf.com/) - A CSS framework based on Google's material design.
 * [Materialize](http://materializecss.com/)
 * [Material Framework](http://nt1m.github.io/material-framework/)
