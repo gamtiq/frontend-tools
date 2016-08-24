@@ -141,6 +141,7 @@
 * [UI Benchmark](https://localvoid.github.io/uibench/)
 
 ### Useful articles & resources <a name="resources"></a> [&#x2191;](#toc)
+* [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/) - demonstrates that small modules can have a surprisingly high performance cost depending on your choice of bundler and module system.
 * [The cost of transpiling es2015 in 2016](https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016)
 * [What Do the Popular JavaScript Tools Depend On?](http://developer.telerik.com/featured/popular-javascript-tools-depend/)
 
