@@ -91,7 +91,6 @@
 * [Topcoat](http://topcoat.io/)
 * [Turret](http://turretcss.com/) - a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
-* [Zimit](http://firezenk.github.io/zimit/) - Awesome, solid, responsive and complete front-end prototyping framework for web-developers.
 
 ### CSS processor <a name="css-processor"></a> [&#x2191;](#toc)
 * [EQCSS](http://elementqueries.com/) - A CSS Extension for Element Queries & More.
