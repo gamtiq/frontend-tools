@@ -14,6 +14,7 @@
 * [Linting / validation](#linting)
 * [Task runner / build tool](#task-runner)
 * [Development server](#dev-server)
+* [Browser extension](#browser-extension)
 * [Benchmark](#benchmark)
 * [Useful articles & resources](#resources)
 
@@ -134,6 +135,10 @@
 * [servedir](https://github.com/evanw/servedir) - a simple Node web server for offline development and testing: running servedir from a directory will create a quick local web server.
 * [server-with-benefits](https://github.com/galbi101/server-with-benefits) - A static Node.js file web server with options for proxing requests and delaying/mocking responses.
 * [Superstatic (with proxy)](https://github.com/colinbate/superstatic-with-proxy)
+
+### Browser extension <a name="browser-extension"></a> [&#x2191;](#toc)
+* Chrome
+  - [25 Essential Chrome Extensions for Web Designers](https://envato.com/blog/chrome-extensions-web-design/)
 
 ### Benchmark <a name="benchmark"></a> [&#x2191;](#toc)
 * [JS web frameworks benchmark – Round 3](http://www.stefankrause.net/wp/?p=301)
