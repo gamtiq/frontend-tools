@@ -5,6 +5,7 @@
 * [JavaScript variant](#js-variant)
 * [JavaScript framework](#js-framework)
 * [JavaScript UI (view) library / framework](#js-ui-library)
+* [React-based UI (components) library](#react-ui-library)
 * [JavaScript module system and loader](#loader)
 * [Module and asset bundler](#bundler)
 * [Package manager](#package-manager)
@@ -41,6 +42,16 @@
 * [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces.
 * [Riot](http://riotjs.com/) - A React-like user interface micro-library.
 * [Vue.js](http://vuejs.org/) - Simple yet powerful library for building modern web interfaces.
+
+### React-based UI (components) library <a name="react-ui-library"></a> [&#x2191;](#toc)
+* [Elemental UI](http://elemental-ui.com/) - A UI Toolkit for React.js Websites and Apps.
+* [Essence](http://getessence.io) - The Essential Material Design Framework.
+* [Grommet](http://grommet.github.io/) - The most advanced UX framework for enterprise applications.
+* [Material-UI](http://www.material-ui.com/) - A Set of React Components that Implement Google's Material Design.
+* [react-md](http://react-md.mlaursen.com/) - A set of React components and sass files for implementing Google's Material Design.
+* [React-MDL](https://tleunen.github.io/react-mdl/) - A set of React components build on top of Material Design Lite.
+* [React Toolbox](http://react-toolbox.com) - A set of React components that implement Google's Material Design specification.
+* [Rebass](http://jxnblk.com/rebass/) - Configurable React Stateless Functional UI Components.
 
 ### JavaScript module system and loader <a name="loader"></a> [&#x2191;](#toc)
 * AMD:
@@ -83,7 +94,6 @@
 * [Leaf](http://getleaf.com/) - A CSS framework based on Google's material design.
 * [Materialize](http://materializecss.com/)
 * [Material Framework](http://nt1m.github.io/material-framework/)
-* [Material-UI](http://www.material-ui.com) (React components)
 * [Metro UI](http://metroui.org.ua/) - The front-end framework for developing projects on the web in Windows Metro Style.
 * [Polymer](http://www.polymer-project.org/)
 * [Pure](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
