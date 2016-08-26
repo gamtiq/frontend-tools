@@ -1,6 +1,7 @@
-# Front-end development tools
+# Front-end development tools (mostly)
 
 #### Table of contents <a name="toc"></a>
+* [Tools catalog / search / discovery service](#tool-search)
 * [ECMAScript specification](#ecma-specification)
 * [JavaScript variant](#js-variant)
 * [JavaScript framework](#js-framework)
@@ -18,6 +19,16 @@
 * [Browser extension](#browser-extension)
 * [Benchmark](#benchmark)
 * [Useful articles & resources](#resources)
+
+### Tools catalog / search / discovery service <a name="tool-search"></a> [&#x2191;](#toc)
+* [awesome](https://awesome.re/) - A curated list of awesome lists.
+* [JavaScripting](http://www.javascripting.com/) - The definitive source of the best JavaScript libraries, frameworks, and plugins.
+* [JavaScriptOO](http://www.javascriptoo.com/) - Every javascript project you should be looking into with examples, categories, install commands, CDN links, project and author stats, and more.
+* [JSter](http://jster.net/) - A catalog of frontend JavaScript libraries.
+* [Libraries.io](https://libraries.io/) - Helps developers find new open source libraries, modules and frameworks and keep track of ones they depend upon.
+* [npms](https://npms.io/) - A better and open source search for node modules.
+* [npmsearch](http://npmsearch.com/) - Search for node packages on the npm registry.
+* [MicroJS](http://microjs.com) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
 
 ### ECMAScript specification <a name="ecma-specification"></a> [&#x2191;](#toc)
 * [ECMAScript standard specifications](http://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
