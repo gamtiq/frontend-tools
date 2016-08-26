@@ -138,6 +138,7 @@
 * [Gulp](http://gulpjs.com/)
 
 ### Development server <a name="dev-server"></a> [&#x2191;](#toc)
+* [Browsersync](https://www.browsersync.io/) - Keep multiple browsers & devices in sync when building websites.
 * [EasyMock Server](https://github.com/cyberagent/node-easymock)
 * [freddie](https://github.com/Scytl/freddie)
 * [http-server](https://github.com/indexzero/http-server) - a simple, zero-configuration command-line http server.
