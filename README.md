@@ -161,6 +161,12 @@
 * With PHP support
     - [AppServ](http://www.appservnetwork.com) - a full-featured of Apache, MySQL, PHP, phpMyAdmin.
     - [Devserver](http://www.easyphp.org) - a complete and ready-to-use development environment. Devserver is portable, modular, fully configurable and easy to update and extend.
+    - [Uniform Server](http://www.uniformserver.com/) - a lightweight server solution for running a web server under the WindowsOS.
+    - [UwAmp](http://www.uwamp.com/en/) - free Wamp Server with Apache MySQL PHP and SQLite.
+    - [VertrigoServ](http://vertrigo.sourceforge.net/) - a complete free WAMP server allowing PHP development for Windows.
+    - [WampServer](http://www.wampserver.com/en/) - a Windows web development environment. It allows you to create web applications with Apache2, PHP and a MySQL database.
+    - [WPИ-XM](http://wpn-xm.org/) - a free and open-source web server solution stack for professional PHP development on Windows.
+    - [WTServer](http://wtserver.wtriple.com/) - a portable, preconfigured, lightweight, fast and stable server stack for developing php mysql applications on windows, based on the excellent webserver Nginx.
     - [XAMPP](https://www.apachefriends.org) - a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl.
 
 ### Browser extension <a name="browser-extension"></a> [&#x2191;](#toc)
