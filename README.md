@@ -26,9 +26,9 @@
 * [JavaScriptOO](http://www.javascriptoo.com/) - Every javascript project you should be looking into with examples, categories, install commands, CDN links, project and author stats, and more.
 * [JSter](http://jster.net/) - A catalog of frontend JavaScript libraries.
 * [Libraries.io](https://libraries.io/) - Helps developers find new open source libraries, modules and frameworks and keep track of ones they depend upon.
+* [MicroJS](http://microjs.com) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
 * [npms](https://npms.io/) - A better and open source search for node modules.
 * [npmsearch](http://npmsearch.com/) - Search for node packages on the npm registry.
-* [MicroJS](http://microjs.com) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
 
 ### ECMAScript specification <a name="ecma-specification"></a> [&#x2191;](#toc)
 * [ECMAScript standard specifications](http://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
@@ -66,16 +66,16 @@
 
 ### JavaScript module system and loader <a name="loader"></a> [&#x2191;](#toc)
 * AMD:
-  - [curl.js](https://github.com/cujojs/curl) (outdated)
-  - [require.js](http://requirejs.org/)
-  - [SystemJS](https://github.com/systemjs/systemjs)
+    - [curl.js](https://github.com/cujojs/curl) (outdated)
+    - [require.js](http://requirejs.org/)
+    - [SystemJS](https://github.com/systemjs/systemjs)
 * CommonJS:
-  - [Cajon](https://github.com/requirejs/cajon)
-  - [Inject](http://www.injectjs.com/)
-  - [require1k](https://github.com/Stuk/require1k)
-  - [SystemJS](https://github.com/systemjs/systemjs)
+    - [Cajon](https://github.com/requirejs/cajon)
+    - [Inject](http://www.injectjs.com/)
+    - [require1k](https://github.com/Stuk/require1k)
+    - [SystemJS](https://github.com/systemjs/systemjs)
 * ECMAScript 6:
-  - [SystemJS](https://github.com/systemjs/systemjs)
+    - [SystemJS](https://github.com/systemjs/systemjs)
 
 ### Module and asset bundler <a name="bundler"></a> [&#x2191;](#toc)
 * [Browserify](http://browserify.org/)
@@ -134,14 +134,14 @@
 
 ### Linting / validation <a name="linting"></a> [&#x2191;](#toc)
 * CSS
-  - [CSSLint](https://github.com/CSSLint/csslint)
-  - [stylelint](http://stylelint.io/)
+    - [CSSLint](https://github.com/CSSLint/csslint)
+    - [stylelint](http://stylelint.io/)
 * HTML
-  - [HTML Inspector](https://github.com/philipwalton/html-inspector)
-  - [HTMLHint](http://htmlhint.com/)
+    - [HTML Inspector](https://github.com/philipwalton/html-inspector)
+    - [HTMLHint](http://htmlhint.com/)
 * JavaScript
-  - [JSHint](www.jshint.com)
-  - [ESLint](http://eslint.org/)
+    - [JSHint](www.jshint.com)
+    - [ESLint](http://eslint.org/)
 
 ### Task runner / build tool <a name="task-runner"></a> [&#x2191;](#toc)
 * [Brunch](http://brunch.io/)
@@ -149,14 +149,19 @@
 * [Gulp](http://gulpjs.com/)
 
 ### Development server <a name="dev-server"></a> [&#x2191;](#toc)
-* [Browsersync](https://www.browsersync.io/) - Keep multiple browsers & devices in sync when building websites.
-* [EasyMock Server](https://github.com/cyberagent/node-easymock)
-* [freddie](https://github.com/Scytl/freddie)
-* [http-server](https://github.com/indexzero/http-server) - a simple, zero-configuration command-line http server.
-* [Puer](https://github.com/leeluolee/puer) - more than a live-reload server , built for efficient frontend development.
-* [servedir](https://github.com/evanw/servedir) - a simple Node web server for offline development and testing: running servedir from a directory will create a quick local web server.
-* [server-with-benefits](https://github.com/galbi101/server-with-benefits) - A static Node.js file web server with options for proxing requests and delaying/mocking responses.
-* [Superstatic (with proxy)](https://github.com/colinbate/superstatic-with-proxy)
+* Node.js-based
+    - [Browsersync](https://www.browsersync.io/) - Keep multiple browsers & devices in sync when building websites.
+    - [EasyMock Server](https://github.com/cyberagent/node-easymock)
+    - [freddie](https://github.com/Scytl/freddie)
+    - [http-server](https://github.com/indexzero/http-server) - a simple, zero-configuration command-line http server.
+    - [Puer](https://github.com/leeluolee/puer) - more than a live-reload server , built for efficient frontend development.
+    - [servedir](https://github.com/evanw/servedir) - a simple Node web server for offline development and testing: running servedir from a directory will create a quick local web server.
+    - [server-with-benefits](https://github.com/galbi101/server-with-benefits) - A static Node.js file web server with options for proxing requests and delaying/mocking responses.
+    - [Superstatic (with proxy)](https://github.com/colinbate/superstatic-with-proxy)
+* With PHP support
+    - [AppServ](http://www.appservnetwork.com) - a full-featured of Apache, MySQL, PHP, phpMyAdmin.
+    - [Devserver](http://www.easyphp.org) - a complete and ready-to-use development environment. Devserver is portable, modular, fully configurable and easy to update and extend.
+    - [XAMPP](https://www.apachefriends.org) - a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl.
 
 ### Browser extension <a name="browser-extension"></a> [&#x2191;](#toc)
 * Chrome
