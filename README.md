@@ -3,7 +3,7 @@
 #### Table of contents <a name="toc"></a>
 * [Tools catalog / search / discovery service](#tool-search)
 * [ECMAScript specification](#ecma-specification)
-* [JavaScript variant](#js-variant)
+* [JavaScript variant, compiler, transpiler](#js-variant)
 * [JavaScript framework](#js-framework)
 * [JavaScript UI (view) library / framework](#js-ui-library)
 * [React-based UI (components) library](#react-ui-library)
@@ -20,7 +20,7 @@
 * [Benchmark](#benchmark)
 * [Useful articles & resources](#resources)
 
-### Tools catalog / search / discovery service <a name="tool-search"></a> [&#x2191;](#toc)
+### Tools catalog / search / discovery service <a name="tool-search"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [awesome](https://awesome.re/) - A curated list of awesome lists.
 * [JavaScripting](http://www.javascripting.com/) - The definitive source of the best JavaScript libraries, frameworks, and plugins.
 * [JavaScriptOO](http://www.javascriptoo.com/) - Every javascript project you should be looking into with examples, categories, install commands, CDN links, project and author stats, and more.
@@ -30,22 +30,23 @@
 * [npms](https://npms.io/) - A better and open source search for node modules.
 * [npmsearch](http://npmsearch.com/) - Search for node packages on the npm registry.
 
-### ECMAScript specification <a name="ecma-specification"></a> [&#x2191;](#toc)
+### ECMAScript specification <a name="ecma-specification"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [ECMAScript standard specifications](http://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
 * [Version 3 (PDF)](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%203rd%20edition,%20December%201999.pdf)
 * Version 5.1: [HTML](http://www.ecma-international.org/ecma-262/5.1/index.html) | [PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%205.1%20edition%20June%202011.pdf)
 * Version 6 / 2015: [HTML](http://www.ecma-international.org/ecma-262/6.0/index.html) | [PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%206th%20edition%20June%202015.pdf)
 
-### JavaScript variant <a name="js-variant"></a> [&#x2191;](#toc)
-* [TypeScript](http://www.typescriptlang.org/)
+### JavaScript variant, compiler, transpiler <a name="js-variant"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Babel](http://babeljs.io/) - a JavaScript compiler.
+* [TypeScript](http://www.typescriptlang.org/) - a typed superset of JavaScript that compiles to plain JavaScript.
 
-### JavaScript framework <a name="js-framework"></a> [&#x2191;](#toc)
+### JavaScript framework <a name="js-framework"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Angular 2](https://angular.io/)
 * [Aurelia](http://aurelia.io/)
 * [choo](https://github.com/yoshuawuyts/choo) - framework for creating sturdy frontend applications.
 * [Ember](http://emberjs.com/)
 
-### JavaScript UI (view) library / framework <a name="js-ui-library"></a> [&#x2191;](#toc)
+### JavaScript UI (view) library / framework <a name="js-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Inferno](http://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 * [Marko Widgets](http://markojs.com/) - a UI component building library that utilizes Marko templates as the view. It offers advanced features like DOM diffing/patching, batched updates, stateful widgets, declarative event binding and efficient event delegation.
 * [Monkberry](http://monkberry.js.org/) - blazingly fast, small and simple JavaScript library for building web user interfaces.
@@ -54,7 +55,7 @@
 * [Riot](http://riotjs.com/) - A React-like user interface micro-library.
 * [Vue.js](http://vuejs.org/) - Simple yet powerful library for building modern web interfaces.
 
-### React-based UI (components) library <a name="react-ui-library"></a> [&#x2191;](#toc)
+### React-based UI (components) library <a name="react-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Elemental UI](http://elemental-ui.com/) - A UI Toolkit for React.js Websites and Apps.
 * [Essence](http://getessence.io) - The Essential Material Design Framework.
 * [Grommet](http://grommet.github.io/) - The most advanced UX framework for enterprise applications.
@@ -64,7 +65,7 @@
 * [React Toolbox](http://react-toolbox.com) - A set of React components that implement Google's Material Design specification.
 * [Rebass](http://jxnblk.com/rebass/) - Configurable React Stateless Functional UI Components.
 
-### JavaScript module system and loader <a name="loader"></a> [&#x2191;](#toc)
+### JavaScript module system and loader <a name="loader"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * AMD:
     - [curl.js](https://github.com/cujojs/curl) (outdated)
     - [require.js](http://requirejs.org/)
@@ -77,20 +78,20 @@
 * ECMAScript 6:
     - [SystemJS](https://github.com/systemjs/systemjs)
 
-### Module and asset bundler <a name="bundler"></a> [&#x2191;](#toc)
+### Module and asset bundler <a name="bundler"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Browserify](http://browserify.org/)
 * [gluejs](http://mixu.net/gluejs/)
 * [Rollup](http://rollupjs.org/)
 * [SystemJS Builder](https://github.com/systemjs/builder) 
 * [webpack](http://webpack.github.io/)
 
-### Package manager <a name="package-manager"></a> [&#x2191;](#toc)
+### Package manager <a name="package-manager"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Bower](https://bower.io/)
 * [Duo](http://duojs.org/)
 * [jspm](http://jspm.io/)
 * [npm](https://www.npmjs.com/)
 
-### Front-end / CSS framework <a name="frontend-framework"></a> [&#x2191;](#toc)
+### Front-end / CSS framework <a name="frontend-framework"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Blaze](http://blazecss.com/)
 * [Bootflat](http://bootflat.github.io/) (Bootstrap-based)
 * [Bootstrap](http://getbootstrap.com/)
@@ -114,14 +115,14 @@
 * [Turret](http://turretcss.com/) - a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 
-### CSS processor <a name="css-processor"></a> [&#x2191;](#toc)
+### CSS processor <a name="css-processor"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [EQCSS](http://elementqueries.com/) - A CSS Extension for Element Queries & More.
 * [Less](http://lesscss.org/)
 * [PostCSS](http://postcss.org/) - A tool for transforming CSS with JavaScript.
 * [Sass](http://sass-lang.com/)
 * [Stylus](http://stylus-lang.com/)
 
-### Testing <a name="testing"></a> [&#x2191;](#toc)
+### Testing <a name="testing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [AVA](https://github.com/avajs/ava)
 * [Intern](http://theintern.github.io/)
 * [Jasmine](http://jasmine.github.io/)
@@ -132,7 +133,7 @@
 * [tape](https://github.com/substack/tape)
 * [Testem](https://github.com/testem/testem)
 
-### Linting / validation <a name="linting"></a> [&#x2191;](#toc)
+### Linting / validation <a name="linting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * CSS
     - [CSSLint](https://github.com/CSSLint/csslint)
     - [stylelint](http://stylelint.io/)
@@ -143,13 +144,13 @@
     - [JSHint](www.jshint.com)
     - [ESLint](http://eslint.org/)
 
-### Task runner / build tool <a name="task-runner"></a> [&#x2191;](#toc)
+### Task runner / build tool <a name="task-runner"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Brunch](http://brunch.io/)
 * [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
 
-### Development server <a name="dev-server"></a> [&#x2191;](#toc)
-* Node.js-based
+### Development server <a name="dev-server"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* Node.js-based [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [Browsersync](https://www.browsersync.io/) - Keep multiple browsers & devices in sync when building websites.
     - [EasyMock Server](https://github.com/cyberagent/node-easymock)
     - [freddie](https://github.com/Scytl/freddie)
@@ -158,7 +159,7 @@
     - [servedir](https://github.com/evanw/servedir) - a simple Node web server for offline development and testing: running servedir from a directory will create a quick local web server.
     - [server-with-benefits](https://github.com/galbi101/server-with-benefits) - A static Node.js file web server with options for proxing requests and delaying/mocking responses.
     - [Superstatic (with proxy)](https://github.com/colinbate/superstatic-with-proxy)
-* With PHP support
+* With PHP support [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [AppServ](http://www.appservnetwork.com) - a full-featured of Apache, MySQL, PHP, phpMyAdmin.
     - [Devserver](http://www.easyphp.org) - a complete and ready-to-use development environment. Devserver is portable, modular, fully configurable and easy to update and extend.
     - [Uniform Server](http://www.uniformserver.com/) - a lightweight server solution for running a web server under the WindowsOS.
@@ -169,15 +170,15 @@
     - [WTServer](http://wtserver.wtriple.com/) - a portable, preconfigured, lightweight, fast and stable server stack for developing php mysql applications on windows, based on the excellent webserver Nginx.
     - [XAMPP](https://www.apachefriends.org) - a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl.
 
-### Browser extension <a name="browser-extension"></a> [&#x2191;](#toc)
+### Browser extension <a name="browser-extension"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Chrome
   - [25 Essential Chrome Extensions for Web Designers](https://envato.com/blog/chrome-extensions-web-design/)
 
-### Benchmark <a name="benchmark"></a> [&#x2191;](#toc)
+### Benchmark <a name="benchmark"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [JS web frameworks benchmark – Round 3](http://www.stefankrause.net/wp/?p=301)
 * [UI Benchmark](https://localvoid.github.io/uibench/)
 
-### Useful articles & resources <a name="resources"></a> [&#x2191;](#toc)
+### Useful articles & resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/) - demonstrates that small modules can have a surprisingly high performance cost depending on your choice of bundler and module system.
 * [The cost of transpiling es2015 in 2016](https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016)
 * [What Do the Popular JavaScript Tools Depend On?](http://developer.telerik.com/featured/popular-javascript-tools-depend/)
