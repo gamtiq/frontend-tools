@@ -16,6 +16,8 @@
 * [Linting / validation](#linting)
 * [Task runner / build tool](#task-runner)
 * [Development server](#dev-server)
+    - [Node.js-based](#dev-server-node)
+    - [With PHP support](#dev-server-php)
 * [Browser extension](#browser-extension)
 * [Benchmark](#benchmark)
 * [Useful articles & resources](#resources)
@@ -41,10 +43,11 @@
 * [TypeScript](http://www.typescriptlang.org/) - a typed superset of JavaScript that compiles to plain JavaScript.
 
 ### JavaScript framework <a name="js-framework"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [Angular 2](https://angular.io/)
-* [Aurelia](http://aurelia.io/)
+* [Angular 2](https://angular.io/) - a development platform for building mobile and desktop web applications.
+* [Aurelia](http://aurelia.io/) - a JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity.
 * [choo](https://github.com/yoshuawuyts/choo) - framework for creating sturdy frontend applications.
-* [Ember](http://emberjs.com/)
+* [Ember](http://emberjs.com/) - a framework for creating ambitious web applications.
+
 
 ### JavaScript UI (view) library / framework <a name="js-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Inferno](http://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces.
@@ -150,7 +153,7 @@
 * [Gulp](http://gulpjs.com/)
 
 ### Development server <a name="dev-server"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* Node.js-based [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* Node.js-based <a name="dev-server-node"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [Browsersync](https://www.browsersync.io/) - Keep multiple browsers & devices in sync when building websites.
     - [EasyMock Server](https://github.com/cyberagent/node-easymock)
     - [freddie](https://github.com/Scytl/freddie)
@@ -159,7 +162,7 @@
     - [servedir](https://github.com/evanw/servedir) - a simple Node web server for offline development and testing: running servedir from a directory will create a quick local web server.
     - [server-with-benefits](https://github.com/galbi101/server-with-benefits) - A static Node.js file web server with options for proxing requests and delaying/mocking responses.
     - [Superstatic (with proxy)](https://github.com/colinbate/superstatic-with-proxy)
-* With PHP support [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* With PHP support <a name="dev-server-php"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [AppServ](http://www.appservnetwork.com) - a full-featured of Apache, MySQL, PHP, phpMyAdmin.
     - [Devserver](http://www.easyphp.org) - a complete and ready-to-use development environment. Devserver is portable, modular, fully configurable and easy to update and extend.
     - [Uniform Server](http://www.uniformserver.com/) - a lightweight server solution for running a web server under the WindowsOS.
