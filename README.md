@@ -7,6 +7,7 @@
 * [JavaScript framework](#js-framework)
 * [JavaScript UI (view) library / framework](#js-ui-library)
 * [React-based UI (components) library](#react-ui-library)
+* [Data / model / state management library](#state-management)
 * [JavaScript module system and loader](#loader)
 * [Module and asset bundler](#bundler)
 * [Package manager](#package-manager)
@@ -48,7 +49,6 @@
 * [choo](https://github.com/yoshuawuyts/choo) - framework for creating sturdy frontend applications.
 * [Ember](http://emberjs.com/) - a framework for creating ambitious web applications.
 
-
 ### JavaScript UI (view) library / framework <a name="js-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Inferno](http://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 * [Marko Widgets](http://markojs.com/) - a UI component building library that utilizes Marko templates as the view. It offers advanced features like DOM diffing/patching, batched updates, stateful widgets, declarative event binding and efficient event delegation.
@@ -67,6 +67,15 @@
 * [React-MDL](https://tleunen.github.io/react-mdl/) - A set of React components build on top of Material Design Lite.
 * [React Toolbox](http://react-toolbox.com) - A set of React components that implement Google's Material Design specification.
 * [Rebass](http://jxnblk.com/rebass/) - Configurable React Stateless Functional UI Components.
+
+### Data / model / state management library <a name="state-management"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Breeze](http://www.getbreezenow.com/breezejs) - the data management library for developers of rich client applications written in JavaScript. If you store data in a database, query and save those data as complex object graphs, and share these graphs across multiple screens of your JavaScript client, Breeze is for you.
+* [Cerebral](http://www.cerebraljs.com/) - a state controller with its own debugger.
+* [JSData](http://www.js-data.io/) - Inspired by Ember Data, JSData is the model layer you've been craving. It consists of a convenient framework-agnostic, in-memory store for managing your data, which uses adapters to communicate with various persistence layers.
+* [MobX](https://mobxjs.github.io/mobx/) - a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming.
+* [NuclearJS](https://optimizely.github.io/nuclear-js/) - reactive Flux built with ImmutableJS data structures.
+* [Redux](http://redux.js.org/) - a predictable state container for JavaScript apps.
+* [Transis](https://github.com/centro/transis) - a JavaScript data modeling library useful for creating rich client-side experiences.
 
 ### JavaScript module system and loader <a name="loader"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * AMD:
