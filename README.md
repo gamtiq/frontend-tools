@@ -8,6 +8,7 @@
 * [JavaScript UI (view) library / framework](#js-ui-library)
 * [React-based UI (components) library](#react-ui-library)
 * [Data / model / state management library](#state-management)
+* [Database](#database)
 * [JavaScript module system and loader](#loader)
 * [Module and asset bundler](#bundler)
 * [Package manager](#package-manager)
@@ -76,6 +77,12 @@
 * [NuclearJS](https://optimizely.github.io/nuclear-js/) - reactive Flux built with ImmutableJS data structures.
 * [Redux](http://redux.js.org/) - a predictable state container for JavaScript apps.
 * [Transis](https://github.com/centro/transis) - a JavaScript data modeling library useful for creating rich client-side experiences.
+
+### Database <a name="database"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [DataScript](https://github.com/tonsky/datascript) - immutable database and Datalog query engine for Clojure, ClojureScript and JS.
+* [ForerunnerDB](http://www.forerunnerdb.com) - a NoSQL JavaScript JSON database with a query language based on MongoDB (with some differences) and runs on browsers and Node.js.
+* [LokiJS](http://lokijs.org) - a fast, in-memory document-oriented datastore for node.js, browser and cordova.
+* [Lowdb](https://github.com/typicode/lowdb) - a small local database for small projects (powered by lodash API).
 
 ### JavaScript module system and loader <a name="loader"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * AMD:
