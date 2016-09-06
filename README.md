@@ -105,10 +105,10 @@
 * [webpack](http://webpack.github.io/)
 
 ### Package manager <a name="package-manager"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [Bower](https://bower.io/)
-* [Duo](http://duojs.org/)
-* [jspm](http://jspm.io/)
-* [npm](https://www.npmjs.com/)
+* [Bower](https://bower.io/) - a package manager for the web.
+* [Duo](http://duojs.org/) - a next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
+* [jspm](http://jspm.io/) - registry and format agnostic JavaScript package manager for the SystemJS universal module loader.
+* [npm](https://www.npmjs.com/) - a package manager for JavaScript.
 
 ### Front-end / CSS framework <a name="frontend-framework"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Blaze](http://blazecss.com/)
