@@ -20,6 +20,7 @@
 * [Development server](#dev-server)
     - [Node.js-based](#dev-server-node)
     - [With PHP support](#dev-server-php)
+* [Emulator, simulator](#emulator)
 * [Browser extension](#browser-extension)
 * [Benchmark](#benchmark)
 * [Useful articles & resources](#resources)
@@ -192,6 +193,10 @@
     - [WPИ-XM](http://wpn-xm.org/) - a free and open-source web server solution stack for professional PHP development on Windows.
     - [WTServer](http://wtserver.wtriple.com/) - a portable, preconfigured, lightweight, fast and stable server stack for developing php mysql applications on windows, based on the excellent webserver Nginx.
     - [XAMPP](https://www.apachefriends.org) - a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl.
+
+### Emulator, simulator <a name="emulator"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Responsinator](https://www.responsinator.com/) - helps website makers quickly get an indication of how their responsive site will look on the most popular devices.
+* [Screenfly](http://quirktools.com/screenfly/) - allows you to view your website on a variety of device screens and resolutions.
 
 ### Browser extension <a name="browser-extension"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Chrome
