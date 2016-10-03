@@ -211,6 +211,7 @@
 
 ### Benchmark <a name="benchmark"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [JS web frameworks benchmark – Round 3](http://www.stefankrause.net/wp/?p=301)
+* [JS web frameworks benchmark – Round 4](http://www.stefankrause.net/wp/?p=316)
 * [UI Benchmark](https://localvoid.github.io/uibench/)
 
 ### Useful articles & resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
