@@ -106,6 +106,7 @@
 ### Module and asset bundler <a name="bundler"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Browserify](http://browserify.org/)
 * [gluejs](http://mixu.net/gluejs/)
+* [Lasso.js](https://github.com/lasso-js/lasso) - JavaScript module bundler that also provides first-level support for optimally delivering JavaScript, CSS, images and other assets to the browser. Offers many different optimizations such as a bundling, code splitting, lazy loading, conditional dependencies, compression and fingerprinted resource URLs.
 * [Rollup](http://rollupjs.org/)
 * [SystemJS Builder](https://github.com/systemjs/builder) 
 * [webpack](http://webpack.github.io/)
