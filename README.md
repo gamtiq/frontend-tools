@@ -28,11 +28,13 @@
 
 ### Tools catalog / search / discovery service <a name="tool-search"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [awesome](https://awesome.re/) - A curated list of awesome lists.
+* [iReact](http://ireact.cn/) - Helps you discover the most fantastic, powerful React Components and Libraries, and makes it easy for you to pick one that’ll work for you.
 * [JavaScripting](http://www.javascripting.com/) - The definitive source of the best JavaScript libraries, frameworks, and plugins.
 * [JavaScriptOO](http://www.javascriptoo.com/) - Every javascript project you should be looking into with examples, categories, install commands, CDN links, project and author stats, and more.
-* [JSter](http://jster.net/) - A catalog of frontend JavaScript libraries.
 * [jQuery Plugins](http://jquery-plugins.net/) - Categorized collection of jQuery plugins.
 * [JqueryScript.Net](http://www.jqueryscript.net/) - One of jQuery Plugin websites that provide web designers and developers with a simple way to preview and download a variety of Free jQuery Plugins.
+* [JSter](http://jster.net/) - A catalog of frontend JavaScript libraries.
+* [JS.coach](https://js.coach/) - An opinionated catalog of open source JS packages.
 * [Libraries.io](https://libraries.io/) - Helps developers find new open source libraries, modules and frameworks and keep track of ones they depend upon.
 * [MicroJS](http://microjs.com) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
 * [npms](https://npms.io/) - A better and open source search for node modules.
