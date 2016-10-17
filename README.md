@@ -72,7 +72,7 @@
 * [Grommet](http://grommet.github.io/) - The most advanced UX framework for enterprise applications.
 * [Material-UI](http://www.material-ui.com/) - A Set of React Components that Implement Google's Material Design.
 * [react-md](http://react-md.mlaursen.com/) - A set of React components and sass files for implementing Google's Material Design.
-* [React-MDL](https://tleunen.github.io/react-mdl/) - A set of React components build on top of Material Design Lite.
+* [React-MDL](https://react-mdl.github.io/react-mdl/) - A set of React components build on top of Material Design Lite.
 * [React Toolbox](http://react-toolbox.com) - A set of React components that implement Google's Material Design specification.
 * [Rebass](http://jxnblk.com/rebass/) - Configurable React Stateless Functional UI Components.
 
