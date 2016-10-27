@@ -121,6 +121,7 @@
 * [npm](https://www.npmjs.com/) - a package manager for JavaScript.
 
 ### Front-end / CSS framework <a name="frontend-framework"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Basscss](http://basscss.com/) - Low-Level CSS Toolkit, a lightweight collection of immutable utilities designed for speed, clarity, performance, and scalability.
 * [Blaze](http://blazecss.com/)
 * [Bootflat](http://bootflat.github.io/) (Bootstrap-based)
 * [Bootstrap](http://getbootstrap.com/)
