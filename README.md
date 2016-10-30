@@ -56,6 +56,7 @@
 * [Angular 2](https://angular.io/) - a development platform for building mobile and desktop web applications.
 * [Aurelia](http://aurelia.io/) - a JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity.
 * [choo](https://github.com/yoshuawuyts/choo) - framework for creating sturdy frontend applications.
+* [dva](https://github.com/dvajs/dva) - React and Redux based, lightweight and Elm-style framework.
 * [Ember](http://emberjs.com/) - a framework for creating ambitious web applications.
 
 ### JavaScript UI (view) library / framework <a name="js-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
