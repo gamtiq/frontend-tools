@@ -37,6 +37,7 @@
 * [JqueryScript.Net](http://www.jqueryscript.net/) - One of jQuery Plugin websites that provide web designers and developers with a simple way to preview and download a variety of Free jQuery Plugins.
 * [JSter](http://jster.net/) - A catalog of frontend JavaScript libraries.
 * [JS.coach](https://js.coach/) - An opinionated catalog of open source JS packages.
+* [LibHunt](https://www.libhunt.com/) -  Our goal is to help you find the software and libraries you need. All lists have been crafted by many experts from the relevant GitHub communities.
 * [Libraries.io](https://libraries.io/) - Helps developers find new open source libraries, modules and frameworks and keep track of ones they depend upon.
 * [MicroJS](http://microjs.com) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
 * [npms](https://npms.io/) - A better and open source search for node modules.
