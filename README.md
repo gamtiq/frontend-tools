@@ -149,6 +149,7 @@
     - [Basscss](http://basscss.com/) - Low-Level CSS Toolkit, a lightweight collection of immutable utilities designed for speed, clarity, performance, and scalability.
     - [Cutestrap](https://www.cutestrap.com/) - A sassy, opinionated CSS Framework. A tiny alternative to Bootstrap.
     - [Mobi.css](http://getmobicss.com/) - A lightweight, flexible css framework that focus on mobile.
+    - [Picnic CSS](http://picnicss.com/) - An invasive CSS library to get your style started.
     - [Pure](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
     - [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 
