@@ -154,6 +154,7 @@
     - [Picnic CSS](http://picnicss.com/) - An invasive CSS library to get your style started.
     - [Pure](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
     - [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
+    - [Wing](http://usewing.ml/) - A minimal, responsive CSS framework.
 
 ### CSS processor <a name="css-processor"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [EQCSS](http://elementqueries.com/) - A CSS Extension for Element Queries & More.
@@ -172,6 +173,7 @@
 * [Mocha](http://mochajs.org/)
 * [QUnit](http://qunitjs.com/)
 * [tape](https://github.com/substack/tape)
+* [TestCafe](http://devexpress.github.io/testcafe/) - a pure node.js end-to-end solution for testing web apps. It takes care of all the stages: starting browsers, running tests, gathering test results and generating reports.
 * [Testem](https://github.com/testem/testem)
 
 ### Linting / validation <a name="linting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
