@@ -42,6 +42,7 @@
 * [LibHunt](https://www.libhunt.com/) -  Our goal is to help you find the software and libraries you need. All lists have been crafted by many experts from the relevant GitHub communities.
 * [Libraries.io](https://libraries.io/) - Helps developers find new open source libraries, modules and frameworks and keep track of ones they depend upon.
 * [MicroJS](http://microjs.com) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
+* [NPMCompare](https://npmcompare.com/) - Search and compare npm packages.
 * [npms](https://npms.io/) - A better and open source search for node modules.
 * [npmsearch](http://npmsearch.com/) - Search for node packages on the npm registry.
 * [Unheap](http://www.unheap.com/) - A tidy repository of JavaScript plugins.
