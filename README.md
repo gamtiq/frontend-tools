@@ -9,6 +9,7 @@
 * [React-based UI (components) library](#react-ui-library)
 * [Data / model / state management library](#state-management)
 * [Database](#database)
+* [JavaScript utility library](#js-utility-library)
 * [JavaScript module system and loader](#loader)
 * [Module and asset bundler](#bundler)
 * [Package manager](#package-manager)
@@ -99,6 +100,14 @@
 * [LokiJS](http://lokijs.org) - a fast, in-memory document-oriented datastore for node.js, browser and cordova.
 * [Lowdb](https://github.com/typicode/lowdb) - a small local database for small projects (powered by lodash API).
 * [NeDB](https://github.com/louischatriot/nedb) - embedded persistent or in memory database for Node.js, nw.js, Electron and browsers, 100% JavaScript, no binary dependency.
+
+### JavaScript utility library <a name="js-utility-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [101](https://github.com/tjmehta/101) - a modern JS utility library.
+* [Lodash](https://lodash.com/) - a modern JavaScript utility library delivering modularity, performance & extras.
+* [Mout](http://moutjs.com/) - a collection of modular JavaScript utilities that can be used in the browser as AMD modules or on node.js.
+* [Sugar](https://sugarjs.com/) - a Javascript utility library for working with native objects.
+* [Underscore](http://underscorejs.org/) - a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
+
 
 ### JavaScript module system and loader <a name="loader"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * AMD:
