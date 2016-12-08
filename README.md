@@ -32,6 +32,7 @@
 
 ### Tools catalog / search / discovery service <a name="tool-search"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [awesome](https://awesome.re/) - A curated list of awesome lists.
+* [awesome-react-components](http://devarchy.com/react-components) - Catalog of React components / libraries.
 * [bestof.js.org](http://bestof.js.org/) - A place to find the best components to build amazing web applications.
 * [iReact](http://ireact.cn/) - Helps you discover the most fantastic, powerful React Components and Libraries, and makes it easy for you to pick one that’ll work for you.
 * [JavaScripting](http://www.javascripting.com/) - The definitive source of the best JavaScript libraries, frameworks, and plugins.
