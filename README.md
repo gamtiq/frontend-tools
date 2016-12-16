@@ -249,6 +249,7 @@
 * [Cloudnode](https://cloudno.de/) - a place to get your Javascript web applications up and running.
 * [Heroku](https://www.heroku.com/) - a cloud platform that lets companies build, deliver, monitor and scale apps.
 * [Microsoft Azure](https://azure.microsoft.com/en-us/services/app-service/) - quickly create powerful cloud apps for web and mobile clients.
+* [Modulus](https://modulus.io/) - application container platform. Deploy, scale, and monitor apps in the language of your choice.
 * [OpenShift](https://www.openshift.com/) - Red Hat's Platform-as-a-Service (PaaS) that allows developers to quickly develop, host, and scale applications in a cloud environment.
 * [Surge](http://surge.sh/) - static web publishing for front-end developers.
 
