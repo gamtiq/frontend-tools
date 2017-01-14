@@ -251,6 +251,7 @@
 * [UI Benchmark](https://localvoid.github.io/uibench/)
 
 ### Hosting, cloud services <a name="hosting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Appback](https://appback.com/) - provides a backend as a service (BaaS) for web and mobile applications.
 * [Cloudnode](https://cloudno.de/) - a place to get your Javascript web applications up and running.
 * [Heroku](https://www.heroku.com/) - a cloud platform that lets companies build, deliver, monitor and scale apps.
 * [Microsoft Azure](https://azure.microsoft.com/en-us/services/app-service/) - quickly create powerful cloud apps for web and mobile clients.
