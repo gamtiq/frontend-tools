@@ -70,6 +70,7 @@
 * [choo](https://github.com/yoshuawuyts/choo) - framework for creating sturdy frontend applications.
 * [dva](https://github.com/dvajs/dva) - React and Redux based, lightweight and Elm-style framework.
 * [Ember](http://emberjs.com/) - a framework for creating ambitious web applications.
+* [qooxdoo](http://www.qooxdoo.org/) - a universal JavaScript framework that enables you to create applications for a wide range of platforms.
 
 ### JavaScript UI (view) library / framework <a name="js-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Inferno](http://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces.
