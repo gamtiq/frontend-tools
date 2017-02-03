@@ -108,6 +108,7 @@
 * [LokiJS](http://lokijs.org) - a fast, in-memory document-oriented datastore for node.js, browser and cordova.
 * [Lowdb](https://github.com/typicode/lowdb) - a small local database for small projects (powered by lodash API).
 * [NeDB](https://github.com/louischatriot/nedb) - embedded persistent or in memory database for Node.js, nw.js, Electron and browsers, 100% JavaScript, no binary dependency.
+* [RxDB](https://github.com/pubkey/rxdb) - reactive, serverless, client-side, offline-first database.
 * [TingoDB](http://www.tingodb.com/) - an embedded JavaScript in-process filesystem or in-memory database upwards compatible with MongoDB at the API level.
 
 ### JavaScript utility library <a name="js-utility-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
