@@ -8,6 +8,7 @@
 * [JavaScript framework](#js-framework)
 * [JavaScript UI (view) library / framework](#js-ui-library)
 * [React-based UI (components) library](#react-ui-library)
+* [Vue-based UI (components) library](#vue-ui-library)
 * [Data / model / state management library](#state-management)
 * [Database](#database)
 * [JavaScript utility library](#js-utility-library)
@@ -92,6 +93,14 @@
 * [React-MDL](https://react-mdl.github.io/react-mdl/) - A set of React components build on top of Material Design Lite.
 * [React Toolbox](http://react-toolbox.com) - A set of React components that implement Google's Material Design specification.
 * [Rebass](http://jxnblk.com/rebass/) - Configurable React Stateless Functional UI Components.
+
+### Vue-based UI (components) library <a name="vue-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Element](http://element.eleme.io/) - a Vue.js 2.0 UI Toolkit for Web.
+* [Keen UI](https://josephuspaye.github.io/Keen-UI/) - a lightweight collection of essential UI components written with Vue.js and inspired by Material Design.
+* [Muse UI](https://museui.github.io/) - a Vue 2.0 and Material Design based UI component library.
+* [Quasar Framework](http://quasar-framework.org/) - build responsive websites, hybrid mobile Apps (that look native!) and Electron apps using same code, with VueJs 2.
+* [Vuetify.js](https://vuetifyjs.com/) - a component framework for Vue.js 2.
+* [Vue Material](https://vuematerial.github.io/) - lightweight framework built exactly according to the Material Design specs. It aims to deliver a collection of reusable components and a series of UI Elements to build applications with support to all modern Web Browsers through Vue 2.
 
 ### Data / model / state management library <a name="state-management"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Breeze](http://www.getbreezenow.com/breezejs) - the data management library for developers of rich client applications written in JavaScript. If you store data in a database, query and save those data as complex object graphs, and share these graphs across multiple screens of your JavaScript client, Breeze is for you.
