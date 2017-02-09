@@ -63,6 +63,7 @@
 
 ### JavaScript variant, compiler, transpiler <a name="js-variant"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Babel](http://babeljs.io/) - a JavaScript compiler.
+* [Bublé](https://buble.surge.sh/) - fast, batteries-included ES2015 compiler.
 * [TypeScript](http://www.typescriptlang.org/) - a typed superset of JavaScript that compiles to plain JavaScript.
 
 ### JavaScript framework <a name="js-framework"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
