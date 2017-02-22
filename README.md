@@ -82,6 +82,7 @@
 * [Preact](https://preactjs.com/) - Fast 3kb alternative to React with the same ES6 API.
 * [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces.
 * [Riot](http://riotjs.com/) - A React-like user interface micro-library.
+* [Svelte](https://svelte.technology/) - Rather than interpreting your application code at run time, your app is converted into ideal JavaScript at build time.
 * [Vue.js](http://vuejs.org/) - Simple yet powerful library for building modern web interfaces.
 
 ### React-based UI (components) library <a name="react-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
