@@ -50,6 +50,7 @@
 * [NPMCompare](https://npmcompare.com/) - Search and compare npm packages.
 * [npms](https://npms.io/) - A better and open source search for node modules.
 * [npmsearch](http://npmsearch.com/) - Search for node packages on the npm registry.
+* [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of addon libraries for Redux, as well as other libraries that are closely related.
 * [Unheap](http://www.unheap.com/) - A tidy repository of JavaScript plugins.
 
 ### ECMAScript specification <a name="ecma-specification"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
