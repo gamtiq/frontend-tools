@@ -30,6 +30,7 @@
 * [Browser extension](#browser-extension)
 * [Benchmark](#benchmark)
 * [Hosting, cloud services](#hosting)
+* [Books](#books)
 * [Useful articles & resources](#resources)
 
 ### Tools catalog / search / discovery service <a name="tool-search"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -277,6 +278,9 @@
 * [Modulus](https://modulus.io/) - application container platform. Deploy, scale, and monitor apps in the language of your choice.
 * [OpenShift](https://www.openshift.com/) - Red Hat's Platform-as-a-Service (PaaS) that allows developers to quickly develop, host, and scale applications in a cloud environment.
 * [Surge](http://surge.sh/) - static web publishing for front-end developers.
+
+### Books <a name="books"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Freely available programming books](https://github.com/vhf/free-programming-books) - list of free learning resources.
 
 ### Useful articles & resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/) - demonstrates that small modules can have a surprisingly high performance cost depending on your choice of bundler and module system.
