@@ -53,6 +53,7 @@
 * [npmsearch](http://npmsearch.com/) - Search for node packages on the npm registry.
 * [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of addon libraries for Redux, as well as other libraries that are closely related.
 * [Unheap](http://www.unheap.com/) - A tidy repository of JavaScript plugins.
+* [VueScript.com](http://www.vuescript.com/) - Aims to offer latest free Vue.js components for web application developers.
 
 ### ECMAScript specification <a name="ecma-specification"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [ECMAScript standard specifications](http://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
