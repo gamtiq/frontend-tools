@@ -52,6 +52,7 @@
 * [npms](https://npms.io/) - A better and open source search for node modules.
 * [npmsearch](http://npmsearch.com/) - Search for node packages on the npm registry.
 * [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of addon libraries for Redux, as well as other libraries that are closely related.
+* [StaticGen.com](https://www.staticgen.com/) - A leaderboard of top open-source static site generators.
 * [Unheap](http://www.unheap.com/) - A tidy repository of JavaScript plugins.
 * [VueScript.com](http://www.vuescript.com/) - Aims to offer latest free Vue.js components for web application developers.
 
