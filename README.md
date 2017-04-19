@@ -284,6 +284,7 @@
 
 ### Books <a name="books"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Freely available programming books](https://github.com/vhf/free-programming-books) - list of free learning resources.
+* [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/) - a guide that anyone could use to learn about the practice of front-end development.
 
 ### Useful articles & resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/) - demonstrates that small modules can have a surprisingly high performance cost depending on your choice of bundler and module system.
