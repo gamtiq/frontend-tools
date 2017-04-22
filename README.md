@@ -79,6 +79,7 @@
 * [dva](https://github.com/dvajs/dva) - React and Redux based, lightweight and Elm-style framework.
 * [Ember](http://emberjs.com/) - a framework for creating ambitious web applications.
 * [HyperApp](https://github.com/hyperapp/hyperapp) - a JavaScript library for building frontend applications.
+* [Mithril](https://mithril.js.org/) - a modern client-side Javascript framework for building Single Page Applications.
 * [qooxdoo](http://www.qooxdoo.org/) - a universal JavaScript framework that enables you to create applications for a wide range of platforms.
 
 ### JavaScript UI (view) library / framework <a name="js-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
