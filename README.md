@@ -95,6 +95,7 @@
 
 ### React-based UI (components) library <a name="react-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Ant Design](https://ant.design/docs/react/introduce) - An enterprise-class UI design language and React-based implementation.
+* [Blueprint](http://blueprintjs.com/) - A React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for desktop applications.
 * [Elemental UI](http://elemental-ui.com/) - A UI Toolkit for React.js Websites and Apps.
 * [Essence](http://getessence.io) - The Essential Material Design Framework.
 * [Grommet](http://grommet.github.io/) - The most advanced UX framework for enterprise applications.
