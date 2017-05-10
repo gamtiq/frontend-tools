@@ -279,6 +279,7 @@
 * [000webhost](https://www.000webhost.com/) & [hostinger.ru](https://www.hostinger.ru/) - zero cost website hosting with PHP, MySQL, Cpanel & no ads.
 * [5apps Deploy](https://5apps.com/deploy/) - a turn-key deployment and hosting platform for client-side web apps.
 * [Appback](https://appback.com/) - provides a backend as a service (BaaS) for web and mobile applications.
+* [Backendless](https://backendless.com/) - a leading mBaaS and powerful Mobile Application Development Platform that enables rapid development of feature-rich mobile, desktop and browser-based applications.
 * [Cloudnode](https://cloudno.de/) - a place to get your Javascript web applications up and running.
 * [Heroku](https://www.heroku.com/) - a cloud platform that lets companies build, deliver, monitor and scale apps.
 * [Microsoft Azure](https://azure.microsoft.com/en-us/services/app-service/) - quickly create powerful cloud apps for web and mobile clients.
