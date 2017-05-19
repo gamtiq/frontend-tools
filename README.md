@@ -37,6 +37,7 @@
 * [awesome](https://awesome.re/) - A curated list of awesome lists.
 * [awesome-react-components](http://devarchy.com/react-components) - Catalog of React components / libraries.
 * [bestof.js.org](http://bestof.js.org/) - A place to find the best components to build amazing web applications.
+* [CSS Script](http://www.cssscript.com/) - A Javascript & CSS code library aims to provide the newest, best and free CSS & javascript resources for web/mobile developers and designers.
 * [iReact](http://ireact.cn/) - Helps you discover the most fantastic, powerful React Components and Libraries, and makes it easy for you to pick one that’ll work for you.
 * [JavaScripting](http://www.javascripting.com/) - The definitive source of the best JavaScript libraries, frameworks, and plugins.
 * [JavaScriptOO](http://www.javascriptoo.com/) - Every javascript project you should be looking into with examples, categories, install commands, CDN links, project and author stats, and more.
@@ -269,6 +270,7 @@
 ### Browser extension <a name="browser-extension"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Chrome
   - [25 Essential Chrome Extensions for Web Designers](https://envato.com/blog/chrome-extensions-web-design/)
+  - [CSS Peeper](https://csspeeper.com/) - Smart CSS viewer tailored for Designers.
 
 ### Benchmark <a name="benchmark"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [JS web frameworks benchmark – Round 3](http://www.stefankrause.net/wp/?p=301)
