@@ -208,6 +208,7 @@
 ### Testing <a name="testing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [AVA](https://github.com/avajs/ava)
 * [BackstopJS](http://garris.github.io/BackstopJS/) - automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
+* [CodeceptJS](http://codecept.io/) - acceptance testing framework for NodeJS. CodeceptJS is a testing framework for end-to-end testing with WebDriver (or others). It abstracts browser interaction to simple steps which is written from a user perspective.
 * [Enzyme](https://github.com/airbnb/enzyme) - a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
 * [Intern](http://theintern.github.io/)
 * [Jasmine](http://jasmine.github.io/)
