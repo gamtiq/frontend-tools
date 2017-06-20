@@ -21,7 +21,7 @@
 * [Testing](#testing)
 * [Linting / validation](#linting)
 * [Documentation](#documentation)
-* [Task runner / build tool](#task-runner)
+* [Task runner / build tool / automation](#task-runner)
 * [Development server](#dev-server)
     - [Node.js-based](#dev-server-node)
     - [With PHP support](#dev-server-php)
@@ -235,10 +235,11 @@
 * [ESDoc](https://esdoc.org/) - A documentation generator for JavaScript (ES6).
 * [JSDoc](http://usejsdoc.org/) - An API documentation generator for JavaScript.
 
-### Task runner / build tool <a name="task-runner"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+### Task runner / build tool / automation <a name="task-runner"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Brunch](http://brunch.io/)
 * [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
+* [shx](https://github.com/shelljs/shx) - a wrapper around ShellJS Unix commands, providing an easy solution for simple Unix-like, cross-platform commands in npm package scripts.
 
 ### Development server <a name="dev-server"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Node.js-based <a name="dev-server-node"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
