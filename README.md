@@ -232,8 +232,11 @@
     - [ESLint](http://eslint.org/)
 
 ### Documentation <a name="documentation"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [documentation.js](http://documentation.js.org/) - The documentation system for modern JavaScript.
+* [Docute](https://docute.js.org/) - Effortlessly documentation done right.
 * [ESDoc](https://esdoc.org/) - A documentation generator for JavaScript (ES6).
 * [JSDoc](http://usejsdoc.org/) - An API documentation generator for JavaScript.
+* [YUIDoc](http://yui.github.io/yuidoc/) - A Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
 
 ### Task runner / build tool / automation <a name="task-runner"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Brunch](http://brunch.io/)
