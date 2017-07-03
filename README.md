@@ -108,6 +108,7 @@
 
 ### Vue-based UI (components) library <a name="vue-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Element](http://element.eleme.io/) - a Vue.js 2.0 UI Toolkit for Web.
+* [iView](https://www.iviewui.com/) - a high quality UI Toolkit built on Vue.js.
 * [Keen UI](https://josephuspaye.github.io/Keen-UI/) - a lightweight collection of essential UI components written with Vue.js and inspired by Material Design.
 * [Muse UI](https://museui.github.io/) - a Vue 2.0 and Material Design based UI component library.
 * [Quasar Framework](http://quasar-framework.org/) - build responsive websites, hybrid mobile Apps (that look native!) and Electron apps using same code, with VueJs 2.
