@@ -118,7 +118,8 @@
 ### Data / model / state management library <a name="state-management"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Breeze](http://www.getbreezenow.com/breezejs) - the data management library for developers of rich client applications written in JavaScript. If you store data in a database, query and save those data as complex object graphs, and share these graphs across multiple screens of your JavaScript client, Breeze is for you.
 * [Cerebral](http://www.cerebraljs.com/) - a state controller with its own debugger.
-* [JSData](http://www.js-data.io/) - Inspired by Ember Data, JSData is the model layer you've been craving. It consists of a convenient framework-agnostic, in-memory store for managing your data, which uses adapters to communicate with various persistence layers.
+* [freactal](https://github.com/FormidableLabs/freactal) - a composable state management library for React.
+* [JSData](http://www.js-data.io/) - inspired by Ember Data, JSData is the model layer you've been craving. It consists of a convenient framework-agnostic, in-memory store for managing your data, which uses adapters to communicate with various persistence layers.
 * [MobX](https://mobxjs.github.io/mobx/) - a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming.
 * [NuclearJS](https://optimizely.github.io/nuclear-js/) - reactive Flux built with ImmutableJS data structures.
 * [Redux](http://redux.js.org/) - a predictable state container for JavaScript apps.
@@ -193,6 +194,7 @@
 * Small CSS library / toolkit <a name="small-css-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [Basscss](http://basscss.com/) - Low-Level CSS Toolkit, a lightweight collection of immutable utilities designed for speed, clarity, performance, and scalability.
     - [Cutestrap](https://www.cutestrap.com/) - A sassy, opinionated CSS Framework. A tiny alternative to Bootstrap.
+    - [mini.css](http://minicss.org/) - A minimal, responsive, style-agnostic CSS framework.
     - [Mobi.css](http://getmobicss.com/) - A lightweight, flexible css framework that focus on mobile.
     - [Picnic CSS](http://picnicss.com/) - An invasive CSS library to get your style started.
     - [Pure](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
