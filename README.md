@@ -64,6 +64,8 @@
 * [Version 3 (PDF)](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%203rd%20edition,%20December%201999.pdf)
 * Version 5.1: [HTML](http://www.ecma-international.org/ecma-262/5.1/index.html) | [PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%205.1%20edition%20June%202011.pdf)
 * Version 6 / 2015: [HTML](http://www.ecma-international.org/ecma-262/6.0/index.html) | [PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%206th%20edition%20June%202015.pdf)
+* Version 8 / 2017: [HTML](https://www.ecma-international.org/ecma-262/8.0/index.html) | [PDF](https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
+* [TC39 Proposals](https://prop-tc39.now.sh/)
 * Support/compatibility <a name="es-support"></a>
     - [ECMAScript compatibility tables](https://kangax.github.io/compat-table/)
     - [node.green](http://node.green/) - Node.js ECMAScript compatibility tables.
