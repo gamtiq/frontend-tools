@@ -248,7 +248,11 @@
 * [Brunch](http://brunch.io/)
 * [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
+* [nps](https://github.com/kentcdodds/nps) - all the benefits of npm scripts without the cost of a bloated package.json and limits of json.
+* [scripty](https://github.com/testdouble/scripty) - a tool to help extract npm scripts into their own files.
 * [shx](https://github.com/shelljs/shx) - a wrapper around ShellJS Unix commands, providing an easy solution for simple Unix-like, cross-platform commands in npm package scripts.
+* [xclap](https://github.com/jchip/xclap) - an advanced and flexible JavaScript task executor and build tool.
+* [ygor](https://github.com/shannonmoeller/ygor) - JavaScript task runner for when `npm run` isn't enough and everything else is too much.
 
 ### Development server <a name="dev-server"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Node.js-based <a name="dev-server-node"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
