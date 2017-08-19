@@ -144,7 +144,6 @@
 * [Sugar](https://sugarjs.com/) - a Javascript utility library for working with native objects.
 * [Underscore](http://underscorejs.org/) - a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
 
-
 ### JavaScript module system and loader <a name="loader"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * AMD:
     - [curl.js](https://github.com/cujojs/curl) (outdated)
@@ -277,6 +276,7 @@
 
 ### Site generator <a name="site-generator"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [DocPad](http://docpad.org) - a dynamic static-site generator. That is a content management system that takes content from several sources, like files on your computer, and renders them into incredibly fast static output.
+* [Gatsby](https://www.gatsbyjs.org/) - blazing-fast static site generator for React.
 
 ### Emulator, simulator <a name="emulator"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Responsinator](https://www.responsinator.com/) - helps website makers quickly get an indication of how their responsive site will look on the most popular devices.
