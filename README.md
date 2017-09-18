@@ -91,6 +91,7 @@
 * [jComponent](https://jcomponent.org/) - A component library for creating reusable components with jQuery.
 * [Marko Widgets](http://markojs.com/) - A UI component building library that utilizes Marko templates as the view. It offers advanced features like DOM diffing/patching, batched updates, stateful widgets, declarative event binding and efficient event delegation.
 * [Monkberry](http://monkberry.js.org/) - Blazingly fast, small and simple JavaScript library for building web user interfaces.
+* [Moon](http://moonjs.ga/) - A minimal, blazing fast user interface library.
 * [Preact](https://preactjs.com/) - Fast 3kb alternative to React with the same ES6 API.
 * [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces.
 * [Riot](http://riotjs.com/) - A React-like user interface micro-library.
@@ -214,6 +215,7 @@
 * [AVA](https://github.com/avajs/ava)
 * [BackstopJS](http://garris.github.io/BackstopJS/) - automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
 * [CodeceptJS](http://codecept.io/) - acceptance testing framework for NodeJS. CodeceptJS is a testing framework for end-to-end testing with WebDriver (or others). It abstracts browser interaction to simple steps which is written from a user perspective.
+* [Cypress](https://www.cypress.io/) - a test engine that runs unit and integration tests in your browser.
 * [Enzyme](https://github.com/airbnb/enzyme) - a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
 * [Intern](http://theintern.github.io/)
 * [Jasmine](http://jasmine.github.io/)
@@ -221,6 +223,7 @@
 * [Karma](http://karma-runner.github.io/)
 * [Mocha](http://mochajs.org/)
 * [QUnit](http://qunitjs.com/)
+* [Sazerac](http://sazeracjs.com/) - data-driven testing for JavaScript. It helps you create simple, readable tests and works with Jasmine, Jest, and Mocha.
 * [tape](https://github.com/substack/tape)
 * [TestCafe](http://devexpress.github.io/testcafe/) - a pure node.js end-to-end solution for testing web apps. It takes care of all the stages: starting browsers, running tests, gathering test results and generating reports.
 * [Testem](https://github.com/testem/testem)
