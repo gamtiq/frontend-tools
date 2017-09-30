@@ -25,6 +25,7 @@
 * [Development server](#dev-server)
     - [Node.js-based](#dev-server-node)
     - [With PHP support](#dev-server-php)
+* [Playground](#playground)
 * [Site generator](#site-generator)
 * [Emulator, simulator](#emulator)
 * [Browser extension](#browser-extension)
@@ -276,6 +277,12 @@
     - [WPИ-XM](http://wpn-xm.org/) - a free and open-source web server solution stack for professional PHP development on Windows.
     - [WTServer](http://wtserver.wtriple.com/) - a portable, preconfigured, lightweight, fast and stable server stack for developing php mysql applications on windows, based on the excellent webserver Nginx.
     - [XAMPP](https://www.apachefriends.org) - a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl.
+
+### Playground <a name="playground"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [CodePen](https://codepen.io/) - a playground for the front end side of the web. It's a place to build and deploy a website, show off your work, build test cases, and find inspiration.
+* [JS Bin](https://jsbin.com/) - an open source collaborative web development debugging tool. Write code and have it both save in real-time, but also render a full preview in real-time.
+* [jsFiddle](https://jsfiddle.net/) - an online playground for your JavaScript, HTML, CSS.
+* [RunKit](https://runkit.com/) - a node playground in your browser.
 
 ### Site generator <a name="site-generator"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [DocPad](http://docpad.org) - a dynamic static-site generator. That is a content management system that takes content from several sources, like files on your computer, and renders them into incredibly fast static output.
