@@ -263,6 +263,7 @@
     - [EasyMock Server](https://github.com/cyberagent/node-easymock)
     - [freddie](https://github.com/Scytl/freddie)
     - [http-server](https://github.com/indexzero/http-server) - a simple, zero-configuration command-line http server.
+    - [JSON Server](https://github.com/typicode/json-server) - get a full fake REST API with zero coding.
     - [Puer](https://github.com/leeluolee/puer) - more than a live-reload server , built for efficient frontend development.
     - [servedir](https://github.com/evanw/servedir) - a simple Node web server for offline development and testing: running servedir from a directory will create a quick local web server.
     - [server-with-benefits](https://github.com/galbi101/server-with-benefits) - A static Node.js file web server with options for proxing requests and delaying/mocking responses.
