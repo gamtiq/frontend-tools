@@ -288,7 +288,8 @@
 * [Repl.it](https://repl.it/) - simple, reliable, and portable cloud coding interface. A community of teachers, students and engineers.
 * [RequireBin](http://requirebin.com/) - create programs in the browser using modules from NPM.
 * [RunKit](https://runkit.com/) - a node playground in your browser.
-* [Webpackbin](https://www.webpackbin.com/) - A service to share and teach code, using webpack to bundle the code.
+* [Storybook](https://storybook.js.org/) - a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.
+* [Webpackbin](https://www.webpackbin.com/) - a service to share and teach code, using webpack to bundle the code.
 
 ### Site generator <a name="site-generator"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [DocPad](http://docpad.org) - a dynamic static-site generator. That is a content management system that takes content from several sources, like files on your computer, and renders them into incredibly fast static output.
