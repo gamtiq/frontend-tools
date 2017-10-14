@@ -207,10 +207,10 @@
 
 ### CSS processor <a name="css-processor"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [EQCSS](http://elementqueries.com/) - A CSS Extension for Element Queries & More.
-* [Less](http://lesscss.org/)
+* [Less](http://lesscss.org/) - The dynamic stylesheet language.
 * [PostCSS](http://postcss.org/) - A tool for transforming CSS with JavaScript.
-* [Sass](http://sass-lang.com/)
-* [Stylus](http://stylus-lang.com/)
+* [Sass](http://sass-lang.com/) - An extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more. 
+* [Stylus](http://stylus-lang.com/) - Expressive, robust, feature-rich language, providing an efficient, dynamic, and expressive way to generate CSS. 
 
 ### Testing <a name="testing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [AVA](https://github.com/avajs/ava)
