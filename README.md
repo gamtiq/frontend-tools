@@ -326,6 +326,7 @@
 * [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/) - a guide that anyone could use to learn about the practice of front-end development.
 
 ### Useful articles & resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [120+ Places To Find Creative Commons Media](https://www.sitepoint.com/creative-commons-sources/) - resources to search for audio, video, images and more for use in a project.
 * [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/) - demonstrates that small modules can have a surprisingly high performance cost depending on your choice of bundler and module system.
 * [The cost of transpiling es2015 in 2016](https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016)
 * [What Do the Popular JavaScript Tools Depend On?](http://developer.telerik.com/featured/popular-javascript-tools-depend/)
