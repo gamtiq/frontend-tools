@@ -181,6 +181,7 @@
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox.
 * [Flat UI](http://designmodo.github.io/Flat-UI/) - a beautiful theme for Bootstrap.
 * [Foundation](http://foundation.zurb.com/)
+* [Froala Design Blocks](https://www.froala.com/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 * [GroundworkCSS](http://groundworkcss.github.io/)
 * [Ink](http://ink.sapo.pt/)
 * [inuitcss](https://github.com/inuitcss/getting-started)
@@ -230,6 +231,7 @@
 * [Testem](https://github.com/testem/testem)
 
 ### Linting / validation <a name="linting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [sonar](https://sonarwhal.com/) - a linting tool for the web.
 * CSS
     - [CSSLint](https://github.com/CSSLint/csslint)
     - [stylelint](http://stylelint.io/)
