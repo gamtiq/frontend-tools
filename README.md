@@ -193,6 +193,7 @@
 * [Polymer](http://www.polymer-project.org/)
 * [Semantic UI](http://semantic-ui.com/) - a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
 * [Spectre.css](https://picturepan2.github.io/spectre/) - a lightweight, responsive and modern CSS framework for faster and extensible development.
+* [Tailwind CSS](https://tailwindcss.com/) - a utility-first CSS framework for rapid UI development.
 * [Topcoat](http://topcoat.io/)
 * [Turret](http://turretcss.com/) - a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
