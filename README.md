@@ -2,8 +2,10 @@
 
 #### Table of contents <a name="toc"></a>
 * [Tools catalog / search / discovery service](#tool-search)
-* [ECMAScript specification](#ecma-specification)
+* [ECMAScript](#ecmascript)
+    - [Specification](#es-specification)
     - [Support/compatibility](#es-support)
+    - [Documentation, guide](#es-doc)
 * [JavaScript variant, compiler, transpiler](#js-variant)
 * [JavaScript framework](#js-framework)
 * [JavaScript UI (view) library / framework](#js-ui-library)
@@ -36,6 +38,7 @@
 * [Useful articles & resources](#resources)
 
 ### Tools catalog / search / discovery service <a name="tool-search"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [AlternativeTo](https://alternativeto.net/) - A free service that helps you find better alternatives to the products you love and hate.
 * [awesome](https://awesome.re/) - A curated list of awesome lists.
 * [awesome-react-components](http://devarchy.com/react-components) - Catalog of React components / libraries.
 * [bestof.js.org](http://bestof.js.org/) - A place to find the best components to build amazing web applications.
@@ -61,16 +64,20 @@
 * [VueScript.com](http://www.vuescript.com/) - Aims to offer latest free Vue.js components for web application developers.
 * [webcomponents.org](https://www.webcomponents.org/) - A place to publish, browse and search for reusable web UI components.
 
-### ECMAScript specification <a name="ecma-specification"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [ECMAScript standard specifications](http://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
-* [Version 3 (PDF)](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%203rd%20edition,%20December%201999.pdf)
-* Version 5.1: [HTML](http://www.ecma-international.org/ecma-262/5.1/index.html) | [PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%205.1%20edition%20June%202011.pdf)
-* Version 6 / 2015: [HTML](http://www.ecma-international.org/ecma-262/6.0/index.html) | [PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%206th%20edition%20June%202015.pdf)
-* Version 8 / 2017: [HTML](https://www.ecma-international.org/ecma-262/8.0/index.html) | [PDF](https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
-* [TC39 Proposals](https://prop-tc39.now.sh/)
+### ECMAScript <a name="ecmascript"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* Specification <a name="es-specification"></a>
+    - [ECMAScript standard specifications](http://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
+    - [Version 3 (PDF)](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%203rd%20edition,%20December%201999.pdf)
+    - Version 5.1: [HTML](http://www.ecma-international.org/ecma-262/5.1/index.html) | [PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%205.1%20edition%20June%202011.pdf)
+    - Version 6 / 2015: [HTML](http://www.ecma-international.org/ecma-262/6.0/index.html) | [PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%206th%20edition%20June%202015.pdf)
+    - Version 8 / 2017: [HTML](https://www.ecma-international.org/ecma-262/8.0/index.html) | [PDF](https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
+    - [TC39 Proposals](https://prop-tc39.now.sh/)
 * Support/compatibility <a name="es-support"></a>
     - [ECMAScript compatibility tables](https://kangax.github.io/compat-table/)
     - [node.green](http://node.green/) - Node.js ECMAScript compatibility tables.
+* Documentation, guide <a name="es-doc"></a>
+    - [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features.
+    - [Exploring JS](http://exploringjs.com/) - JavaScript books for programmers.
 
 ### JavaScript variant, compiler, transpiler <a name="js-variant"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Babel](http://babeljs.io/) - a JavaScript compiler.
