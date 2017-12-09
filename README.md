@@ -2,15 +2,15 @@
 
 #### Table of contents <a name="toc"></a>
 * [Tools catalog / search / discovery service](#tool-search)
-* [ECMAScript](#ecmascript)
+* [ECMAScript / JavaScript](#ecmascript)
     - [Specification](#es-specification)
-    - [Support/compatibility](#es-support)
+    - [Support / compatibility](#es-support)
     - [Documentation, guide](#es-doc)
-* [JavaScript variant, compiler, transpiler](#js-variant)
+* [JavaScript variant / compiler / transpiler](#js-variant)
 * [JavaScript framework](#js-framework)
 * [JavaScript UI (view) library / framework](#js-ui-library)
-* [React-based UI (components) library](#react-ui-library)
-* [Vue-based UI (components) library](#vue-ui-library)
+* [React-based library / framework / platform](#react-library)
+* [Vue-based library / framework](#vue-library)
 * [Data / model / state management library](#state-management)
 * [Database](#database)
 * [JavaScript utility library](#js-utility-library)
@@ -21,9 +21,9 @@
     - [Small CSS library / toolkit](#small-css-library)
 * [CSS processor](#css-processor)
 * [Testing](#testing)
-* [Linting / validation / checklist](#linting)
+* [Linting, validation, checklist](#linting)
 * [Documentation](#documentation)
-* [Task runner / build tool / automation](#task-runner)
+* [Task runner, build tool, automation](#task-runner)
 * [Development server](#dev-server)
     - [Node.js-based](#dev-server-node)
     - [With PHP support](#dev-server-php)
@@ -64,7 +64,7 @@
 * [VueScript.com](http://www.vuescript.com/) - Aims to offer latest free Vue.js components for web application developers.
 * [webcomponents.org](https://www.webcomponents.org/) - A place to publish, browse and search for reusable web UI components.
 
-### ECMAScript <a name="ecmascript"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+### ECMAScript / JavaScript <a name="ecmascript"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Specification <a name="es-specification"></a>
     - [ECMAScript standard specifications](http://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
     - [Version 3 (PDF)](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%203rd%20edition,%20December%201999.pdf)
@@ -72,14 +72,14 @@
     - Version 6 / 2015: [HTML](http://www.ecma-international.org/ecma-262/6.0/index.html) | [PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%206th%20edition%20June%202015.pdf)
     - Version 8 / 2017: [HTML](https://www.ecma-international.org/ecma-262/8.0/index.html) | [PDF](https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
     - [TC39 Proposals](https://prop-tc39.now.sh/)
-* Support/compatibility <a name="es-support"></a>
+* Support / compatibility <a name="es-support"></a>
     - [ECMAScript compatibility tables](https://kangax.github.io/compat-table/)
     - [node.green](http://node.green/) - Node.js ECMAScript compatibility tables.
 * Documentation, guide <a name="es-doc"></a>
     - [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features.
     - [Exploring JS](http://exploringjs.com/) - JavaScript books for programmers.
 
-### JavaScript variant, compiler, transpiler <a name="js-variant"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+### JavaScript variant / compiler / transpiler <a name="js-variant"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Babel](http://babeljs.io/) - a JavaScript compiler.
 * [Bublé](https://buble.surge.sh/) - fast, batteries-included ES2015 compiler.
 * [TypeScript](http://www.typescriptlang.org/) - a typed superset of JavaScript that compiles to plain JavaScript.
@@ -89,7 +89,6 @@
 * [Aurelia](http://aurelia.io/) - a JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity.
 * [choo](https://github.com/yoshuawuyts/choo) - framework for creating sturdy frontend applications.
 * [cyclow](http://cyclow.js.org) - a reactive frontend framework.
-* [dva](https://github.com/dvajs/dva) - React and Redux based, lightweight and Elm-style framework.
 * [Ember](http://emberjs.com/) - a framework for creating ambitious web applications.
 * [HyperApp](https://github.com/hyperapp/hyperapp) - a JavaScript library for building frontend applications.
 * [Mithril](https://mithril.js.org/) - a modern client-side Javascript framework for building Single Page Applications.
@@ -107,9 +106,11 @@
 * [Svelte](https://svelte.technology/) - Rather than interpreting your application code at run time, your app is converted into ideal JavaScript at build time.
 * [Vue.js](http://vuejs.org/) - Simple yet powerful library for building modern web interfaces.
 
-### React-based UI (components) library <a name="react-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+### React-based library / framework / platform <a name="react-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Ant Design](https://ant.design/docs/react/introduce) - An enterprise-class UI design language and React-based implementation.
 * [Blueprint](http://blueprintjs.com/) - A React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for desktop applications.
+* [dva](https://github.com/dvajs/dva) - React and Redux based, lightweight and Elm-style framework.
+* [Electrode](http://www.electrode.io/) - A platform for building universal React/Node.js applications with standardized structure, best practices, and modern technologies baked in.
 * [Elemental UI](http://elemental-ui.com/) - A UI Toolkit for React.js Websites and Apps.
 * [Essence](http://getessence.io) - The Essential Material Design Framework.
 * [Grommet](http://grommet.github.io/) - The most advanced UX framework for enterprise applications.
@@ -117,9 +118,10 @@
 * [react-md](http://react-md.mlaursen.com/) - A set of React components and sass files for implementing Google's Material Design.
 * [React-MDL](https://react-mdl.github.io/react-mdl/) - A set of React components build on top of Material Design Lite.
 * [React Toolbox](http://react-toolbox.com) - A set of React components that implement Google's Material Design specification.
+* [ReactXP](https://microsoft.github.io/reactxp/) - A library for cross-platform app development using React and React Native.
 * [Rebass](http://jxnblk.com/rebass/) - Configurable React Stateless Functional UI Components.
 
-### Vue-based UI (components) library <a name="vue-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+### Vue-based library / framework <a name="vue-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Element](http://element.eleme.io/) - a Vue.js 2.0 UI Toolkit for Web.
 * [iView](https://www.iviewui.com/) - a high quality UI Toolkit built on Vue.js.
 * [Keen UI](https://josephuspaye.github.io/Keen-UI/) - a lightweight collection of essential UI components written with Vue.js and inspired by Material Design.
@@ -168,13 +170,14 @@
     - [SystemJS](https://github.com/systemjs/systemjs)
 
 ### Module and asset bundler <a name="bundler"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [Browserify](http://browserify.org/)
+* [Browserify](http://browserify.org/) - lets you `require('modules')` in the browser by bundling up all of your dependencies.
 * [FuseBox](http://fuse-box.org/) - a bundler/module loader that combines the power of webpack, JSPM and SystemJS. It will compile and bundle your code within a fraction of a second, yet offering a comprehensive loader API.
-* [gluejs](http://mixu.net/gluejs/)
+* [gluejs](http://mixu.net/gluejs/) - package Node/CommonJS modules for the browser.
 * [Lasso.js](https://github.com/lasso-js/lasso) - JavaScript module bundler that also provides first-level support for optimally delivering JavaScript, CSS, images and other assets to the browser. Offers many different optimizations such as a bundling, code splitting, lazy loading, conditional dependencies, compression and fingerprinted resource URLs.
-* [Rollup](http://rollupjs.org/)
-* [SystemJS Builder](https://github.com/systemjs/builder) 
-* [webpack](http://webpack.github.io/)
+* [Parcel](https://parceljs.org/) - blazing fast, zero configuration web application bundler.
+* [Rollup](http://rollupjs.org/) - a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.
+* [SystemJS Builder](https://github.com/systemjs/builder) - provides a single-file build for SystemJS of mixed-dependency module trees.
+* [webpack](https://webpack.js.org/) - a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
 
 ### Package manager <a name="package-manager"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Bower](https://bower.io/) - a package manager for the web.
@@ -239,7 +242,7 @@
 * [TestCafe](http://devexpress.github.io/testcafe/) - a pure node.js end-to-end solution for testing web apps. It takes care of all the stages: starting browsers, running tests, gathering test results and generating reports.
 * [Testem](https://github.com/testem/testem)
 
-### Linting / validation / checklist <a name="linting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+### Linting, validation, checklist <a name="linting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Front-End Checklist](https://frontendchecklist.io/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
 * [sonar](https://sonarwhal.com/) - a linting tool for the web.
 * CSS
@@ -259,7 +262,7 @@
 * [JSDoc](http://usejsdoc.org/) - An API documentation generator for JavaScript.
 * [YUIDoc](http://yui.github.io/yuidoc/) - A Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
 
-### Task runner / build tool / automation <a name="task-runner"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+### Task runner, build tool, automation <a name="task-runner"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Brunch](http://brunch.io/)
 * [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
