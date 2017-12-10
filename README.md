@@ -21,6 +21,7 @@
     - [Small CSS library / toolkit](#small-css-library)
 * [CSS processor](#css-processor)
 * [Testing](#testing)
+* [Debug](#debug)
 * [Linting, validation, checklist](#linting)
 * [Documentation](#documentation)
 * [Task runner, build tool, automation](#task-runner)
@@ -241,6 +242,12 @@
 * [tape](https://github.com/substack/tape)
 * [TestCafe](http://devexpress.github.io/testcafe/) - a pure node.js end-to-end solution for testing web apps. It takes care of all the stages: starting browsers, running tests, gathering test results and generating reports.
 * [Testem](https://github.com/testem/testem)
+
+### Debug <a name="debug"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [stacktrace.js](https://www.stacktracejs.com/) - generate, parse, and enhance JavaScript stack traces in all web browsers.
+* [Vorlon.JS](http://www.vorlonjs.com/) - an open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript, powered by node.js and socket.io.
+* [weinre](https://people.apache.org/~pmuellr/weinre/docs/latest/) - a debugger for web pages, like FireBug (for FireFox) and Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
+* [Wireshark](https://www.wireshark.org/) - the world’s foremost and widely-used network protocol analyzer.
 
 ### Linting, validation, checklist <a name="linting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Front-End Checklist](https://frontendchecklist.io/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
