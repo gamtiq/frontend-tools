@@ -20,9 +20,9 @@
 * [Front-end / CSS framework](#frontend-framework)
     - [Small CSS library / toolkit](#small-css-library)
 * [CSS processor](#css-processor)
+* [Linting, validation, checklist](#linting)
 * [Testing](#testing)
 * [Debug](#debug)
-* [Linting, validation, checklist](#linting)
 * [Documentation](#documentation)
 * [Task runner, build tool, automation](#task-runner)
 * [Development server](#dev-server)
@@ -226,6 +226,19 @@
 * [Sass](http://sass-lang.com/) - An extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more. 
 * [Stylus](http://stylus-lang.com/) - Expressive, robust, feature-rich language, providing an efficient, dynamic, and expressive way to generate CSS. 
 
+### Linting, validation, checklist <a name="linting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Front-End Checklist](https://frontendchecklist.io/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+* [sonar](https://sonarwhal.com/) - a linting tool for the web.
+* CSS
+    - [CSSLint](https://github.com/CSSLint/csslint)
+    - [stylelint](http://stylelint.io/)
+* HTML
+    - [HTML Inspector](https://github.com/philipwalton/html-inspector)
+    - [HTMLHint](http://htmlhint.com/)
+* JavaScript
+    - [JSHint](www.jshint.com)
+    - [ESLint](http://eslint.org/)
+
 ### Testing <a name="testing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [AVA](https://github.com/avajs/ava)
 * [BackstopJS](http://garris.github.io/BackstopJS/) - automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
@@ -248,19 +261,6 @@
 * [Vorlon.JS](http://www.vorlonjs.com/) - an open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript, powered by node.js and socket.io.
 * [weinre](https://people.apache.org/~pmuellr/weinre/docs/latest/) - a debugger for web pages, like FireBug (for FireFox) and Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
 * [Wireshark](https://www.wireshark.org/) - the world’s foremost and widely-used network protocol analyzer.
-
-### Linting, validation, checklist <a name="linting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [Front-End Checklist](https://frontendchecklist.io/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
-* [sonar](https://sonarwhal.com/) - a linting tool for the web.
-* CSS
-    - [CSSLint](https://github.com/CSSLint/csslint)
-    - [stylelint](http://stylelint.io/)
-* HTML
-    - [HTML Inspector](https://github.com/philipwalton/html-inspector)
-    - [HTMLHint](http://htmlhint.com/)
-* JavaScript
-    - [JSHint](www.jshint.com)
-    - [ESLint](http://eslint.org/)
 
 ### Documentation <a name="documentation"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [documentation.js](http://documentation.js.org/) - The documentation system for modern JavaScript.
@@ -340,6 +340,8 @@
 * [Heroku](https://www.heroku.com/) - a cloud platform that lets companies build, deliver, monitor and scale apps.
 * [Microsoft Azure](https://azure.microsoft.com/en-us/services/app-service/) - quickly create powerful cloud apps for web and mobile clients.
 * [Modulus](https://modulus.io/) - application container platform. Deploy, scale, and monitor apps in the language of your choice.
+* [Netlify](https://www.netlify.com/) - builds, deploys, and hosts your front end.
+* [now](https://zeit.co/now) - allows you to take your JavaScript (Node.js) or Docker powered websites, applications and services to the cloud with ease, speed and reliability.
 * [OpenShift](https://www.openshift.com/) - Red Hat's Platform-as-a-Service (PaaS) that allows developers to quickly develop, host, and scale applications in a cloud environment.
 * [Surge](http://surge.sh/) - static web publishing for front-end developers.
 
