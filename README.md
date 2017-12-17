@@ -24,6 +24,7 @@
 * [Testing](#testing)
 * [Debug](#debug)
 * [Documentation](#documentation)
+* [Minification](#mini)
 * [Task runner, build tool, automation](#task-runner)
 * [Development server](#dev-server)
     - [Node.js-based](#dev-server-node)
@@ -269,6 +270,24 @@
 * [JSDoc](http://usejsdoc.org/) - An API documentation generator for JavaScript.
 * [YUIDoc](http://yui.github.io/yuidoc/) - A Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
 
+### Minification <a name="mini"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Minify](http://coderaiser.github.io/minify/) - a minifier of js, css, html and img files.
+* [Node-minify](https://github.com/srod/node-minify) - a light Node.js module that compress javascript and css files.
+* CSS
+    - [clean-css](https://github.com/jakubpawlowicz/clean-css) - a fast and efficient CSS optimizer for Node.js platform and any modern browser.
+    - [Crass](https://github.com/mattbasta/crass) - a CSS minification, pretty printing, and general utility library written in JS.
+    - [cssnano](https://github.com/ben-eb/cssnano) - a modern, modular compression tool written on top of the PostCSS ecosystem.
+    - [CSSO](https://github.com/css/csso) - a CSS minifier with structural optimizations.
+    - [CSSWring](https://github.com/hail2u/node-csswring) - a CSS minifier for PostCSS.
+* HTML
+    - [HTMLMinifier](https://github.com/kangax/html-minifier) - a highly configurable, well-tested, JavaScript-based HTML minifier.
+    - [Minimize](https://github.com/Swaagie/minimize) - a HTML minifier based on the node-htmlparser. Minimize is focussed on HTML5 and will not support older HTML drafts.
+* Images
+    - [SVGO](https://github.com/svg/svgo) - a Nodejs-based tool for optimizing SVG vector graphics files.
+* JavaScript
+    - [Babel-Minify](https://github.com/babel/minify) - an ES6+ aware minifier based on the Babel toolchain.
+    - [UglifyJS](https://github.com/mishoo/UglifyJS2) - a JavaScript parser, minifier, compressor and beautifier toolkit.
+
 ### Task runner, build tool, automation <a name="task-runner"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Brunch](http://brunch.io/)
 * [Grunt](http://gruntjs.com/)
@@ -327,6 +346,7 @@
   - [CSS Peeper](https://csspeeper.com/) - Smart CSS viewer tailored for Designers.
 
 ### Benchmark <a name="benchmark"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [CSS minification benchmark](http://goalsmashers.github.io/css-minification-benchmark/)
 * [JS web frameworks benchmark – Round 3](http://www.stefankrause.net/wp/?p=301)
 * [JS web frameworks benchmark – Round 4](http://www.stefankrause.net/wp/?p=316)
 * [UI Benchmark](https://localvoid.github.io/uibench/)
