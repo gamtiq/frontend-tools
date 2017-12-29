@@ -177,6 +177,7 @@
 * [FuseBox](http://fuse-box.org/) - a bundler/module loader that combines the power of webpack, JSPM and SystemJS. It will compile and bundle your code within a fraction of a second, yet offering a comprehensive loader API.
 * [gluejs](http://mixu.net/gluejs/) - package Node/CommonJS modules for the browser.
 * [Lasso.js](https://github.com/lasso-js/lasso) - JavaScript module bundler that also provides first-level support for optimally delivering JavaScript, CSS, images and other assets to the browser. Offers many different optimizations such as a bundling, code splitting, lazy loading, conditional dependencies, compression and fingerprinted resource URLs.
+* [Microbundle](https://github.com/developit/microbundle) - zero-configuration bundler for tiny modules.
 * [Parcel](https://parceljs.org/) - blazing fast, zero configuration web application bundler.
 * [Rollup](http://rollupjs.org/) - a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.
 * [SystemJS Builder](https://github.com/systemjs/builder) - provides a single-file build for SystemJS of mixed-dependency module trees.
