@@ -304,15 +304,16 @@
 
 ### Development server <a name="dev-server"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Node.js-based <a name="dev-server-node"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-    - [Browsersync](https://www.browsersync.io/) - Keep multiple browsers & devices in sync when building websites.
-    - [EasyMock Server](https://github.com/cyberagent/node-easymock)
-    - [freddie](https://github.com/Scytl/freddie)
+    - [Browsersync](https://www.browsersync.io/) - keep multiple browsers & devices in sync when building websites.
+    - [EasyMock Server](https://github.com/cyberagent/node-easymock) - a simple but powerful mock server.
+    - [freddie](https://github.com/Scytl/freddie) - front end development server.
     - [http-server](https://github.com/indexzero/http-server) - a simple, zero-configuration command-line http server.
     - [JSON Server](https://github.com/typicode/json-server) - get a full fake REST API with zero coding.
+    - [lite-server](https://github.com/johnpapa/lite-server) - lightweight development only node server that serves a web app. `lite-server` is a simple customized wrapper around BrowserSync to make it easy to serve SPAs.
     - [Puer](https://github.com/leeluolee/puer) - more than a live-reload server , built for efficient frontend development.
     - [servedir](https://github.com/evanw/servedir) - a simple Node web server for offline development and testing: running servedir from a directory will create a quick local web server.
-    - [server-with-benefits](https://github.com/galbi101/server-with-benefits) - A static Node.js file web server with options for proxing requests and delaying/mocking responses.
-    - [Superstatic (with proxy)](https://github.com/colinbate/superstatic-with-proxy)
+    - [server-with-benefits](https://github.com/galbi101/server-with-benefits) - a static Node.js file web server with options for proxing requests and delaying/mocking responses.
+    - [Superstatic (with proxy)](https://github.com/colinbate/superstatic-with-proxy) - an enhanced static web server that was built to power. This version adds in the `superstatic-proxy` by default.
 * With PHP support <a name="dev-server-php"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [AppServ](http://www.appservnetwork.com) - a full-featured of Apache, MySQL, PHP, phpMyAdmin.
     - [Devserver](http://www.easyphp.org) - a complete and ready-to-use development environment. Devserver is portable, modular, fully configurable and easy to update and extend.
