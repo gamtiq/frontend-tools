@@ -326,6 +326,7 @@
     - [XAMPP](https://www.apachefriends.org) - a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl.
 
 ### API <a name="api"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [APIs.guru](https://apis.guru/browse-apis/) - Wikipedia for WEB APIs.
 * [ProgrammableWeb API directory](https://www.programmableweb.com/apis/directory) - directory where developers can search for APIs to include in their next software development project.
 * [Public APIs](https://github.com/toddmotto/public-apis) - a collective list of free APIs for use in web development. 
 
