@@ -366,13 +366,18 @@
 * [5apps Deploy](https://5apps.com/deploy/) - a turn-key deployment and hosting platform for client-side web apps.
 * [Appback](https://appback.com/) - provides a backend as a service (BaaS) for web and mobile applications.
 * [Backendless](https://backendless.com/) - a leading mBaaS and powerful Mobile Application Development Platform that enables rapid development of feature-rich mobile, desktop and browser-based applications.
+* [Cloudant](https://www.ibm.com/cloud/cloudant) - a highly scalable and performant JSON database.
 * [Cloudnode](https://cloudno.de/) - a place to get your Javascript web applications up and running.
+* [Firebase](https://firebase.google.com/) - a cloud-hosted database. Data is synchronized in realtime to every connected client.
 * [Heroku](https://www.heroku.com/) - a cloud platform that lets companies build, deliver, monitor and scale apps.
+* [JSONbin](https://jsonbin.io/) - a free JSON storage and JSON hosting service.
 * [Microsoft Azure](https://azure.microsoft.com/en-us/services/app-service/) - quickly create powerful cloud apps for web and mobile clients.
 * [Modulus](https://modulus.io/) - application container platform. Deploy, scale, and monitor apps in the language of your choice.
+* [Myjson](http://myjson.com/) - a simple JSON store for use in your client side web and/or mobile applications.
 * [Netlify](https://www.netlify.com/) - builds, deploys, and hosts your front end.
 * [now](https://zeit.co/now) - allows you to take your JavaScript (Node.js) or Docker powered websites, applications and services to the cloud with ease, speed and reliability.
 * [OpenShift](https://www.openshift.com/) - Red Hat's Platform-as-a-Service (PaaS) that allows developers to quickly develop, host, and scale applications in a cloud environment.
+* [Pastebin](https://pastebin.com/) - a website where you can store any text online for easy sharing.
 * [Surge](http://surge.sh/) - static web publishing for front-end developers.
 
 ### Guide, reference, practices, recipes <a name="guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
