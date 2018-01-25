@@ -29,6 +29,7 @@
 * [Development server](#dev-server)
     - [Node.js-based](#dev-server-node)
     - [With PHP support](#dev-server-php)
+* [Node.js version management](#node-manage)
 * [API](#api)
 * [Playground, online development](#playground)
 * [Site generator](#site-generator)
@@ -324,6 +325,14 @@
     - [WPИ-XM](http://wpn-xm.org/) - a free and open-source web server solution stack for professional PHP development on Windows.
     - [WTServer](http://wtserver.wtriple.com/) - a portable, preconfigured, lightweight, fast and stable server stack for developing php mysql applications on windows, based on the excellent webserver Nginx.
     - [XAMPP](https://www.apachefriends.org) - a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl.
+
+### Node.js version management <a name="node-manage"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [n](https://github.com/tj/n) - interactively manage your Node.js versions.
+* [nodenv](https://github.com/nodenv/nodenv) - manage multiple NodeJS versions.
+* [Nodist](https://github.com/marcelklehr/nodist) - a node.js and npm version manager for the windows.
+* [nvm (Node Version Manager)](https://github.com/creationix/nvm) - simple bash script to manage multiple active node.js versions.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) - a node.js version management utility for Windows.
+* [nvs (Node Version Switcher)](https://github.com/jasongin/nvs) - a cross-platform utility for switching between different versions and forks of Node.js. NVS is itself written in node JavaScript.
 
 ### API <a name="api"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [APIs.guru](https://apis.guru/browse-apis/) - Wikipedia for WEB APIs.
