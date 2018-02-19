@@ -30,6 +30,7 @@
     - [Node.js-based](#dev-server-node)
     - [With PHP support](#dev-server-php)
 * [Node.js version management](#node-manage)
+* [Editor, IDE](#editor)
 * [API](#api)
 * [Playground, online development](#playground)
 * [Site generator](#site-generator)
@@ -333,6 +334,14 @@
 * [nvm (Node Version Manager)](https://github.com/creationix/nvm) - simple bash script to manage multiple active node.js versions.
 * [nvm-windows](https://github.com/coreybutler/nvm-windows) - a node.js version management utility for Windows.
 * [nvs (Node Version Switcher)](https://github.com/jasongin/nvs) - a cross-platform utility for switching between different versions and forks of Node.js. NVS is itself written in node JavaScript.
+
+### Editor, IDE <a name="editor"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Atom](https://atom.io/) - a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
+* [Brackets](http://brackets.io/) - with focused visual tools and preprocessor support, Brackets is a modern text editor that makes it easy to design in the browser. It's crafted from the ground up for web designers and front-end developers.
+* [Geany](https://www.geany.org/) - a small and lightweight Integrated Development Environment.
+* [Notepad++](https://notepad-plus-plus.org/) - a free source code editor and Notepad replacement that supports several languages.
+* [PSPad](https://www.pspad.com/) - text editor for developers for Microsoft Windows systems.
+* [Visual Studio Code](https://code.visualstudio.com/) - a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
 
 ### API <a name="api"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [APIs.guru](https://apis.guru/browse-apis/) - Wikipedia for WEB APIs.
