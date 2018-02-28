@@ -400,7 +400,10 @@
 
 ### Guide, reference, practices, recipes <a name="guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [30 seconds of code](https://30secondsofcode.org/) - curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+* [Front-end Job Interview Questions](https://h5bp.github.io/Front-end-Developer-Interview-Questions/) - a list of helpful front-end related questions you can use to interview potential candidates or test yourself.
 * [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) - a summary and curation of the top-ranked content on Node JS best practices.
+* [Project Guidelines](https://github.com/wearehive/project-guidelines) - a list of guidelines that works really well with most JavaScript projects.
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - carefully curated content to help you ace your next technical interview, with a focus on algorithms.
 
 ### Books <a name="books"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Freely available programming books](https://github.com/vhf/free-programming-books) - list of free learning resources.
