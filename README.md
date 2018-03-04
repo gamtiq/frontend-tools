@@ -1,7 +1,7 @@
 # Front-end development tools (mostly)
 
 #### Table of contents <a name="toc"></a>
-* [Tools catalog / search / discovery service](#tool-search)
+* [Tools catalog / search / discovery / comparison service](#tool-search)
 * [ECMAScript / JavaScript](#ecmascript)
     - [Specification](#es-specification)
     - [Support / compatibility](#es-support)
@@ -42,7 +42,7 @@
 * [Books](#books)
 * [Useful articles & resources](#resources)
 
-### Tools catalog / search / discovery service <a name="tool-search"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+### Tools catalog / search / discovery / comparison service <a name="tool-search"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [AlternativeTo](https://alternativeto.net/) - A free service that helps you find better alternatives to the products you love and hate.
 * [awesome](https://awesome.re/) - A curated list of awesome lists.
 * [awesome-react-components](http://devarchy.com/react-components) - Catalog of React components / libraries.
@@ -62,6 +62,7 @@
 * [NPMCompare](https://npmcompare.com/) - Search and compare npm packages.
 * [npms](https://npms.io/) - A better and open source search for node modules.
 * [npmsearch](http://npmsearch.com/) - Search for node packages on the npm registry.
+* [npm trends](http://www.npmtrends.com/) - Compare package download counts over time.
 * [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of addon libraries for Redux, as well as other libraries that are closely related.
 * [StackShare](https://stackshare.io/) - Discover & discuss the best software tools & services.
 * [StaticGen.com](https://www.staticgen.com/) - A leaderboard of top open-source static site generators.
@@ -403,6 +404,7 @@
 * [Front-end Job Interview Questions](https://h5bp.github.io/Front-end-Developer-Interview-Questions/) - a list of helpful front-end related questions you can use to interview potential candidates or test yourself.
 * [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) - a summary and curation of the top-ranked content on Node JS best practices.
 * [Project Guidelines](https://github.com/wearehive/project-guidelines) - a list of guidelines that works really well with most JavaScript projects.
+* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) - a big picture, thesaurus, and taxonomy of modern JavaScript web development.
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - carefully curated content to help you ace your next technical interview, with a focus on algorithms.
 
 ### Books <a name="books"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
