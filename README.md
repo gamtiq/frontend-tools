@@ -144,6 +144,7 @@
 * [MobX](https://mobxjs.github.io/mobx/) - a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming.
 * [NuclearJS](https://optimizely.github.io/nuclear-js/) - reactive Flux built with ImmutableJS data structures.
 * [Redux](http://redux.js.org/) - a predictable state container for JavaScript apps.
+* [Rematch](https://rematch.gitbooks.io/rematch) - Redux best practices without the boilerplate.
 * [Transis](https://github.com/centro/transis) - a JavaScript data modeling library useful for creating rich client-side experiences.
 
 ### Database <a name="database"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
