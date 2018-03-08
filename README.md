@@ -236,7 +236,7 @@
 ### Linting, validation, checklist <a name="linting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Front-End Checklist](https://frontendchecklist.io/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
 * [sonar](https://sonarwhal.com/) - a linting tool for the web.
-* [Web Developer Checklist](http://webdevchecklist.com/)
+* [Web Developer Checklist](http://webdevchecklist.com/) - the ultimate checklist for all serious web developers building modern websites.
 * CSS
     - [CSSLint](https://github.com/CSSLint/csslint)
     - [stylelint](http://stylelint.io/)
@@ -405,6 +405,7 @@
 ### Guide, reference, practices, recipes <a name="guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [30 seconds of code](https://30secondsofcode.org/) - curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/) - a curated collection of useful CSS snippets you can understand in 30 seconds or less.
+* [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - a collection of (mostly) technical things every software developer should know.
 * [Front-end Job Interview Questions](https://h5bp.github.io/Front-end-Developer-Interview-Questions/) - a list of helpful front-end related questions you can use to interview potential candidates or test yourself.
 * [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) - a summary and curation of the top-ranked content on Node JS best practices.
 * [Project Guidelines](https://github.com/wearehive/project-guidelines) - a list of guidelines that works really well with most JavaScript projects.
