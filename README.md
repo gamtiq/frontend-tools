@@ -183,6 +183,7 @@
 * [Lasso.js](https://github.com/lasso-js/lasso) - JavaScript module bundler that also provides first-level support for optimally delivering JavaScript, CSS, images and other assets to the browser. Offers many different optimizations such as a bundling, code splitting, lazy loading, conditional dependencies, compression and fingerprinted resource URLs.
 * [Microbundle](https://github.com/developit/microbundle) - zero-configuration bundler for tiny modules.
 * [Parcel](https://parceljs.org/) - blazing fast, zero configuration web application bundler.
+* [Poi](https://poi.js.org/) - develop powerful web app with no build configs until you need.
 * [Rollup](http://rollupjs.org/) - a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.
 * [SystemJS Builder](https://github.com/systemjs/builder) - provides a single-file build for SystemJS of mixed-dependency module trees.
 * [webpack](https://webpack.js.org/) - a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
