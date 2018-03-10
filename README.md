@@ -101,6 +101,7 @@
 * [qooxdoo](http://www.qooxdoo.org/) - a universal JavaScript framework that enables you to create applications for a wide range of platforms.
 
 ### JavaScript UI (view) library / framework <a name="js-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Cell](https://www.celljs.org/) - A self-constructing web app framework powered by a self-driving DOM.
 * [Inferno](http://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 * [jComponent](https://jcomponent.org/) - A component library for creating reusable components with jQuery.
 * [Marko Widgets](http://markojs.com/) - A UI component building library that utilizes Marko templates as the view. It offers advanced features like DOM diffing/patching, batched updates, stateful widgets, declarative event binding and efficient event delegation.
