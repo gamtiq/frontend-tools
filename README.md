@@ -411,6 +411,7 @@
 * [Front-end Job Interview Questions](https://h5bp.github.io/Front-end-Developer-Interview-Questions/) - a list of helpful front-end related questions you can use to interview potential candidates or test yourself.
 * [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) - a summary and curation of the top-ranked content on Node JS best practices.
 * [Project Guidelines](https://github.com/wearehive/project-guidelines) - a list of guidelines that works really well with most JavaScript projects.
+* [Service Worker Cookbook](https://serviceworke.rs/) - a collection of working, practical examples of using service workers in modern web sites.
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) - a big picture, thesaurus, and taxonomy of modern JavaScript web development.
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - carefully curated content to help you ace your next technical interview, with a focus on algorithms.
 
