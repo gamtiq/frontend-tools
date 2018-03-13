@@ -418,6 +418,7 @@
 ### Books <a name="books"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Freely available programming books](https://github.com/vhf/free-programming-books) - list of free learning resources.
 * [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/) - a guide that anyone could use to learn about the practice of front-end development.
+* [How to be a Programmer](https://www.gitbook.com/book/braydie/how-to-be-a-programmer/)
 
 ### Useful articles & resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [120+ Places To Find Creative Commons Media](https://www.sitepoint.com/creative-commons-sources/) - resources to search for audio, video, images and more for use in a project.
