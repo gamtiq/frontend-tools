@@ -40,6 +40,7 @@
 * [Hosting, cloud services](#hosting)
 * [Guide, reference, practices, recipes](#guide)
 * [Books](#books)
+* [Examples](#examples)
 * [Useful articles & resources](#resources)
 
 ### Tools catalog / search / discovery / comparison service <a name="tool-search"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -419,6 +420,9 @@
 * [Freely available programming books](https://github.com/vhf/free-programming-books) - list of free learning resources.
 * [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/) - a guide that anyone could use to learn about the practice of front-end development.
 * [How to be a Programmer](https://www.gitbook.com/book/braydie/how-to-be-a-programmer/)
+
+### Examples <a name="examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [simpl.info](https://simpl.info/) - simplest possible examples of HTML, CSS and JavaScript.
 
 ### Useful articles & resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [120+ Places To Find Creative Commons Media](https://www.sitepoint.com/creative-commons-sources/) - resources to search for audio, video, images and more for use in a project.
