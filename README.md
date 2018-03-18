@@ -422,6 +422,7 @@
 * [How to be a Programmer](https://www.gitbook.com/book/braydie/how-to-be-a-programmer/)
 
 ### Examples <a name="examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Hacker News readers as Progressive Web Apps](https://hnpwa.com/) - a list of unofficial Hacker News clients built with a number of popular JavaScript frameworks and libraries. Each implementation is a complete Progressive Web App that utilizes different progressive technologies to provide a fast, reliable and engaging experience.
 * [simpl.info](https://simpl.info/) - simplest possible examples of HTML, CSS and JavaScript.
 
 ### Useful articles & resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
