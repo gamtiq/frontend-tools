@@ -276,6 +276,7 @@
 
 ### Documentation <a name="documentation"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [documentation.js](http://documentation.js.org/) - The documentation system for modern JavaScript.
+* [Docusaurus](https://docusaurus.io/) - A project for easily building, deploying, and maintaining open source project websites.
 * [Docute](https://docute.js.org/) - Effortlessly documentation done right.
 * [ESDoc](https://esdoc.org/) - A documentation generator for JavaScript (ES6).
 * [JSDoc](http://usejsdoc.org/) - An API documentation generator for JavaScript.
