@@ -423,6 +423,7 @@
 * [Freely available programming books](https://github.com/vhf/free-programming-books) - list of free learning resources.
 * [Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2018/) - a guide that anyone could use to learn about the practice of front-end development.
 * [How to be a Programmer](https://www.gitbook.com/book/braydie/how-to-be-a-programmer/)
+* [React in patterns](https://legacy.gitbook.com/book/krasimir/react-in-patterns/details) - a book about common design patterns used while developing with React. It includes techniques for composition, data flow, dependency management and more.
 
 ### Examples <a name="examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Hacker News readers as Progressive Web Apps](https://hnpwa.com/) - a list of unofficial Hacker News clients built with a number of popular JavaScript frameworks and libraries. Each implementation is a complete Progressive Web App that utilizes different progressive technologies to provide a fast, reliable and engaging experience.
