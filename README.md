@@ -280,6 +280,7 @@
 * [documentation.js](http://documentation.js.org/) - The documentation system for modern JavaScript.
 * [Docusaurus](https://docusaurus.io/) - A project for easily building, deploying, and maintaining open source project websites.
 * [Docute](https://docute.js.org/) - Effortlessly documentation done right.
+* [Docz](https://www.docz.site/) - It has never been so easy to document your things!
 * [ESDoc](https://esdoc.org/) - A documentation generator for JavaScript (ES6).
 * [JSDoc](http://usejsdoc.org/) - An API documentation generator for JavaScript.
 * [YUIDoc](http://yui.github.io/yuidoc/) - A Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
