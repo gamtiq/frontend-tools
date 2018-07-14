@@ -145,6 +145,7 @@
 * [Cerebral](http://www.cerebraljs.com/) - a state controller with its own debugger.
 * [freactal](https://github.com/FormidableLabs/freactal) - a composable state management library for React.
 * [JSData](http://www.js-data.io/) - inspired by Ember Data, JSData is the model layer you've been craving. It consists of a convenient framework-agnostic, in-memory store for managing your data, which uses adapters to communicate with various persistence layers.
+* [Microstates](https://github.com/microstates/microstates.js) - a functional runtime type system designed to ease state management in component based applications. It allows you to declaratively compose application state from atomic state machines.
 * [MobX](https://mobxjs.github.io/mobx/) - a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming.
 * [NuclearJS](https://optimizely.github.io/nuclear-js/) - reactive Flux built with ImmutableJS data structures.
 * [Redux](http://redux.js.org/) - a predictable state container for JavaScript apps.
