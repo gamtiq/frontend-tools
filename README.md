@@ -198,6 +198,7 @@
 * [Duo](http://duojs.org/) - a next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
 * [jspm](http://jspm.io/) - registry and format agnostic JavaScript package manager for the SystemJS universal module loader.
 * [npm](https://www.npmjs.com/) - a package manager for JavaScript.
+* [pnpm](https://pnpm.js.org/) - fast, disk space efficient package manager.
 
 ### Front-end / CSS framework <a name="frontend-framework"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Blaze](http://blazecss.com/)
