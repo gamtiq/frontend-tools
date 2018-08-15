@@ -309,8 +309,10 @@
 
 ### Task runner, build tool, automation <a name="task-runner"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Brunch](http://brunch.io/) - fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps.
+* [Grunion](https://github.com/Hypercubed/grunion) - run multiple commands using glob patterns.
 * [Grunt](http://gruntjs.com/) - the JavaScript task runner.
 * [Gulp](http://gulpjs.com/) - a toolkit for automating painful or time-consuming tasks in your development workflow.
+* [npm-run-all](https://github.com/mysticatea/npm-run-all) - a CLI tool to run multiple npm-scripts in parallel or sequential.
 * [nps](https://github.com/kentcdodds/nps) - all the benefits of npm scripts without the cost of a bloated package.json and limits of json.
 * [npx](https://github.com/zkat/npx) - execute npm package binaries.
 * [Pkg](https://github.com/zeit/pkg) - this command line interface enables you to package your Node.js project into an executable that can be run even on devices without Node.js installed.
