@@ -424,6 +424,7 @@
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/) - a curated collection of useful CSS snippets you can understand in 30 seconds or less.
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/) - a curated collection of common interview questions to help you prepare for your next interview.
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - a collection of tips to help take your CSS skills pro.
+* [DevDocs](https://devdocs.io/) - combines multiple API documentations in a fast, organized, and searchable interface.
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - a collection of (mostly) technical things every software developer should know.
 * [Front-end Job Interview Questions](https://h5bp.github.io/Front-end-Developer-Interview-Questions/) - a list of helpful front-end related questions you can use to interview potential candidates or test yourself.
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - JavaScript based examples of many popular algorithms and data structures.
