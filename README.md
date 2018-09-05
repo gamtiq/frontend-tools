@@ -389,6 +389,7 @@
 ### Browser extension <a name="browser-extension"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Chrome
   - [25 Essential Chrome Extensions for Web Designers](https://envato.com/blog/chrome-extensions-web-design/)
+  - [Checkbot](https://www.checkbot.io/) - crawls your site testing pages follow 50+ SEO, speed and security best practices.
   - [CSS Peeper](https://csspeeper.com/) - Smart CSS viewer tailored for Designers.
 
 ### Benchmark <a name="benchmark"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -423,6 +424,7 @@
 * [30 seconds of code](https://30secondsofcode.org/) - curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/) - a curated collection of useful CSS snippets you can understand in 30 seconds or less.
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/) - a curated collection of common interview questions to help you prepare for your next interview.
+* [Checkbot: Web Best Practices](https://www.checkbot.io/guide/) - details 50+ SEO, speed and security web best practices.
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - a collection of tips to help take your CSS skills pro.
 * [DevDocs](https://devdocs.io/) - combines multiple API documentations in a fast, organized, and searchable interface.
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - a collection of (mostly) technical things every software developer should know.
