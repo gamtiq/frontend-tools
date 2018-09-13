@@ -47,7 +47,7 @@
 * [AlternativeTo](https://alternativeto.net/) - A free service that helps you find better alternatives to the products you love and hate.
 * [awesome](https://awesome.re/) - A curated list of awesome lists.
 * [awesome-react-components](http://devarchy.com/react-components) - Catalog of React components / libraries.
-* [bestof.js.org](http://bestof.js.org/) - A place to find the best components to build amazing web applications.
+* [bestof.js.org](https://bestof.js.org/) - A place to find the best components to build amazing web applications.
 * [CSS Script](http://www.cssscript.com/) - A Javascript & CSS code library aims to provide the newest, best and free CSS & javascript resources for web/mobile developers and designers.
 * [headlesscms.org](https://headlesscms.org/) - A list of content management systems for JAMstack sites.
 * [iReact](http://ireact.cn/) - Helps you discover the most fantastic, powerful React Components and Libraries, and makes it easy for you to pick one that’ll work for you.
@@ -203,7 +203,7 @@
 ### Front-end / CSS framework <a name="frontend-framework"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Blaze](http://blazecss.com/)
 * [Bootflat](http://bootflat.github.io/) (Bootstrap-based)
-* [Bootstrap](http://getbootstrap.com/)
+* [Bootstrap](https://getbootstrap.com/)
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox.
 * [Flat UI](http://designmodo.github.io/Flat-UI/) - a beautiful theme for Bootstrap.
 * [Foundation](http://foundation.zurb.com/)
@@ -242,27 +242,27 @@
 
 ### Linting, validation, checklist <a name="linting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Front-End Checklist](https://frontendchecklist.io/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
-* [sonar](https://sonarwhal.com/) - a linting tool for the web.
+* [webhint](https://webhint.io/) - a linting tool for the web.
 * [Web Developer Checklist](http://webdevchecklist.com/) - the ultimate checklist for all serious web developers building modern websites.
 * CSS
     - [CSSLint](https://github.com/CSSLint/csslint)
     - [stylelint](http://stylelint.io/)
 * HTML
     - [HTML Inspector](https://github.com/philipwalton/html-inspector)
-    - [HTMLHint](http://htmlhint.com/)
+    - [HTMLHint](https://htmlhint.io/)
 * JavaScript
     - [JSHint](www.jshint.com)
     - [ESLint](http://eslint.org/)
 
 ### Testing <a name="testing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [AVA](https://github.com/avajs/ava)
-* [BackstopJS](http://garris.github.io/BackstopJS/) - automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
+* [BackstopJS](https://garris.github.io/BackstopJS/) - automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
 * [CodeceptJS](http://codecept.io/) - acceptance testing framework for NodeJS. CodeceptJS is a testing framework for end-to-end testing with WebDriver (or others). It abstracts browser interaction to simple steps which is written from a user perspective.
 * [Cypress](https://www.cypress.io/) - a test engine that runs unit and integration tests in your browser.
 * [Enzyme](https://github.com/airbnb/enzyme) - a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
 * [Intern](http://theintern.github.io/)
 * [Jasmine](http://jasmine.github.io/)
-* [Jest](http://facebook.github.io/jest/)
+* [Jest](https://jestjs.io/)
 * [Karma](http://karma-runner.github.io/)
 * [Mocha](http://mochajs.org/)
 * [QUnit](http://qunitjs.com/)
@@ -310,8 +310,8 @@
 ### Task runner, build tool, automation <a name="task-runner"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Brunch](http://brunch.io/) - fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps.
 * [Grunion](https://github.com/Hypercubed/grunion) - run multiple commands using glob patterns.
-* [Grunt](http://gruntjs.com/) - the JavaScript task runner.
-* [Gulp](http://gulpjs.com/) - a toolkit for automating painful or time-consuming tasks in your development workflow.
+* [Grunt](https://gruntjs.com/) - the JavaScript task runner.
+* [Gulp](https://gulpjs.com/) - a toolkit for automating painful or time-consuming tasks in your development workflow.
 * [npm-run-all](https://github.com/mysticatea/npm-run-all) - a CLI tool to run multiple npm-scripts in parallel or sequential.
 * [nps](https://github.com/kentcdodds/nps) - all the benefits of npm scripts without the cost of a bloated package.json and limits of json.
 * [npx](https://github.com/zkat/npx) - execute npm package binaries.
