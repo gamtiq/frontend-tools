@@ -107,6 +107,7 @@
 * [Inferno](http://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 * [jComponent](https://jcomponent.org/) - A component library for creating reusable components with jQuery.
 * [Marko Widgets](http://markojs.com/) - A UI component building library that utilizes Marko templates as the view. It offers advanced features like DOM diffing/patching, batched updates, stateful widgets, declarative event binding and efficient event delegation.
+* [Melody](https://melody.js.org/) - A fast and memory efficient library for creating highly dynamic user interfaces.
 * [Monkberry](http://monkberry.js.org/) - Blazingly fast, small and simple JavaScript library for building web user interfaces.
 * [Moon](http://moonjs.ga/) - A minimal, blazing fast user interface library.
 * [Nerv](https://nerv.aotu.io/) - A blazing fast React alternative, compatible with IE8 and React 16.
@@ -151,6 +152,7 @@
 * [Redux](http://redux.js.org/) - a predictable state container for JavaScript apps.
 * [Rematch](https://rematch.gitbooks.io/rematch) - Redux best practices without the boilerplate.
 * [Transis](https://github.com/centro/transis) - a JavaScript data modeling library useful for creating rich client-side experiences.
+* [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - build powerful React and React Native apps that scale from hundreds to tens of thousands of records and remain fast.
 
 ### Database <a name="database"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [DataScript](https://github.com/tonsky/datascript) - immutable database and Datalog query engine for Clojure, ClojureScript and JS.
@@ -427,6 +429,7 @@
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/) - a curated collection of common interview questions to help you prepare for your next interview.
 * [Checkbot: Web Best Practices](https://www.checkbot.io/guide/) - details 50+ SEO, speed and security web best practices.
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - a collection of tips to help take your CSS skills pro.
+* [CSS-Tricks](https://css-tricks.com/) - a site about all things web design and development.
 * [DevDocs](https://devdocs.io/) - combines multiple API documentations in a fast, organized, and searchable interface.
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - a collection of (mostly) technical things every software developer should know.
 * [Front-end Job Interview Questions](https://h5bp.github.io/Front-end-Developer-Interview-Questions/) - a list of helpful front-end related questions you can use to interview potential candidates or test yourself.
