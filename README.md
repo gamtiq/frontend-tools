@@ -11,14 +11,14 @@
 * [JavaScript UI (view) library / framework](#js-ui-library)
 * [React-based library / framework / platform](#react-library)
 * [Vue-based library / framework](#vue-library)
+* [Front-end / CSS framework](#frontend-framework)
+    - [Small CSS library / toolkit](#small-css-library)
 * [Data / model / state management library](#state-management)
 * [Database](#database)
 * [JavaScript utility library](#js-utility-library)
 * [JavaScript module system and loader](#loader)
 * [Module and asset bundler](#bundler)
 * [Package manager](#package-manager)
-* [Front-end / CSS framework](#frontend-framework)
-    - [Small CSS library / toolkit](#small-css-library)
 * [CSS processor](#css-processor)
 * [Linting, validation, checklist](#linting)
 * [Testing](#testing)
@@ -141,6 +141,41 @@
 * [Vuetify.js](https://vuetifyjs.com/) - a component framework for Vue.js 2.
 * [Vue Material](https://vuematerial.github.io/) - lightweight framework built exactly according to the Material Design specs. It aims to deliver a collection of reusable components and a series of UI Elements to build applications with support to all modern Web Browsers through Vue 2.
 
+### Front-end / CSS framework <a name="frontend-framework"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Blaze](https://www.blazeui.com/) - an open source modular toolkit. It provides great structure for building websites quickly with a scalable and maintainable foundation.
+* [Bootflat](http://bootflat.github.io/) - an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework.
+* [Bootstrap](https://getbootstrap.com/) - an open source toolkit for developing with HTML, CSS, and JS.
+* [Bulma](https://bulma.io/) - a modern CSS framework based on Flexbox.
+* [Flat UI](http://designmodo.github.io/Flat-UI/) - a beautiful theme for Bootstrap.
+* [Foundation](https://foundation.zurb.com/) - the most advanced responsive front-end framework in the world.
+* [Froala Design Blocks](https://www.froala.com/design-blocks) - a set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
+* [GroundworkCSS](http://groundworkcss.github.io/) (outdated) - a fully responsive HTML5, CSS and Javascript toolkit.
+* [Ink](http://ink.sapo.pt/) - an interface kit for quick development of web interfaces, simple to use and expand on.
+* [inuitcss](https://github.com/inuitcss/inuitcss) - extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects. It does not provide you with UI and design out of the box, instead, it provides you with a solid architectural baseline upon which to complete your own work.
+* [Kube](https://imperavi.com/kube/) - clean, minimalistic and fast to implement CSS & JS framework for professional developers and designers alike.
+* [Leaf](http://getleaf.com/) (outdated) - a CSS framework based on Google's material design.
+* [Material Components for the web](https://github.com/material-components/material-components-web) - modular and customizable Material Design UI components for the web. Developed by a core team of engineers and UX designers at Google, these components enable a reliable development workflow to build beautiful and functional web projects.
+* [Material Design Lite](https://getmdl.io/) - lets you add a Material Design look and feel to your websites. It doesn’t rely on any JavaScript frameworks and aims to optimize for cross-device use, gracefully degrade in older browsers, and offer an experience that is immediately accessible.
+* [Material Framework](http://nt1m.github.io/material-framework/) - a simple responsive CSS framework that allows you to integrate Material Design in any web page or web app.
+* [Materialize](https://materializecss.com/) - a modern responsive front-end framework based on Material Design.
+* [Metro UI](https://metroui.org.ua/) - sleek, intuitive, and powerful front-end framework for faster and easier web development. Build responsive, mobile-first projects on the web with the first front-end component library in Metro Style.
+* [Polymer](https://www.polymer-project.org/) - libraries, tools and patterns to help developers build modern Progressive Web Apps, taking full advantage of cutting-edge platform features like Web Components, Service Workers and HTTP/2.
+* [Semantic UI](https://semantic-ui.com/) - a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
+* [Spectre.css](https://picturepan2.github.io/spectre/) - a lightweight, responsive and modern CSS framework.
+* [Tailwind CSS](https://tailwindcss.com/) - a utility-first CSS framework for rapid UI development.
+* [Topcoat](http://topcoat.io/) - CSS for clean and fast web apps.
+* [Turret](https://turretcss.com/) - a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.
+* [UIkit](https://getuikit.com/) - a lightweight and modular front-end framework for developing fast and powerful web interfaces.
+* Small CSS library / toolkit <a name="small-css-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+    - [Basscss](http://basscss.com/) - low-Level CSS Toolkit, a lightweight collection of immutable utilities designed for speed, clarity, performance, and scalability.
+    - [Cutestrap](https://www.cutestrap.com/) - a sassy, opinionated CSS Framework. A tiny alternative to Bootstrap.
+    - [mini.css](https://minicss.org/) - a minimal, responsive, style-agnostic CSS framework.
+    - [Mobi.css](http://getmobicss.com/) - a lightweight, scalable, mobile-first css framework.
+    - [Picnic CSS](https://picnicss.com/) - an invasive CSS library to get your style started.
+    - [Pure](https://purecss.io/) - a set of small, responsive CSS modules that you can use in every web project.
+    - [Skeleton](http://getskeleton.com/) - a dead simple, responsive boilerplate.
+    - [Wing](https://kbrsh.github.io/wing/) - a beautiful CSS framework designed for minimalists.
+
 ### Data / model / state management library <a name="state-management"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Breeze](http://www.getbreezenow.com/breezejs) - the data management library for developers of rich client applications written in JavaScript. If you store data in a database, query and save those data as complex object graphs, and share these graphs across multiple screens of your JavaScript client, Breeze is for you.
 * [Cerebral](http://www.cerebraljs.com/) - a state controller with its own debugger.
@@ -201,39 +236,6 @@
 * [jspm](http://jspm.io/) - registry and format agnostic JavaScript package manager for the SystemJS universal module loader.
 * [npm](https://www.npmjs.com/) - a package manager for JavaScript.
 * [pnpm](https://pnpm.js.org/) - fast, disk space efficient package manager.
-
-### Front-end / CSS framework <a name="frontend-framework"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [Blaze](http://blazecss.com/)
-* [Bootflat](http://bootflat.github.io/) (Bootstrap-based)
-* [Bootstrap](https://getbootstrap.com/)
-* [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox.
-* [Flat UI](http://designmodo.github.io/Flat-UI/) - a beautiful theme for Bootstrap.
-* [Foundation](http://foundation.zurb.com/)
-* [Froala Design Blocks](https://www.froala.com/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
-* [GroundworkCSS](http://groundworkcss.github.io/)
-* [Ink](http://ink.sapo.pt/)
-* [inuitcss](https://github.com/inuitcss/getting-started)
-* [Kube](https://imperavi.com/kube/) - a web framework for professional developers and designers alike. Kube is a wireframe, a skeleton for your project, in a way.
-* [Leaf](http://getleaf.com/) (outdated) - A CSS framework based on Google's material design.
-* [Materialize](http://materializecss.com/)
-* [Material Framework](http://nt1m.github.io/material-framework/)
-* [Metro UI](http://metroui.org.ua/) - The front-end framework for developing projects on the web in Windows Metro Style.
-* [Polymer](http://www.polymer-project.org/)
-* [Semantic UI](http://semantic-ui.com/) - a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
-* [Spectre.css](https://picturepan2.github.io/spectre/) - a lightweight, responsive and modern CSS framework for faster and extensible development.
-* [Tailwind CSS](https://tailwindcss.com/) - a utility-first CSS framework for rapid UI development.
-* [Topcoat](http://topcoat.io/)
-* [Turret](http://turretcss.com/) - a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.
-* [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
-* Small CSS library / toolkit <a name="small-css-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-    - [Basscss](http://basscss.com/) - Low-Level CSS Toolkit, a lightweight collection of immutable utilities designed for speed, clarity, performance, and scalability.
-    - [Cutestrap](https://www.cutestrap.com/) - A sassy, opinionated CSS Framework. A tiny alternative to Bootstrap.
-    - [mini.css](http://minicss.org/) - A minimal, responsive, style-agnostic CSS framework.
-    - [Mobi.css](http://getmobicss.com/) - A lightweight, flexible css framework that focus on mobile.
-    - [Picnic CSS](http://picnicss.com/) - An invasive CSS library to get your style started.
-    - [Pure](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
-    - [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
-    - [Wing](http://usewing.ml/) - A minimal, responsive CSS framework.
 
 ### CSS processor <a name="css-processor"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [EQCSS](http://elementqueries.com/) - A CSS Extension for Element Queries & More.
