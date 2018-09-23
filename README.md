@@ -13,6 +13,7 @@
 * [Vue-based library / framework](#vue-library)
 * [Front-end / CSS framework](#frontend-framework)
     - [Small CSS library / toolkit](#small-css-library)
+* [Mobile development](#mobile-dev)
 * [Data / model / state management library](#state-management)
 * [Database](#database)
 * [JavaScript utility library](#js-utility-library)
@@ -175,6 +176,10 @@
     - [Pure](https://purecss.io/) - a set of small, responsive CSS modules that you can use in every web project.
     - [Skeleton](http://getskeleton.com/) - a dead simple, responsive boilerplate.
     - [Wing](https://kbrsh.github.io/wing/) - a beautiful CSS framework designed for minimalists.
+
+### Mobile development <a name="mobile-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Ionic](https://ionicframework.com/framework) - the open-source mobile app development framework that makes it easy to build top quality native and progressive web apps with web technologies.
+* [NativeScript](https://www.nativescript.org/) - an open source framework for building truly native mobile apps with JavaScript and CSS.
 
 ### Data / model / state management library <a name="state-management"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Breeze](http://www.getbreezenow.com/breezejs) - the data management library for developers of rich client applications written in JavaScript. If you store data in a database, query and save those data as complex object graphs, and share these graphs across multiple screens of your JavaScript client, Breeze is for you.
