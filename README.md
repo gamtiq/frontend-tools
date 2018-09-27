@@ -113,6 +113,7 @@
 * [Moon](http://moonjs.ga/) - A minimal, blazing fast user interface library.
 * [Nerv](https://nerv.aotu.io/) - A blazing fast React alternative, compatible with IE8 and React 16.
 * [Preact](https://preactjs.com/) - Fast 3kb alternative to React with the same ES6 API.
+* [Ractive.js](https://ractive.js.org/) - A JavaScript library for building reactive user interfaces in a way that doesn't force you into a particular framework's way of thinking.
 * [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces.
 * [Riot](http://riotjs.com/) - A React-like user interface micro-library.
 * [Svelte](https://svelte.technology/) - Rather than interpreting your application code at run time, your app is converted into ideal JavaScript at build time.
