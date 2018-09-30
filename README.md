@@ -291,9 +291,10 @@
 * Use `new Error().stack` or `console.trace()` to print stack trace (see [Force Stack Traces with JavaScript](https://davidwalsh.name/javascript-stack-trace)).
 
 ### Documentation <a name="documentation"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [docsify](https://docsify.js.org/) - A magical documentation site generator.
 * [documentation.js](http://documentation.js.org/) - The documentation system for modern JavaScript.
 * [Docusaurus](https://docusaurus.io/) - A project for easily building, deploying, and maintaining open source project websites.
-* [Docute](https://docute.js.org/) - Effortlessly documentation done right.
+* [Docute](https://docute.org/) - The fastest way to create a documentation site for your project.
 * [Docz](https://www.docz.site/) - It has never been so easy to document your things!
 * [ESDoc](https://esdoc.org/) - A documentation generator for JavaScript (ES6).
 * [JSDoc](http://usejsdoc.org/) - An API documentation generator for JavaScript.
