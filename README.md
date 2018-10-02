@@ -48,7 +48,7 @@
 * [AlternativeTo](https://alternativeto.net/) - A free service that helps you find better alternatives to the products you love and hate.
 * [awesome](https://awesome.re/) - A curated list of awesome lists.
 * [awesome-react-components](http://devarchy.com/react-components) - Catalog of React components / libraries.
-* [bestof.js.org](https://bestof.js.org/) - A place to find the best components to build amazing web applications.
+* [Best of JavaScript](https://bestofjs.org/) - A place to find the best components to build amazing web applications.
 * [CSS Script](http://www.cssscript.com/) - A Javascript & CSS code library aims to provide the newest, best and free CSS & javascript resources for web/mobile developers and designers.
 * [headlesscms.org](https://headlesscms.org/) - A list of content management systems for JAMstack sites.
 * [iReact](http://ireact.cn/) - Helps you discover the most fantastic, powerful React Components and Libraries, and makes it easy for you to pick one that’ll work for you.
@@ -107,10 +107,10 @@
 * [Cell](https://www.celljs.org/) - A self-constructing web app framework powered by a self-driving DOM.
 * [Inferno](http://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 * [jComponent](https://jcomponent.org/) - A component library for creating reusable components with jQuery.
-* [Marko Widgets](http://markojs.com/) - A UI component building library that utilizes Marko templates as the view. It offers advanced features like DOM diffing/patching, batched updates, stateful widgets, declarative event binding and efficient event delegation.
+* [Marko](http://markojs.com/) - A friendly (and fast!) UI library that makes building web apps fun.
 * [Melody](https://melody.js.org/) - A fast and memory efficient library for creating highly dynamic user interfaces.
 * [Monkberry](http://monkberry.js.org/) - Blazingly fast, small and simple JavaScript library for building web user interfaces.
-* [Moon](http://moonjs.ga/) - A minimal, blazing fast user interface library.
+* [Moon](https://kbrsh.github.io/moon) - A minimal & fast UI library.
 * [Nerv](https://nerv.aotu.io/) - A blazing fast React alternative, compatible with IE8 and React 16.
 * [Preact](https://preactjs.com/) - Fast 3kb alternative to React with the same ES6 API.
 * [Ractive.js](https://ractive.js.org/) - A JavaScript library for building reactive user interfaces in a way that doesn't force you into a particular framework's way of thinking.
