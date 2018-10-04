@@ -115,7 +115,7 @@
 * [Preact](https://preactjs.com/) - Fast 3kb alternative to React with the same ES6 API.
 * [Ractive.js](https://ractive.js.org/) - A JavaScript library for building reactive user interfaces in a way that doesn't force you into a particular framework's way of thinking.
 * [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces.
-* [Riot](http://riotjs.com/) - A React-like user interface micro-library.
+* [Riot](https://riot.js.org/) - Simple and elegant component-based UI library.
 * [Svelte](https://svelte.technology/) - Rather than interpreting your application code at run time, your app is converted into ideal JavaScript at build time.
 * [Vue.js](http://vuejs.org/) - Simple yet powerful library for building modern web interfaces.
 
@@ -409,8 +409,7 @@
 
 ### Benchmark <a name="benchmark"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CSS minification benchmark](http://goalsmashers.github.io/css-minification-benchmark/)
-* [JS web frameworks benchmark – Round 3](http://www.stefankrause.net/wp/?p=301)
-* [JS web frameworks benchmark – Round 4](http://www.stefankrause.net/wp/?p=316)
+* [JS web frameworks benchmark](https://github.com/krausest/js-framework-benchmark) - a comparison of the perfomance of popular javascript frameworks.
 * [UI Benchmark](https://localvoid.github.io/uibench/)
 
 ### Hosting, cloud services <a name="hosting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
