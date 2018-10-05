@@ -27,6 +27,7 @@
 * [Documentation](#documentation)
 * [Minification](#mini)
 * [Task runner, build tool, automation](#task-runner)
+* [Boilerplate, scaffolding](#boilerplate)
 * [Development server](#dev-server)
     - [Node.js-based](#dev-server-node)
     - [With PHP support](#dev-server-php)
@@ -333,6 +334,11 @@
 * [Taskr](https://github.com/lukeed/taskr) - a fast, concurrency-focused task runner.
 * [xclap](https://github.com/jchip/xclap) - an advanced and flexible JavaScript task executor and build tool.
 * [ygor](https://github.com/shannonmoeller/ygor) - JavaScript task runner for when `npm run` isn't enough and everything else is too much.
+
+### Boilerplate, scaffolding <a name="boilerplate"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Create React App](https://github.com/facebook/create-react-app) - create React apps with no build configuration.
+* [create-react-library](https://github.com/transitive-bullshit/create-react-library) - CLI for easily creating reusable react libraries.
+* [nwb](https://github.com/insin/nwb) - a toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it).
 
 ### Development server <a name="dev-server"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Node.js-based <a name="dev-server-node"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
