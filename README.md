@@ -14,6 +14,7 @@
 * [Front-end / CSS framework](#frontend-framework)
     - [Small CSS library / toolkit](#small-css-library)
 * [Mobile development](#mobile-dev)
+* [Desktop development](#desktop-dev)
 * [Data / model / state management library](#state-management)
 * [Database](#database)
 * [JavaScript utility library](#js-utility-library)
@@ -183,6 +184,11 @@
 ### Mobile development <a name="mobile-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Ionic](https://ionicframework.com/framework) - the open-source mobile app development framework that makes it easy to build top quality native and progressive web apps with web technologies.
 * [NativeScript](https://www.nativescript.org/) - an open source framework for building truly native mobile apps with JavaScript and CSS.
+
+### Desktop development <a name="desktop-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Electron](https://electronjs.org/) - a framework that lets you write cross-platform desktop applications using JavaScript, HTML and CSS.
+* [NW.js](https://nwjs.io/) - an app runtime based on Chromium and node.js. You can write native apps in HTML and JavaScript with NW.js.
+* [Proton Native](https://proton-native.js.org/) - a React environment for cross platform native desktop apps.
 
 ### Data / model / state management library <a name="state-management"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Breeze](http://www.getbreezenow.com/breezejs) - the data management library for developers of rich client applications written in JavaScript. If you store data in a database, query and save those data as complex object graphs, and share these graphs across multiple screens of your JavaScript client, Breeze is for you.
