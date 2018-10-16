@@ -372,6 +372,7 @@
 
 ### Node.js version management <a name="node-manage"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [n](https://github.com/tj/n) - interactively manage your Node.js versions.
+* [node package](https://www.npmjs.com/package/node) - npm package that installs a `node` binary into your project, which means you can have a local version of `node` that is different than your system's, and manage `node` as a normal dependency.
 * [nodenv](https://github.com/nodenv/nodenv) - manage multiple NodeJS versions.
 * [Nodist](https://github.com/marcelklehr/nodist) - a node.js and npm version manager for the windows.
 * [nvm (Node Version Manager)](https://github.com/creationix/nvm) - simple bash script to manage multiple active node.js versions.
