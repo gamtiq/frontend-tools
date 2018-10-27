@@ -137,6 +137,7 @@
 * [Rebass](http://jxnblk.com/rebass/) - Configurable React Stateless Functional UI Components.
 
 ### Vue-based library / framework <a name="vue-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [BalmUI](https://material.balmjs.com/) - next generation Material UI for Vue.js.
 * [Element](http://element.eleme.io/) - a Vue.js 2.0 UI Toolkit for Web.
 * [iView](https://www.iviewui.com/) - a high quality UI Toolkit built on Vue.js.
 * [Keen UI](https://josephuspaye.github.io/Keen-UI/) - a lightweight collection of essential UI components written with Vue.js and inspired by Material Design.
