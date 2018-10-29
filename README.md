@@ -29,6 +29,7 @@
 * [Minification](#mini)
 * [Task runner, build tool, automation](#task-runner)
 * [Boilerplate, scaffolding](#boilerplate)
+* [Component development](#component-dev)
 * [Development server](#dev-server)
     - [Node.js-based](#dev-server-node)
     - [With PHP support](#dev-server-php)
@@ -348,6 +349,16 @@
 * [create-react-library](https://github.com/transitive-bullshit/create-react-library) - CLI for easily creating reusable react libraries.
 * [nwb](https://github.com/insin/nwb) - a toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it).
 
+### Component development <a name="component-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [BlueKit](http://bluekit.blueberry.io/) - automatically generates a library from your React components with editable props and live preview.
+* [component-playground](https://github.com/FormidableLabs/component-playground) - a component for rendering React Components and ES6 code with editable source and live preview.
+* [Kit](https://compositor.io/kit/) - tools for developing, documenting, and testing React component libraries.
+* [React Cosmos](https://github.com/react-cosmos/react-cosmos) - dev tool for creating reusable React components.
+* [React Live](https://github.com/FormidableLabs/react-live) - brings you the ability to render React components and present the user with editable source code and live preview.
+* [React Styleguidist](https://react-styleguidist.js.org/) - isolated React component development environment with a living style guide.
+* [Storybook](https://storybook.js.org/) - a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.
+
+
 ### Development server <a name="dev-server"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Node.js-based <a name="dev-server-node"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [Browsersync](https://www.browsersync.io/) - keep multiple browsers & devices in sync when building websites.
@@ -400,11 +411,9 @@
 * [Flems.io](https://flems.io/) - a playground for web development. It's ideal for prototyping ideas & sharing working front-end code examples. Also see [Flems module](https://github.com/porsager/flems) which can be used for easy self hosting or embedding.
 * [JS Bin](https://jsbin.com/) - an open source collaborative web development debugging tool. Write code and have it both save in real-time, but also render a full preview in real-time.
 * [jsFiddle](https://jsfiddle.net/) - an online playground for your JavaScript, HTML, CSS.
-* [React Styleguidist](https://react-styleguidist.js.org/) - isolated React component development environment with a living style guide.
 * [Repl.it](https://repl.it/) - simple, reliable, and portable cloud coding interface. A community of teachers, students and engineers.
 * [RequireBin](http://requirebin.com/) - create programs in the browser using modules from NPM.
 * [RunKit](https://runkit.com/) - a node playground in your browser.
-* [Storybook](https://storybook.js.org/) - a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.
 * [Webpackbin](https://www.webpackbin.com/) - a service to share and teach code, using webpack to bundle the code.
 
 ### Site generator <a name="site-generator"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
