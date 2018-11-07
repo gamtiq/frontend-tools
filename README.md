@@ -462,6 +462,7 @@
 * [30 seconds of code](https://30secondsofcode.org/) - curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/) - a curated collection of useful CSS snippets you can understand in 30 seconds or less.
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/) - a curated collection of common interview questions to help you prepare for your next interview.
+* [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts) - this repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies.
 * [Checkbot: Web Best Practices](https://www.checkbot.io/guide/) - details 50+ SEO, speed and security web best practices.
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - a collection of tips to help take your CSS skills pro.
 * [CSS-Tricks](https://css-tricks.com/) - a site about all things web design and development.
