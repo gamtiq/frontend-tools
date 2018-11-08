@@ -331,6 +331,7 @@
 
 ### Task runner, build tool, automation <a name="task-runner"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Brunch](http://brunch.io/) - fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps.
+* [cross-env](https://github.com/kentcdodds/cross-env) - run scripts that set and use environment variables across platforms.
 * [Grunion](https://github.com/Hypercubed/grunion) - run multiple commands using glob patterns.
 * [Grunt](https://gruntjs.com/) - the JavaScript task runner.
 * [Gulp](https://gulpjs.com/) - a toolkit for automating painful or time-consuming tasks in your development workflow.
