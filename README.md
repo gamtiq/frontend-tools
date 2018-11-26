@@ -13,6 +13,7 @@
 * [Vue-based library / framework](#vue-library)
 * [Front-end / CSS framework](#frontend-framework)
     - [Small CSS library / toolkit](#small-css-library)
+* [Shim, polyfill](#shim)
 * [Mobile development](#mobile-dev)
 * [Desktop development](#desktop-dev)
 * [Data / model / state management library](#state-management)
@@ -183,6 +184,14 @@
     - [Skeleton](http://getskeleton.com/) - a dead simple, responsive boilerplate.
     - [Tachyons](http://tachyons.io/) - create fast loading, highly readable, and 100% responsive interfaces with as little css as possible.
     - [Wing](https://kbrsh.github.io/wing/) - a beautiful CSS framework designed for minimalists.
+
+### Shim, polyfill <a name="shim"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [core-js](https://github.com/zloirock/core-js) - modular standard library for JavaScript. Includes polyfills for ECMAScript 5, 2015, 2016, 2017.
+* [ECMAScript Shims](https://github.com/es-shims) - a community host for shims and polyfills that are compliant to EcmaScript specs.
+    - [es5-shim](https://github.com/es-shims/es5-shim) - monkey-patch a JavaScript context to contain all EcmaScript 5 methods that can be faithfully emulated with a legacy JavaScript engine.
+    - [es6-shim](https://github.com/es-shims/es6-shim) - provides compatibility shims so that legacy JavaScript engines behave as closely as possible to ECMAScript 6.
+    - [es7-shim](https://github.com/es-shims/es7-shim) - contains shims that can be used to monkeypatch a JavaScript context to contain all ECMAScript 7 methods that can be faithfully emulated with a legacy JavaScript engine.
+* [Intl.js](https://github.com/andyearnshaw/Intl.js/) - compatibility implementation of the ECMAScript Internationalization API (ECMA-402) for JavaScript.
 
 ### Mobile development <a name="mobile-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Ionic](https://ionicframework.com/framework) - the open-source mobile app development framework that makes it easy to build top quality native and progressive web apps with web technologies.
