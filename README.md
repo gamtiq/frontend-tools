@@ -31,6 +31,7 @@
 * [Task runner, build tool, automation](#task-runner)
 * [Boilerplate, scaffolding](#boilerplate)
 * [Component development](#component-dev)
+* [Analysis, performance, optimization](#analysis)
 * [Development server](#dev-server)
     - [Node.js-based](#dev-server-node)
     - [With PHP support](#dev-server-php)
@@ -369,6 +370,13 @@
 * [React Styleguidist](https://react-styleguidist.js.org/) - isolated React component development environment with a living style guide.
 * [Storybook](https://storybook.js.org/) - a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.
 
+### Analysis, performance, optimization <a name="analysis"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Bundle Buddy](https://github.com/samccone/bundle-buddy) - a tool to help you find source code duplication across your javascript chunks/splits.
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - an open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive web apps, and more.
+* [Optimize your libraries with webpack](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - tips to make your webpack bundle smaller.
+* [Source map explorer](https://github.com/danvk/source-map-explorer) - analyze and debug space usage through source maps. The source map explorer determines which file each byte in your minified code came from.
+* [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
+* [WebPagetest](https://www.webpagetest.org/) - run a free website speed test from multiple locations around the globe using real browsers and at real consumer connection speeds.
 
 ### Development server <a name="dev-server"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Node.js-based <a name="dev-server-node"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -506,5 +514,6 @@
 * [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/) - demonstrates that small modules can have a surprisingly high performance cost depending on your choice of bundler and module system.
 * [The cost of transpiling es2015 in 2016](https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016)
 * [What Do the Popular JavaScript Tools Depend On?](http://developer.telerik.com/featured/popular-javascript-tools-depend/)
+* [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 
 [Table of contents &#x2191;](#toc)
