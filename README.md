@@ -437,6 +437,7 @@
 * [Webpackbin](https://www.webpackbin.com/) - a service to share and teach code, using webpack to bundle the code.
 
 ### Site generator <a name="site-generator"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [CMS.js](http://chrisdiana.github.io/cms.js/) - fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol' HTML, CSS and Javascript to generate your website.
 * [DocPad](http://docpad.org) - a dynamic static-site generator. That is a content management system that takes content from several sources, like files on your computer, and renders them into incredibly fast static output.
 * [Gatsby](https://www.gatsbyjs.org/) - blazing-fast static site generator for React.
 * [Hexo](https://hexo.io/) - a fast, simple and powerful blog framework. You write posts in Markdown (or other languages) and Hexo generates static files with a beautiful theme in seconds.
