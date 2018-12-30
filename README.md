@@ -435,6 +435,7 @@
 * [CodeSandbox](https://codesandbox.io/) - an online web application editor. Makes it easier to create, share and reuse web projects with others.
 * [ESNextbin](https://esnextb.in/) - create browser programs in ES2015 code and import modules from NPM in browser.
 * [Flems.io](https://flems.io/) - a playground for web development. It's ideal for prototyping ideas & sharing working front-end code examples. Also see [Flems module](https://github.com/porsager/flems) which can be used for easy self hosting or embedding.
+* [Glitch](https://glitch.com/) - the friendly community where everyone can discover and create the best stuff on the web.
 * [JS Bin](https://jsbin.com/) - an open source collaborative web development debugging tool. Write code and have it both save in real-time, but also render a full preview in real-time.
 * [jsFiddle](https://jsfiddle.net/) - an online playground for your JavaScript, HTML, CSS.
 * [Repl.it](https://repl.it/) - simple, reliable, and portable cloud coding interface. A community of teachers, students and engineers.
