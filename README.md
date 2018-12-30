@@ -18,6 +18,7 @@
 * [Desktop development](#desktop-dev)
 * [Data / model / state management library](#state-management)
 * [Database](#database)
+* [Internationalization (i18n), localization (l10n)](#i18n)
 * [JavaScript utility library](#js-utility-library)
 * [JavaScript module system and loader](#loader)
 * [Module and asset bundler](#bundler)
@@ -225,6 +226,11 @@
 * [PouchDB](https://pouchdb.com/) - an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser. It enables applications to store data locally while offline, then synchronize it with CouchDB and compatible servers when the application is back online, keeping the user's data in sync no matter where they next login.
 * [RxDB](https://github.com/pubkey/rxdb) - reactive, serverless, client-side, offline-first database.
 * [TingoDB](http://www.tingodb.com/) - an embedded JavaScript in-process filesystem or in-memory database upwards compatible with MongoDB at the API level.
+
+### Internationalization (i18n), localization (l10n) <a name="i18n"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [FormatJS](https://formatjs.io/) - a modular collection of JavaScript libraries for internationalization that are focused on formatting numbers, dates, and strings for displaying to people. It includes a set of core libraries that build on the JavaScript Intl built-ins and industry-wide i18n standards, plus a set of integrations for common template and component libraries.
+* [Globalize](https://globalizejs.com/) - a JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data. Globalize provides number formatting and parsing, date and time formatting and parsing, currency formatting, message formatting (ICU message format pattern), and plural support.
+* [i18next](https://www.i18next.com/) - an internationalization-framework written in and for JavaScript. It provides you with a complete solution to localize your product from web to mobile and desktop.
 
 ### JavaScript utility library <a name="js-utility-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [101](https://github.com/tjmehta/101) - a modern JS utility library.
