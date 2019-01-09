@@ -421,6 +421,7 @@
 * [Atom](https://atom.io/) - a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
 * [Brackets](http://brackets.io/) - with focused visual tools and preprocessor support, Brackets is a modern text editor that makes it easy to design in the browser. It's crafted from the ground up for web designers and front-end developers.
 * [Geany](https://www.geany.org/) - a small and lightweight Integrated Development Environment.
+* [Light Table](http://lighttable.com/) - a next generation code editor that connects you to your creation with instant feedback. Light Table is very customizable and can display anything a Chromium browser can.
 * [Notepad++](https://notepad-plus-plus.org/) - a free source code editor and Notepad replacement that supports several languages.
 * [PSPad](https://www.pspad.com/) - text editor for developers for Microsoft Windows systems.
 * [Visual Studio Code](https://code.visualstudio.com/) - a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
