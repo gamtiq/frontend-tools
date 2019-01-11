@@ -33,6 +33,8 @@
 * [Boilerplate, scaffolding](#boilerplate)
 * [Component development](#component-dev)
 * [Analysis, performance, optimization](#analysis)
+* [Version control](#version-control)
+    - [Git](#git)
 * [Development server](#dev-server)
     - [Node.js-based](#dev-server-node)
     - [With PHP support](#dev-server-php)
@@ -383,6 +385,11 @@
 * [Source map explorer](https://github.com/danvk/source-map-explorer) - analyze and debug space usage through source maps. The source map explorer determines which file each byte in your minified code came from.
 * [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 * [WebPagetest](https://www.webpagetest.org/) - run a free website speed test from multiple locations around the globe using real browsers and at real consumer connection speeds.
+
+### Version control <a name="version-control"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* Git <a name="git"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+    - [Sourcetree](https://www.sourcetreeapp.com/) - visualize and manage your repositories through simple Git GUI.
+    - [TortoiseGit](https://tortoisegit.org/) - a Windows Shell Interface to Git. Provides overlay icons showing the file status, a powerful context menu for Git and much more.
 
 ### Development server <a name="dev-server"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Node.js-based <a name="dev-server-node"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
