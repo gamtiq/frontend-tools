@@ -285,14 +285,15 @@
 * [webhint](https://webhint.io/) - a linting tool for the web.
 * [Web Developer Checklist](http://webdevchecklist.com/) - the ultimate checklist for all serious web developers building modern websites.
 * CSS
-    - [CSSLint](https://github.com/CSSLint/csslint)
-    - [stylelint](http://stylelint.io/)
+    - [CSSLint](https://github.com/CSSLint/csslint) - a tool to help point out problems with your CSS code. It does basic syntax checking as well as applying a set of rules to the code that look for problematic patterns or signs of inefficiency. The rules are all pluggable, so you can easily write your own or omit ones you don't want.
+    - [stylelint](https://stylelint.io/) - a mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 * HTML
-    - [HTML Inspector](https://github.com/philipwalton/html-inspector)
-    - [HTMLHint](https://htmlhint.io/)
-* JavaScript
-    - [JSHint](www.jshint.com)
-    - [ESLint](http://eslint.org/)
+    - [HTML Inspector](https://github.com/philipwalton/html-inspector) - a highly-customizable, code quality tool to help you write better markup.
+    - [HTMLHint](https://github.com/htmlhint/HTMLHint) - the static code analysis tool you need for your HTML.
+* JavaScript and variants
+    - [JSHint](https://jshint.com/) - a tool that helps to detect errors and potential problems in your JavaScript code.
+    - [ESLint](https://eslint.org/) - the pluggable linting utility for JavaScript and JSX.
+    - [TSLint](https://palantir.github.io/tslint/) - an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors. It is widely supported across modern editors & build systems and can be customized with your own lint rules, configurations, and formatters.
 
 ### Testing <a name="testing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [AVA](https://github.com/avajs/ava)
