@@ -291,8 +291,8 @@
     - [HTML Inspector](https://github.com/philipwalton/html-inspector) - a highly-customizable, code quality tool to help you write better markup.
     - [HTMLHint](https://github.com/htmlhint/HTMLHint) - the static code analysis tool you need for your HTML.
 * JavaScript and variants
-    - [JSHint](https://jshint.com/) - a tool that helps to detect errors and potential problems in your JavaScript code.
     - [ESLint](https://eslint.org/) - the pluggable linting utility for JavaScript and JSX.
+    - [JSHint](https://jshint.com/) - a tool that helps to detect errors and potential problems in your JavaScript code.
     - [TSLint](https://palantir.github.io/tslint/) - an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors. It is widely supported across modern editors & build systems and can be customized with your own lint rules, configurations, and formatters.
 
 ### Testing <a name="testing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -401,6 +401,7 @@
     - [JSON Server](https://github.com/typicode/json-server) - get a full fake REST API with zero coding.
     - [Live Server](http://tapiov.net/live-server/) - a simple development http server with live reload capability.
     - [lite-server](https://github.com/johnpapa/lite-server) - lightweight development only node server that serves a web app. `lite-server` is a simple customized wrapper around BrowserSync to make it easy to serve SPAs.
+    - [local-web-server](https://github.com/lwsjs/local-web-server) - the modular web server for productive full-stack development.
     - [Puer](https://github.com/leeluolee/puer) - more than a live-reload server , built for efficient frontend development.
     - [servedir](https://github.com/evanw/servedir) - a simple Node web server for offline development and testing: running servedir from a directory will create a quick local web server.
     - [server-with-benefits](https://github.com/galbi101/server-with-benefits) - a static Node.js file web server with options for proxing requests and delaying/mocking responses.
