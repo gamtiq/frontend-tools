@@ -220,6 +220,7 @@
 * [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - build powerful React and React Native apps that scale from hundreds to tens of thousands of records and remain fast.
 
 ### Database <a name="database"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [AlaSQL](http://alasql.org/) - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
 * [DataScript](https://github.com/tonsky/datascript) - immutable database and Datalog query engine for Clojure, ClojureScript and JS.
 * [ForerunnerDB](http://www.forerunnerdb.com) - a NoSQL JavaScript JSON database with a query language based on MongoDB (with some differences) and runs on browsers and Node.js.
 * [LokiJS](http://lokijs.org) - a fast, in-memory document-oriented datastore for node.js, browser and cordova.
@@ -507,6 +508,7 @@
 * [DevDocs](https://devdocs.io/) - combines multiple API documentations in a fast, organized, and searchable interface.
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - a collection of (mostly) technical things every software developer should know.
 * [Front-end Job Interview Questions](https://h5bp.github.io/Front-end-Developer-Interview-Questions/) - a list of helpful front-end related questions you can use to interview potential candidates or test yourself.
+* [Grab Front End Guide](https://github.com/grab/front-end-guide) - study guide and introduction to the modern front end stack.
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - JavaScript based examples of many popular algorithms and data structures.
 * [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 * [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) - a summary and curation of the top-ranked content on Node JS best practices.
