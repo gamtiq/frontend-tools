@@ -145,6 +145,7 @@
 
 ### Vue-based library / framework <a name="vue-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [BalmUI](https://material.balmjs.com/) - next generation Material UI for Vue.js.
+* [Buefy](https://buefy.org/) - a lightweight library of responsive UI components for Vue.js based on Bulma framework and design.
 * [Element](http://element.eleme.io/) - a Vue.js 2.0 UI Toolkit for Web.
 * [iView](https://www.iviewui.com/) - a high quality UI Toolkit built on Vue.js.
 * [Keen UI](https://josephuspaye.github.io/Keen-UI/) - a lightweight collection of essential UI components written with Vue.js and inspired by Material Design.
@@ -200,6 +201,7 @@
 ### Mobile development <a name="mobile-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Ionic](https://ionicframework.com/framework) - the open-source mobile app development framework that makes it easy to build top quality native and progressive web apps with web technologies.
 * [NativeScript](https://www.nativescript.org/) - an open source framework for building truly native mobile apps with JavaScript and CSS.
+* [React Native](https://facebook.github.io/react-native/) - build native mobile apps using JavaScript and React.
 
 ### Desktop development <a name="desktop-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Electron](https://electronjs.org/) - a framework that lets you write cross-platform desktop applications using JavaScript, HTML and CSS.
