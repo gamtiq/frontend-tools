@@ -29,7 +29,8 @@
 * [Debug](#debug)
 * [Documentation](#documentation)
 * [Minification](#mini)
-* [Task runner, build tool, automation](#task-runner)
+* [Task runner, build tool](#task-runner)
+* [Automation](#automation)
 * [Boilerplate, scaffolding](#boilerplate)
 * [Component development](#component-dev)
 * [Analysis, performance, optimization](#analysis)
@@ -353,8 +354,8 @@
     - [Babel-Minify](https://github.com/babel/minify) - an ES6+ aware minifier based on the Babel toolchain.
     - [UglifyJS](https://github.com/mishoo/UglifyJS2) - a JavaScript parser, minifier, compressor and beautifier toolkit.
 
-### Task runner, build tool, automation <a name="task-runner"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [Brunch](http://brunch.io/) - fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps.
+### Task runner, build tool <a name="task-runner"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Brunch](https://brunch.io/) - fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps.
 * [cross-env](https://github.com/kentcdodds/cross-env) - run scripts that set and use environment variables across platforms.
 * [Grunion](https://github.com/Hypercubed/grunion) - run multiple commands using glob patterns.
 * [Grunt](https://gruntjs.com/) - the JavaScript task runner.
@@ -368,6 +369,9 @@
 * [Taskr](https://github.com/lukeed/taskr) - a fast, concurrency-focused task runner.
 * [xclap](https://github.com/jchip/xclap) - an advanced and flexible JavaScript task executor and build tool.
 * [ygor](https://github.com/shannonmoeller/ygor) - JavaScript task runner for when `npm run` isn't enough and everything else is too much.
+
+### Automation <a name="automation"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [np](https://github.com/sindresorhus/np) - a better `npm publish`.
 
 ### Boilerplate, scaffolding <a name="boilerplate"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Create React App](https://github.com/facebook/create-react-app) - create React apps with no build configuration.
