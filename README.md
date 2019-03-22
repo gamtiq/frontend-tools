@@ -75,6 +75,7 @@
 * [npms](https://npms.io/) - A better and open source search for node modules.
 * [npmsearch](http://npmsearch.com/) - Search for node packages on the npm registry.
 * [npm trends](http://www.npmtrends.com/) - Compare package download counts over time.
+* [Pika](https://www.pikapkg.com/) - Search modern ESM packages on npm.
 * [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of addon libraries for Redux, as well as other libraries that are closely related.
 * [StackShare](https://stackshare.io/) - Discover & discuss the best software tools & services.
 * [StaticGen.com](https://www.staticgen.com/) - A leaderboard of top open-source static site generators.
@@ -247,16 +248,17 @@
 
 ### JavaScript module system and loader <a name="loader"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * AMD:
-    - [curl.js](https://github.com/cujojs/curl) (outdated)
-    - [require.js](http://requirejs.org/)
-    - [SystemJS](https://github.com/systemjs/systemjs)
+    - [curl.js](https://github.com/cujojs/curl) (outdated) - a small and very fast AMD-compliant asynchronous loader.
+    - [require.js](https://requirejs.org/) - a JavaScript file and module loader.
+    - [SystemJS](https://github.com/systemjs/systemjs) - dynamic ES module loader.
 * CommonJS:
-    - [Cajon](https://github.com/requirejs/cajon)
-    - [Inject](http://www.injectjs.com/)
-    - [require1k](https://github.com/Stuk/require1k)
-    - [SystemJS](https://github.com/systemjs/systemjs)
+    - [Cajon](https://github.com/requirejs/cajon) - a JavaScript module loader for the browser that can load CommonJS/node and AMD modules. It is built on top of RequireJS.
+    - [Inject](http://www.injectjs.com/) (outdated) - AMD and CJS dependency management in the browser.
+    - [require1k](https://github.com/Stuk/require1k) - a minimal, and yet practically useful, CommonJS/Node.js require module loader for the browser in under 1000 bytes.
+    - [SystemJS](https://github.com/systemjs/systemjs) - dynamic ES module loader.
 * ECMAScript 6:
-    - [SystemJS](https://github.com/systemjs/systemjs)
+    - [@pika/web](https://github.com/pikapkg/web) - run npm dependencies directly in the browser. No Browserify, Webpack or import maps required.
+    - [SystemJS](https://github.com/systemjs/systemjs) - dynamic ES module loader.
 
 ### Module and asset bundler <a name="bundler"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Browserify](http://browserify.org/) - lets you `require('modules')` in the browser by bundling up all of your dependencies.
@@ -265,6 +267,7 @@
 * [Lasso.js](https://github.com/lasso-js/lasso) - JavaScript module bundler that also provides first-level support for optimally delivering JavaScript, CSS, images and other assets to the browser. Offers many different optimizations such as a bundling, code splitting, lazy loading, conditional dependencies, compression and fingerprinted resource URLs.
 * [Microbundle](https://github.com/developit/microbundle) - zero-configuration bundler for tiny modules.
 * [Parcel](https://parceljs.org/) - blazing fast, zero configuration web application bundler.
+* [@pika/pack](https://github.com/pikapkg/pack) - developer tool that uses simple, pre-configured build plugins to create your modern package.
 * [Poi](https://poi.js.org/) - develop powerful web app with no build configs until you need.
 * [Rollup](http://rollupjs.org/) - a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.
 * [SystemJS Builder](https://github.com/systemjs/builder) - provides a single-file build for SystemJS of mixed-dependency module trees.
