@@ -14,6 +14,7 @@
 * [Front-end / CSS framework](#frontend-framework)
     - [Small CSS library / toolkit](#small-css-library)
 * [Shim, polyfill](#shim)
+* [Web development](#web-dev)
 * [Mobile development](#mobile-dev)
 * [Desktop development](#desktop-dev)
 * [Data / model / state management library](#state-management)
@@ -200,6 +201,9 @@
     - [es7-shim](https://github.com/es-shims/es7-shim) - contains shims that can be used to monkeypatch a JavaScript context to contain all ECMAScript 7 methods that can be faithfully emulated with a legacy JavaScript engine.
 * [Intl.js](https://github.com/andyearnshaw/Intl.js/) - compatibility implementation of the ECMAScript Internationalization API (ECMA-402) for JavaScript.
 
+### Web development <a name="web-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Next.js](https://nextjs.org/) - a JavaScript framework that lets you build server-side rendering and static web applications using React.
+
 ### Mobile development <a name="mobile-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Ionic](https://ionicframework.com/framework) - the open-source mobile app development framework that makes it easy to build top quality native and progressive web apps with web technologies.
 * [NativeScript](https://www.nativescript.org/) - an open source framework for building truly native mobile apps with JavaScript and CSS.
@@ -247,18 +251,16 @@
 * [Underscore](http://underscorejs.org/) - a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
 
 ### JavaScript module system and loader <a name="loader"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [SystemJS](https://github.com/systemjs/systemjs) - dynamic ES module loader.
 * AMD:
     - [curl.js](https://github.com/cujojs/curl) (outdated) - a small and very fast AMD-compliant asynchronous loader.
     - [require.js](https://requirejs.org/) - a JavaScript file and module loader.
-    - [SystemJS](https://github.com/systemjs/systemjs) - dynamic ES module loader.
 * CommonJS:
     - [Cajon](https://github.com/requirejs/cajon) - a JavaScript module loader for the browser that can load CommonJS/node and AMD modules. It is built on top of RequireJS.
     - [Inject](http://www.injectjs.com/) (outdated) - AMD and CJS dependency management in the browser.
     - [require1k](https://github.com/Stuk/require1k) - a minimal, and yet practically useful, CommonJS/Node.js require module loader for the browser in under 1000 bytes.
-    - [SystemJS](https://github.com/systemjs/systemjs) - dynamic ES module loader.
 * ECMAScript 6:
     - [@pika/web](https://github.com/pikapkg/web) - run npm dependencies directly in the browser. No Browserify, Webpack or import maps required.
-    - [SystemJS](https://github.com/systemjs/systemjs) - dynamic ES module loader.
 
 ### Module and asset bundler <a name="bundler"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Browserify](http://browserify.org/) - lets you `require('modules')` in the browser by bundling up all of your dependencies.
