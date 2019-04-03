@@ -29,6 +29,7 @@
 * [Testing](#testing)
 * [Debug](#debug)
 * [Documentation](#documentation)
+* [Code processing](#code-processing)
 * [Minification](#mini)
 * [Task runner, build tool](#task-runner)
 * [Automation](#automation)
@@ -340,6 +341,9 @@
 * [JSDoc](http://usejsdoc.org/) - An API documentation generator for JavaScript.
 * [x0](https://compositor.io/x0/) - Document & develop React components without breaking a sweat.
 * [YUIDoc](http://yui.github.io/yuidoc/) - A Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
+
+### Code processing <a name="code-processing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Prettier](https://prettier.io/) - an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
 
 ### Minification <a name="mini"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Minify](http://coderaiser.github.io/minify/) - a minifier of js, css, html and img files.
