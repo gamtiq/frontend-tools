@@ -204,6 +204,7 @@
 
 ### Web development <a name="web-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Next.js](https://nextjs.org/) - a JavaScript framework that lets you build server-side rendering and static web applications using React.
+* [Zero](https://zeroserver.io/) - a web framework to simplify modern web development. It's as simple as writing your code in a mix of Node.js, React, HTML, MDX, Vue, and static files and putting them all in a folder. Zero abstracts the usual project configuration for routing, bundling, and transpiling to make it easier to get started.
 
 ### Mobile development <a name="mobile-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Ionic](https://ionicframework.com/framework) - the open-source mobile app development framework that makes it easy to build top quality native and progressive web apps with web technologies.
