@@ -35,6 +35,7 @@
 * [Automation](#automation)
 * [Boilerplate, scaffolding](#boilerplate)
 * [Component development](#component-dev)
+* [Design](#design)
 * [Analysis, performance, optimization](#analysis)
 * [Version control](#version-control)
     - [Git](#git)
@@ -396,6 +397,9 @@
 * [React Live](https://github.com/FormidableLabs/react-live) - brings you the ability to render React components and present the user with editable source code and live preview.
 * [React Styleguidist](https://react-styleguidist.js.org/) - isolated React component development environment with a living style guide.
 * [Storybook](https://storybook.js.org/) - a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.
+
+### Design <a name="design"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Playroom](https://github.com/seek-oss/playroom) - Simultaneously design across a variety of themes and screen sizes, powered by JSX and your own component library. Playroom allows you to create a zero-install code-oriented design environment, built into a standalone bundle that can be deployed alongside your existing design system documentation.
 
 ### Analysis, performance, optimization <a name="analysis"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Bundle Buddy](https://github.com/samccone/bundle-buddy) - a tool to help you find source code duplication across your javascript chunks/splits.
