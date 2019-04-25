@@ -405,6 +405,7 @@
 * [Bundle Buddy](https://github.com/samccone/bundle-buddy) - a tool to help you find source code duplication across your javascript chunks/splits.
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - an open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive web apps, and more.
 * [Optimize your libraries with webpack](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - tips to make your webpack bundle smaller.
+* [Size Limit](https://github.com/ai/size-limit) - calculate the real cost of your JS for end users and throws an error if the cost exceeds the limit.
 * [Source map explorer](https://github.com/danvk/source-map-explorer) - analyze and debug space usage through source maps. The source map explorer determines which file each byte in your minified code came from.
 * [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 * [WebPagetest](https://www.webpagetest.org/) - run a free website speed test from multiple locations around the globe using real browsers and at real consumer connection speeds.
