@@ -227,6 +227,7 @@
 * [NuclearJS](https://optimizely.github.io/nuclear-js/) - reactive Flux built with ImmutableJS data structures.
 * [Redux](http://redux.js.org/) - a predictable state container for JavaScript apps.
 * [Rematch](https://rematch.gitbooks.io/rematch) - Redux best practices without the boilerplate.
+* [Storeon](https://github.com/storeon/storeon) - a tiny event-based Redux-like state manager for React and Preact.
 * [Transis](https://github.com/centro/transis) - a JavaScript data modeling library useful for creating rich client-side experiences.
 * [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - build powerful React and React Native apps that scale from hundreds to tens of thousands of records and remain fast.
 
