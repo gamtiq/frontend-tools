@@ -225,6 +225,7 @@
 * [Microstates](https://github.com/microstates/microstates.js) - a functional runtime type system designed to ease state management in component based applications. It allows you to declaratively compose application state from atomic state machines.
 * [MobX](https://mobxjs.github.io/mobx/) - a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming.
 * [NuclearJS](https://optimizely.github.io/nuclear-js/) - reactive Flux built with ImmutableJS data structures.
+* [Overmind](https://overmindjs.org) - frictionless state management. Overmind aims for a developer experience where that is all you focus on, reducing the orchestration of state management to a minimum.
 * [Redux](http://redux.js.org/) - a predictable state container for JavaScript apps.
 * [Rematch](https://rematch.gitbooks.io/rematch) - Redux best practices without the boilerplate.
 * [Storeon](https://github.com/storeon/storeon) - a tiny event-based Redux-like state manager for React and Preact.
