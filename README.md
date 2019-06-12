@@ -36,6 +36,7 @@
 * [Boilerplate, scaffolding](#boilerplate)
 * [Component development](#component-dev)
 * [Design](#design)
+* [Images, icons](#images)
 * [Analysis, performance, optimization](#analysis)
 * [Version control](#version-control)
     - [Git](#git)
@@ -281,9 +282,9 @@
 * [webpack](https://webpack.js.org/) - a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
 
 ### Package manager <a name="package-manager"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [Bower](https://bower.io/) - a package manager for the web.
-* [Duo](http://duojs.org/) - a next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
-* [jspm](http://jspm.io/) - registry and format agnostic JavaScript package manager for the SystemJS universal module loader.
+* [Bower](https://bower.io/) (outdated) - a package manager for the web.
+* [Duo](http://duojs.org/) (outdated, [Github repository](https://github.com/duojs/duo)) - a next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
+* [jspm](https://jspm.io/) - registry and format agnostic JavaScript package manager for the SystemJS universal module loader.
 * [npm](https://www.npmjs.com/) - a package manager for JavaScript.
 * [pnpm](https://pnpm.js.org/) - fast, disk space efficient package manager.
 
@@ -402,6 +403,12 @@
 
 ### Design <a name="design"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Playroom](https://github.com/seek-oss/playroom) - Simultaneously design across a variety of themes and screen sizes, powered by JSX and your own component library. Playroom allows you to create a zero-install code-oriented design environment, built into a standalone bundle that can be deployed alongside your existing design system documentation.
+
+### Images, icons <a name="images"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Eva Icons](https://akveo.github.io/eva-icons/) - a pack of more than 480 beautifully crafted Open Source icons for common actions and items. Icons are provided in two visual types: Fill and Outline and in several formats, including PNG, SVG, font, Sketch, etc.
+* [Ikonate](https://www.ikonate.com/) - fully customisable & accessible, well-optimised vector icons.
+* [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - miniscule SVG versions of your favourite website and app logos.
+* [SVG Porn](https://svgporn.com/) - a huge collection of SVG logos.
 
 ### Analysis, performance, optimization <a name="analysis"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Bundle Buddy](https://github.com/samccone/bundle-buddy) - a tool to help you find source code duplication across your javascript chunks/splits.
