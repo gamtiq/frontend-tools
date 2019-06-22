@@ -554,6 +554,7 @@
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - carefully curated content to help you ace your next technical interview, with a focus on algorithms.
 
 ### Books <a name="books"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Data Structures and Algorithms in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-and-algorithms-in-javascript) - data structures and algorithms explained and implemented in JavaScript.
 * [Freely available programming books](https://github.com/vhf/free-programming-books) - list of free learning resources.
 * [Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2018/) - a guide that anyone could use to learn about the practice of front-end development.
 * [How to be a Programmer](https://www.gitbook.com/book/braydie/how-to-be-a-programmer/)
