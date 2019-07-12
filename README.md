@@ -375,6 +375,7 @@
 * [Grunion](https://github.com/Hypercubed/grunion) - run multiple commands using glob patterns.
 * [Grunt](https://gruntjs.com/) - the JavaScript task runner.
 * [Gulp](https://gulpjs.com/) - a toolkit for automating painful or time-consuming tasks in your development workflow.
+* [Just](https://microsoft.github.io/just/) - a library that organizes build tasks for your JS projects. It consists of: a build task build definition library; sane preset build flows for node and browser projects featuring TypeScript, Webpack and jest; project scaffold tool that generates no-ejection needed repos that tracks template changes.
 * [npm-run-all](https://github.com/mysticatea/npm-run-all) - a CLI tool to run multiple npm-scripts in parallel or sequential.
 * [nps](https://github.com/kentcdodds/nps) - all the benefits of npm scripts without the cost of a bloated package.json and limits of json.
 * [npx](https://github.com/zkat/npx) - execute npm package binaries.
