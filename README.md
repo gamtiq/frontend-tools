@@ -156,7 +156,7 @@
 * [iView](https://www.iviewui.com/) - a high quality UI Toolkit built on Vue.js.
 * [Keen UI](https://josephuspaye.github.io/Keen-UI/) - a lightweight collection of essential UI components written with Vue.js and inspired by Material Design.
 * [Muse UI](https://museui.github.io/) - a Vue 2.0 and Material Design based UI component library.
-* [Quasar Framework](http://quasar-framework.org/) - build responsive websites, hybrid mobile Apps (that look native!) and Electron apps using same code, with VueJs 2.
+* [Quasar Framework](https://quasar.dev/) - build high-performance VueJS user interfaces in record time.
 * [Vuetify.js](https://vuetifyjs.com/) - a component framework for Vue.js 2.
 * [Vue Material](https://vuematerial.github.io/) - lightweight framework built exactly according to the Material Design specs. It aims to deliver a collection of reusable components and a series of UI Elements to build applications with support to all modern Web Browsers through Vue 2.
 
@@ -437,6 +437,7 @@
     - [Live Server](http://tapiov.net/live-server/) - a simple development http server with live reload capability.
     - [lite-server](https://github.com/johnpapa/lite-server) - lightweight development only node server that serves a web app. `lite-server` is a simple customized wrapper around BrowserSync to make it easy to serve SPAs.
     - [local-web-server](https://github.com/lwsjs/local-web-server) - the modular web server for productive full-stack development.
+    - [MockIt](https://mockit.netlify.com/) - a tool to quickly create mocked APIs.
     - [Puer](https://github.com/leeluolee/puer) - more than a live-reload server , built for efficient frontend development.
     - [servedir](https://github.com/evanw/servedir) - a simple Node web server for offline development and testing: running servedir from a directory will create a quick local web server.
     - [server-with-benefits](https://github.com/galbi101/server-with-benefits) - a static Node.js file web server with options for proxing requests and delaying/mocking responses.
