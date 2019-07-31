@@ -423,6 +423,7 @@
 
 ### Version control <a name="version-control"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Git <a name="git"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+    - [Git Extras](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more.
     - [Husky](https://github.com/typicode/husky) - Git hooks made easy. Husky can prevent bad git commit, git push and more.
     - [Sourcetree](https://www.sourcetreeapp.com/) - visualize and manage your repositories through simple Git GUI.
     - [TortoiseGit](https://tortoisegit.org/) - a Windows Shell Interface to Git. Provides overlay icons showing the file status, a powerful context menu for Git and much more.
