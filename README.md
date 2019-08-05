@@ -62,13 +62,13 @@
 * [awesome](https://awesome.re/) - A curated list of awesome lists.
 * [awesome-react-components](http://devarchy.com/react-components) - Catalog of React components / libraries.
 * [Best of JavaScript](https://bestofjs.org/) - A place to find the best components to build amazing web applications.
-* [CSS Script](http://www.cssscript.com/) - A Javascript & CSS code library aims to provide the newest, best and free CSS & javascript resources for web/mobile developers and designers.
+* [CSS Script](https://www.cssscript.com/) - A Javascript & CSS code library aims to provide the newest, best and free CSS & javascript resources for web/mobile developers and designers.
 * [headlesscms.org](https://headlesscms.org/) - A list of content management systems for JAMstack sites.
 * [iReact](http://ireact.cn/) - Helps you discover the most fantastic, powerful React Components and Libraries, and makes it easy for you to pick one that’ll work for you.
-* [JavaScripting](http://www.javascripting.com/) - The definitive source of the best JavaScript libraries, frameworks, and plugins.
+* [JavaScripting](https://www.javascripting.com/) - The definitive source of the best JavaScript libraries, frameworks, and plugins.
 * [JavaScriptOO](http://www.javascriptoo.com/) - Every javascript project you should be looking into with examples, categories, install commands, CDN links, project and author stats, and more.
-* [jQuery Plugins](http://jquery-plugins.net/) - Categorized collection of jQuery plugins.
-* [JqueryScript.Net](http://www.jqueryscript.net/) - One of jQuery Plugin websites that provide web designers and developers with a simple way to preview and download a variety of Free jQuery Plugins.
+* [jQuery Plugins](https://jquery-plugins.net/) - Categorized collection of jQuery plugins.
+* [JqueryScript.Net](https://www.jqueryscript.net/) - One of jQuery Plugin websites that provide web designers and developers with a simple way to preview and download a variety of Free jQuery Plugins.
 * [JSter](http://jster.net/) - A catalog of frontend JavaScript libraries.
 * [JS.coach](https://js.coach/) - An opinionated catalog of open source JS packages.
 * [LibHunt](https://www.libhunt.com/) -  Our goal is to help you find the software and libraries you need. All lists have been crafted by many experts from the relevant GitHub communities.
@@ -78,13 +78,14 @@
 * [NPMCompare](https://npmcompare.com/) - Search and compare npm packages.
 * [npms](https://npms.io/) - A better and open source search for node modules.
 * [npmsearch](http://npmsearch.com/) - Search for node packages on the npm registry.
-* [npm trends](http://www.npmtrends.com/) - Compare package download counts over time.
-* [Pika](https://www.pikapkg.com/) - Search modern ESM packages on npm.
+* [npm trends](https://www.npmtrends.com/) - Compare package download counts over time.
+* [Pika](https://www.pika.dev/) - Search npm for fast, modern packages.
 * [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of addon libraries for Redux, as well as other libraries that are closely related.
+* [Slant](https://www.slant.co/) - A product recommendation community that helps connect people with the best products for them.
 * [StackShare](https://stackshare.io/) - Discover & discuss the best software tools & services.
 * [StaticGen.com](https://www.staticgen.com/) - A leaderboard of top open-source static site generators.
 * [Unheap](http://www.unheap.com/) - A tidy repository of JavaScript plugins.
-* [VueScript.com](http://www.vuescript.com/) - Aims to offer latest free Vue.js components for web application developers.
+* [VueScript.com](https://www.vuescript.com/) - Aims to offer latest free Vue.js components for web application developers.
 * [webcomponents.org](https://www.webcomponents.org/) - A place to publish, browse and search for reusable web UI components.
 
 ### ECMAScript / JavaScript <a name="ecmascript"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
