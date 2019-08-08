@@ -38,6 +38,7 @@
 * [Design](#design)
 * [Images, icons](#images)
 * [Analysis, performance, optimization](#analysis)
+* [Network](#net)
 * [Version control](#version-control)
     - [Git](#git)
 * [Development server](#dev-server)
@@ -334,7 +335,6 @@
 * [stacktrace.js](https://www.stacktracejs.com/) - generate, parse, and enhance JavaScript stack traces in all web browsers.
 * [Vorlon.JS](http://www.vorlonjs.com/) - an open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript, powered by node.js and socket.io.
 * [weinre](https://people.apache.org/~pmuellr/weinre/docs/latest/) - a debugger for web pages, like FireBug (for FireFox) and Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
-* [Wireshark](https://www.wireshark.org/) - the world’s foremost and widely-used network protocol analyzer.
 * Use `new Error().stack` or `console.trace()` to print stack trace (see [Force Stack Traces with JavaScript](https://davidwalsh.name/javascript-stack-trace)).
 
 ### Documentation <a name="documentation"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -421,6 +421,10 @@
 * [Source map explorer](https://github.com/danvk/source-map-explorer) - analyze and debug space usage through source maps. The source map explorer determines which file each byte in your minified code came from.
 * [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 * [WebPagetest](https://www.webpagetest.org/) - run a free website speed test from multiple locations around the globe using real browsers and at real consumer connection speeds.
+
+### Network <a name="net"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [HTTPie](https://httpie.org/) - a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more.
+* [Wireshark](https://www.wireshark.org/) - the world’s foremost and widely-used network protocol analyzer.
 
 ### Version control <a name="version-control"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Git <a name="git"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
