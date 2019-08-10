@@ -247,6 +247,7 @@
 * [TingoDB](http://www.tingodb.com/) - an embedded JavaScript in-process filesystem or in-memory database upwards compatible with MongoDB at the API level.
 
 ### Internationalization (i18n), localization (l10n) <a name="i18n"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Fluent.js](https://github.com/projectfluent/fluent.js) - a JavaScript implementation of [Project Fluent](https://projectfluent.org/), a localization framework designed to unleash the expressive power of the natural language.
 * [FormatJS](https://formatjs.io/) - a modular collection of JavaScript libraries for internationalization that are focused on formatting numbers, dates, and strings for displaying to people. It includes a set of core libraries that build on the JavaScript Intl built-ins and industry-wide i18n standards, plus a set of integrations for common template and component libraries.
 * [Globalize](https://globalizejs.com/) - a JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data. Globalize provides number formatting and parsing, date and time formatting and parsing, currency formatting, message formatting (ICU message format pattern), and plural support.
 * [i18next](https://www.i18next.com/) - an internationalization-framework written in and for JavaScript. It provides you with a complete solution to localize your product from web to mobile and desktop.
