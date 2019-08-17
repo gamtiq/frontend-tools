@@ -494,7 +494,7 @@
 * [Repl.it](https://repl.it/) - simple, reliable, and portable cloud coding interface. A community of teachers, students and engineers.
 * [RequireBin](http://requirebin.com/) - create programs in the browser using modules from NPM.
 * [RunKit](https://runkit.com/) - a node playground in your browser.
-* [Webpackbin](https://www.webpackbin.com/) - a service to share and teach code, using webpack to bundle the code.
+* [StackBlitz](https://stackblitz.com/) - the online code editor for web apps.
 
 ### Site generator <a name="site-generator"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CMS.js](http://chrisdiana.github.io/cms.js/) - fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol' HTML, CSS and Javascript to generate your website.
