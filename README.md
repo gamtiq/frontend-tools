@@ -390,6 +390,8 @@
 
 ### Automation <a name="automation"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [np](https://github.com/sindresorhus/np) - a better `npm publish`.
+* [semantic-release](https://github.com/semantic-release/semantic-release) - automates the whole package release workflow including: determining the next version number, generating the release notes and publishing the package.
+* [standard-version](https://github.com/conventional-changelog/standard-version#readme) - automate versioning and CHANGELOG generation, with [semver](https://semver.org/) and [conventional commit messages](https://conventionalcommits.org/).
 
 ### Boilerplate, scaffolding <a name="boilerplate"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Create React App](https://github.com/facebook/create-react-app) - create React apps with no build configuration.
