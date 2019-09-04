@@ -217,6 +217,7 @@
 
 ### Desktop development <a name="desktop-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Electron](https://electronjs.org/) - a framework that lets you write cross-platform desktop applications using JavaScript, HTML and CSS.
+* [NodeGui](https://nodegui.github.io/nodegui/) - an open source library for building cross-platform native desktop applications with JavaScript and CSS like styling. NodeGui is based on Qt5 and NOT chromium, hence it is memory and cpu efficient. React NodeGui is a React renderer for NodeGui.
 * [NW.js](https://nwjs.io/) - an app runtime based on Chromium and node.js. You can write native apps in HTML and JavaScript with NW.js.
 * [Proton Native](https://proton-native.js.org/) - a React environment for cross platform native desktop apps.
 
