@@ -424,6 +424,7 @@
 * [Size Limit](https://github.com/ai/size-limit) - calculate the real cost of your JS for end users and throws an error if the cost exceeds the limit.
 * [Source map explorer](https://github.com/danvk/source-map-explorer) - analyze and debug space usage through source maps. The source map explorer determines which file each byte in your minified code came from.
 * [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
+* [Webpack Visualizer](https://github.com/chrisbateman/webpack-visualizer) - visualize and analyze your Webpack bundle to see which modules are taking up space and which might be duplicates.
 * [WebPagetest](https://www.webpagetest.org/) - run a free website speed test from multiple locations around the globe using real browsers and at real consumer connection speeds.
 
 ### Network <a name="net"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -559,7 +560,7 @@
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - JavaScript based examples of many popular algorithms and data structures.
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - a growing collection of documentation about the most quirky parts of the JavaScript programming language.
 * [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
-* [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) - a summary and curation of the top-ranked content on Node JS best practices.
+* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - a summary and curation of the top-ranked content on Node JS best practices.
 * [OverAPI.com](http://overapi.com/) - collecting all cheat sheets.
 * [Project Guidelines](https://github.com/elsewhencode/project-guidelines) - a list of guidelines that works really well with most JavaScript projects.
 * [Service Worker Cookbook](https://serviceworke.rs/) - a collection of working, practical examples of using service workers in modern web sites.
