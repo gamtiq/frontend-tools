@@ -252,6 +252,7 @@
 * [FormatJS](https://formatjs.io/) - a modular collection of JavaScript libraries for internationalization that are focused on formatting numbers, dates, and strings for displaying to people. It includes a set of core libraries that build on the JavaScript Intl built-ins and industry-wide i18n standards, plus a set of integrations for common template and component libraries.
 * [Globalize](https://globalizejs.com/) - a JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data. Globalize provides number formatting and parsing, date and time formatting and parsing, currency formatting, message formatting (ICU message format pattern), and plural support.
 * [i18next](https://www.i18next.com/) - an internationalization-framework written in and for JavaScript. It provides you with a complete solution to localize your product from web to mobile and desktop.
+* [Lingui](https://lingui.js.org/) - an easy yet powerfull internationalization framework for global projects.
 
 ### JavaScript utility library <a name="js-utility-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [101](https://github.com/tjmehta/101) - a modern JS utility library.
