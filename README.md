@@ -292,6 +292,7 @@
 * [jspm](https://jspm.io/) - registry and format agnostic JavaScript package manager for the SystemJS universal module loader.
 * [npm](https://www.npmjs.com/) - a package manager for JavaScript.
 * [pnpm](https://pnpm.js.org/) - fast, disk space efficient package manager.
+* [Yarn](https://yarnpkg.com/) - fast, reliable, and secure dependency management.
 
 ### CSS processor <a name="css-processor"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [EQCSS](http://elementqueries.com/) - A CSS Extension for Element Queries & More.
@@ -384,7 +385,7 @@
 * [ncc](https://github.com/zeit/ncc) - simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
 * [npm-run-all](https://github.com/mysticatea/npm-run-all) - a CLI tool to run multiple npm-scripts in parallel or sequential.
 * [nps](https://github.com/kentcdodds/nps) - all the benefits of npm scripts without the cost of a bloated package.json and limits of json.
-* [npx](https://github.com/zkat/npx) - execute npm package binaries.
+* [npx](https://github.com/npm/npx) - execute npm package binaries.
 * [Pkg](https://github.com/zeit/pkg) - this command line interface enables you to package your Node.js project into an executable that can be run even on devices without Node.js installed.
 * [scripty](https://github.com/testdouble/scripty) - a tool to help extract npm scripts into their own files.
 * [shx](https://github.com/shelljs/shx) - a wrapper around ShellJS Unix commands, providing an easy solution for simple Unix-like, cross-platform commands in npm package scripts.
