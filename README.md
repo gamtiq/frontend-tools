@@ -319,21 +319,24 @@
     - [XO](https://github.com/xojs/xo) - opinionated but configurable ESLint wrapper with lots of goodies included.
 
 ### Testing <a name="testing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [AVA](https://github.com/avajs/ava)
+* [AVA](https://github.com/avajs/ava) - a test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that let you write tests more effectively.
 * [BackstopJS](https://garris.github.io/BackstopJS/) - automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
-* [CodeceptJS](http://codecept.io/) - acceptance testing framework for NodeJS. CodeceptJS is a testing framework for end-to-end testing with WebDriver (or others). It abstracts browser interaction to simple steps which is written from a user perspective.
+* [Chai](https://www.chaijs.com/) - a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
+* [CodeceptJS](https://codecept.io/) - acceptance testing framework for NodeJS. CodeceptJS is a testing framework for end-to-end testing with WebDriver (or others). It abstracts browser interaction to simple steps which is written from a user perspective.
 * [Cypress](https://www.cypress.io/) - a test engine that runs unit and integration tests in your browser.
-* [Enzyme](https://github.com/airbnb/enzyme) - a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
-* [Intern](http://theintern.github.io/)
-* [Jasmine](http://jasmine.github.io/)
-* [Jest](https://jestjs.io/)
-* [Karma](http://karma-runner.github.io/)
-* [Mocha](http://mochajs.org/)
-* [QUnit](http://qunitjs.com/)
-* [Sazerac](http://sazeracjs.com/) - data-driven testing for JavaScript. It helps you create simple, readable tests and works with Jasmine, Jest, and Mocha.
-* [tape](https://github.com/substack/tape)
-* [TestCafe](http://devexpress.github.io/testcafe/) - a pure node.js end-to-end solution for testing web apps. It takes care of all the stages: starting browsers, running tests, gathering test results and generating reports.
-* [Testem](https://github.com/testem/testem)
+* [Enzyme](https://airbnb.io/enzyme/) - a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output.
+* [Intern](https://theintern.io/) - a complete test system for JavaScript designed to help you write and run consistent, high-quality test cases for your JavaScript libraries and applications.
+* [Jasmine](https://jasmine.github.io/) - a behavior-driven development framework for testing JavaScript code.
+* [Jest](https://jestjs.io/) - a delightful JavaScript Testing Framework with a focus on simplicity.
+* [Karma](http://karma-runner.github.io/) - a tool that allows you to execute JavaScript code in multiple real browsers.
+* [Majestic](https://github.com/Raathigesh/majestic) - zero config GUI for Jest.
+* [Mocha](https://mochajs.org/) - simple, flexible, fun JavaScript test framework for Node.js & The Browser.
+* [QUnit](http://qunitjs.com/) - a powerful, easy-to-use JavaScript unit testing framework.
+* [Sazerac](https://sazerac.js.org/) - data-driven testing for JavaScript. It helps you create simple, readable tests and works with Jasmine, Jest, and Mocha.
+* [tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers.
+* [TestCafe](https://devexpress.github.io/testcafe/) - a node.js tool to automate end-to-end web testing.
+* [Testem](https://github.com/testem/testem) - a test runner that makes Javascript unit testing fun.
+* [Testing Library](https://testing-library.com/) - simple and complete testing utilities that encourage good testing practices and help you test UI components in a user-centric way.
 
 ### Debug <a name="debug"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [ndb](https://github.com/GoogleChromeLabs/ndb) - an improved debugging experience for Node.js, enabled by Chrome DevTools.
