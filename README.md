@@ -541,6 +541,7 @@
 * [Backendless](https://backendless.com/) - a leading mBaaS and powerful Mobile Application Development Platform that enables rapid development of feature-rich mobile, desktop and browser-based applications.
 * [Cloudant](https://www.ibm.com/cloud/cloudant) - a highly scalable and performant JSON database.
 * [Cloudnode](https://cloudno.de/) - a place to get your Javascript web applications up and running.
+* [ExtendsClass](https://extendsclass.com/json-storage.html) - a simple JSON storage.
 * [Firebase](https://firebase.google.com/) - a cloud-hosted database. Data is synchronized in realtime to every connected client.
 * [HackMD](https://hackmd.io/) - best way to share knowledge in markdown.
 * [Heroku](https://www.heroku.com/) - a cloud platform that lets companies build, deliver, monitor and scale apps.
