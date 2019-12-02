@@ -328,6 +328,7 @@
 * [Cypress](https://www.cypress.io/) - a test engine that runs unit and integration tests in your browser.
 * [Enzyme](https://airbnb.io/enzyme/) - a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output.
 * [Intern](https://theintern.io/) - a complete test system for JavaScript designed to help you write and run consistent, high-quality test cases for your JavaScript libraries and applications.
+* [Istanbul](https://istanbul.js.org/) - JS code coverage tool that computes statement, line, function and branch coverage.
 * [Jasmine](https://jasmine.github.io/) - a behavior-driven development framework for testing JavaScript code.
 * [Jest](https://jestjs.io/) - a delightful JavaScript Testing Framework with a focus on simplicity.
 * [Karma](http://karma-runner.github.io/) - a tool that allows you to execute JavaScript code in multiple real browsers.
