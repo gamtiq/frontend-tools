@@ -225,18 +225,19 @@
 
 ### Data / model / state management library <a name="state-management"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Breeze](http://www.getbreezenow.com/breezejs) - the data management library for developers of rich client applications written in JavaScript. If you store data in a database, query and save those data as complex object graphs, and share these graphs across multiple screens of your JavaScript client, Breeze is for you.
-* [Cerebral](http://www.cerebraljs.com/) - a state controller with its own debugger.
+* [Cerebral](https://cerebraljs.com/) - a declarative state and side effects management solution for popular JavaScript frameworks.
 * [freactal](https://github.com/FormidableLabs/freactal) - a composable state management library for React.
-* [JSData](http://www.js-data.io/) - inspired by Ember Data, JSData is the model layer you've been craving. It consists of a convenient framework-agnostic, in-memory store for managing your data, which uses adapters to communicate with various persistence layers.
+* [JSData](https://www.js-data.io/) - a framework-agnostic, datastore-agnostic ORM for Node.js and the Browser.
 * [Microstates](https://github.com/microstates/microstates.js) - a functional runtime type system designed to ease state management in component based applications. It allows you to declaratively compose application state from atomic state machines.
-* [MobX](https://mobxjs.github.io/mobx/) - a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming.
+* [MobX](https://mobx.js.org/) - a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming.
 * [NuclearJS](https://optimizely.github.io/nuclear-js/) - reactive Flux built with ImmutableJS data structures.
+* [Orbit](https://orbitjs.com/) - a composable data framework for managing the complex needs of today's web applications. Although Orbit is primarily used as a flexible client-side ORM, it can also be used server-side in Node.js.
 * [Overmind](https://overmindjs.org) - frictionless state management. Overmind aims for a developer experience where that is all you focus on, reducing the orchestration of state management to a minimum.
-* [Redux](http://redux.js.org/) - a predictable state container for JavaScript apps.
-* [Rematch](https://rematch.gitbooks.io/rematch) - Redux best practices without the boilerplate.
+* [Redux](https://redux.js.org/) - a predictable state container for JavaScript apps.
+* [Rematch](https://rematch.github.io/rematch/) - Redux best practices without the boilerplate.
 * [Storeon](https://github.com/storeon/storeon) - a tiny event-based Redux-like state manager for React and Preact.
 * [Transis](https://github.com/centro/transis) - a JavaScript data modeling library useful for creating rich client-side experiences.
-* [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - build powerful React and React Native apps that scale from hundreds to tens of thousands of records and remain fast.
+* [WatermelonDB](https://nozbe.github.io/WatermelonDB/) - build powerful React and React Native apps that scale from hundreds to tens of thousands of records and remain fast.
 
 ### Database <a name="database"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [AlaSQL](http://alasql.org/) - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
