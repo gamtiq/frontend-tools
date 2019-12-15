@@ -70,7 +70,6 @@
 * [headlesscms.org](https://headlesscms.org/) - A list of content management systems for JAMstack sites.
 * [iReact](http://ireact.cn/) - Helps you discover the most fantastic, powerful React Components and Libraries, and makes it easy for you to pick one that’ll work for you.
 * [JavaScripting](https://www.javascripting.com/) - The definitive source of the best JavaScript libraries, frameworks, and plugins.
-* [JavaScriptOO](http://www.javascriptoo.com/) - Every javascript project you should be looking into with examples, categories, install commands, CDN links, project and author stats, and more.
 * [jQuery Plugins](https://jquery-plugins.net/) - Categorized collection of jQuery plugins.
 * [JqueryScript.Net](https://www.jqueryscript.net/) - One of jQuery Plugin websites that provide web designers and developers with a simple way to preview and download a variety of Free jQuery Plugins.
 * [JSter](http://jster.net/) - A catalog of frontend JavaScript libraries.
