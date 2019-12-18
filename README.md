@@ -224,7 +224,7 @@
 
 ### Desktop development <a name="desktop-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Electron](https://electronjs.org/) - a framework that lets you write cross-platform desktop applications using JavaScript, HTML and CSS.
-* [NodeGui](https://nodegui.github.io/nodegui/) - an open source library for building cross-platform native desktop applications with JavaScript and CSS like styling. NodeGui is based on Qt5 and NOT chromium, hence it is memory and cpu efficient. React NodeGui is a React renderer for NodeGui.
+* [NodeGui](https://nodegui.org/) - an open source library for building cross-platform native desktop applications with JavaScript and CSS like styling. NodeGui is based on Qt5 and NOT chromium, hence it is memory and cpu efficient. React NodeGui is a React renderer for NodeGui.
 * [NW.js](https://nwjs.io/) - an app runtime based on Chromium and node.js. You can write native apps in HTML and JavaScript with NW.js.
 * [Proton Native](https://proton-native.js.org/) - a React environment for cross platform native desktop apps.
 
@@ -233,6 +233,7 @@
 * [Cerebral](https://cerebraljs.com/) - a declarative state and side effects management solution for popular JavaScript frameworks.
 * [freactal](https://github.com/FormidableLabs/freactal) - a composable state management library for React.
 * [JSData](https://www.js-data.io/) - a framework-agnostic, datastore-agnostic ORM for Node.js and the Browser.
+* [Kea](https://kea.js.org/) - data layer for React webapps, built on top of Redux.
 * [Microstates](https://github.com/microstates/microstates.js) - a functional runtime type system designed to ease state management in component based applications. It allows you to declaratively compose application state from atomic state machines.
 * [MobX](https://mobx.js.org/) - a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming.
 * [NuclearJS](https://optimizely.github.io/nuclear-js/) - reactive Flux built with ImmutableJS data structures.
