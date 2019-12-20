@@ -231,6 +231,7 @@
 ### Data / model / state management library <a name="state-management"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Breeze](http://www.getbreezenow.com/breezejs) - the data management library for developers of rich client applications written in JavaScript. If you store data in a database, query and save those data as complex object graphs, and share these graphs across multiple screens of your JavaScript client, Breeze is for you.
 * [Cerebral](https://cerebraljs.com/) - a declarative state and side effects management solution for popular JavaScript frameworks.
+* [Effector](https://effector.now.sh/) - an effective multi-store state manager for Javascript apps, that allows you to manage data in complex applications without the risk of inflating the monolithic central store, with clear control flow, good type support and high capacity API.
 * [freactal](https://github.com/FormidableLabs/freactal) - a composable state management library for React.
 * [JSData](https://www.js-data.io/) - a framework-agnostic, datastore-agnostic ORM for Node.js and the Browser.
 * [Kea](https://kea.js.org/) - data layer for React webapps, built on top of Redux.
