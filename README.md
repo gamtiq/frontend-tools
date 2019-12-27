@@ -54,6 +54,7 @@
 * [Browser extension](#browser-extension)
 * [Benchmark](#benchmark)
 * [Hosting, cloud services](#hosting)
+* [Code CDN](#code-cdn)
 * [Guide, reference, practices, recipes](#guide)
     - [CSS](#css-guide)
     - [JavaScript](#js-guide)
@@ -566,6 +567,10 @@
 * [Pastebin](https://pastebin.com/) - a website where you can store any text online for easy sharing.
 * [Rentry.co](https://rentry.co/) - a pastebin/publishing service with markdown support, preview, custom urls and editing. Fast, simple and free.
 * [Surge](http://surge.sh/) - static web publishing for front-end developers.
+
+### Code CDN <a name="code-cdn"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [jsDelivr](https://www.jsdelivr.com/) - a free, fast, and reliable Open Source CDN for npm & GitHub.
+* [unpkg](https://unpkg.com/) - a fast, global content delivery network for everything on npm. Use it to quickly and easily load any file from any package.
 
 ### Guide, reference, practices, recipes <a name="guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/) - a curated collection of common interview questions to help you prepare for your next interview.
