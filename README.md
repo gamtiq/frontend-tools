@@ -411,11 +411,12 @@
 ### Automation <a name="automation"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [np](https://github.com/sindresorhus/np) - a better `npm publish`.
 * [semantic-release](https://github.com/semantic-release/semantic-release) - automates the whole package release workflow including: determining the next version number, generating the release notes and publishing the package.
-* [standard-version](https://github.com/conventional-changelog/standard-version#readme) - automate versioning and CHANGELOG generation, with [semver](https://semver.org/) and [conventional commit messages](https://conventionalcommits.org/).
+* [standard-version](https://github.com/conventional-changelog/standard-version) - automate versioning and CHANGELOG generation, with [semver](https://semver.org/) and [conventional commit messages](https://conventionalcommits.org/).
 
 ### Boilerplate, scaffolding <a name="boilerplate"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [Create React App](https://github.com/facebook/create-react-app) - create React apps with no build configuration.
+* [Create React App](https://create-react-app.dev/) - create React apps with no build configuration.
 * [create-react-library](https://github.com/transitive-bullshit/create-react-library) - CLI for easily creating reusable react libraries.
+* [degit](https://github.com/Rich-Harris/degit) - straightforward project scaffolding. *degit* makes copies of git repositories.
 * [Neutrino](https://neutrinojs.org/) - a companion tool which lets you build web and Node.js applications with shared presets or configurations. It intends to make the process of initializing and building projects much simpler by providing minimal development dependencies.
 * [nwb](https://github.com/insin/nwb) - a toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it).
 * [TSDX](https://github.com/jaredpalmer/tsdx) - a zero-config CLI that helps you develop, test, and publish modern TypeScript packages with ease.
