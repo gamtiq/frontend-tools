@@ -499,6 +499,7 @@
 * [Atom](https://atom.io/) - a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
 * [Brackets](http://brackets.io/) - with focused visual tools and preprocessor support, Brackets is a modern text editor that makes it easy to design in the browser. It's crafted from the ground up for web designers and front-end developers.
 * [Geany](https://www.geany.org/) - a small and lightweight Integrated Development Environment.
+* [Leo](http://leoeditor.com/) - a PIM, IDE and outliner that accelerates the work flow of programmers, authors and web designers.
 * [Light Table](http://lighttable.com/) - a next generation code editor that connects you to your creation with instant feedback. Light Table is very customizable and can display anything a Chromium browser can.
 * [Notepad++](https://notepad-plus-plus.org/) - a free source code editor and Notepad replacement that supports several languages.
 * [PSPad](https://www.pspad.com/) - text editor for developers for Microsoft Windows systems.
@@ -507,7 +508,7 @@
 ### API <a name="api"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [APIs.guru](https://apis.guru/browse-apis/) - Wikipedia for WEB APIs.
 * [ProgrammableWeb API directory](https://www.programmableweb.com/apis/directory) - directory where developers can search for APIs to include in their next software development project.
-* [Public APIs](https://github.com/toddmotto/public-apis) - a collective list of free APIs for use in web development.
+* [Public APIs](https://github.com/public-apis/public-apis) - a collective list of free APIs for use in software and web development.
 * [Swagger](https://swagger.io/) - a powerful yet easy-to-use suite of API developer tools for teams and individuals, enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 
 ### Playground, online development <a name="playground"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
