@@ -19,6 +19,7 @@
 * [Mobile development](#mobile-dev)
 * [Desktop development](#desktop-dev)
 * [Data / model / state management library](#state-management)
+    - [Redux-based library](#redux-library)
 * [Database](#database)
 * [Internationalization (i18n), localization (l10n)](#i18n)
 * [JavaScript utility library](#js-utility-library)
@@ -242,10 +243,13 @@
 * [Orbit](https://orbitjs.com/) - a composable data framework for managing the complex needs of today's web applications. Although Orbit is primarily used as a flexible client-side ORM, it can also be used server-side in Node.js.
 * [Overmind](https://overmindjs.org) - frictionless state management. Overmind aims for a developer experience where that is all you focus on, reducing the orchestration of state management to a minimum.
 * [Redux](https://redux.js.org/) - a predictable state container for JavaScript apps.
-* [Rematch](https://rematch.github.io/rematch/) - Redux best practices without the boilerplate.
 * [Storeon](https://github.com/storeon/storeon) - a tiny event-based Redux-like state manager for React and Preact.
 * [Transis](https://github.com/centro/transis) - a JavaScript data modeling library useful for creating rich client-side experiences.
 * [WatermelonDB](https://nozbe.github.io/WatermelonDB/) - build powerful React and React Native apps that scale from hundreds to tens of thousands of records and remain fast.
+* Redux-based library <a name="redux-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+    - [Easy Peasy](https://easy-peasy.now.sh/) - provides you with an intuitive API to quickly and easily manage the state for your React application. No configuration is required to support derived state, API calls, performance optimisation, developer tools etc.
+    - [Redux Toolkit](https://redux-toolkit.js.org/) - the official, opinionated, batteries-included toolset for efficient Redux development.
+    - [Rematch](https://rematch.github.io/rematch/) - Redux best practices without the boilerplate.
 
 ### Database <a name="database"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [AlaSQL](http://alasql.org/) - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
