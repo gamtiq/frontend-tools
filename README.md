@@ -606,13 +606,14 @@
 
 ### Books <a name="books"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Data Structures and Algorithms in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-and-algorithms-in-javascript) - data structures and algorithms explained and implemented in JavaScript.
-* [Freely available programming books](https://github.com/vhf/free-programming-books) - list of free learning resources.
-* [Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2018/) - a guide that anyone could use to learn about the practice of front-end development.
+* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books) - list of free learning resources.
+* [Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/) - a guide that anyone could use to learn about the practice of front-end development.
 * [How to be a Programmer](https://www.gitbook.com/book/braydie/how-to-be-a-programmer/)
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read) - a book about programming with functions.
+* [Mostly adequate guide to functional programming](https://github.com/MostlyAdequate/mostly-adequate-guide) - a book on the functional paradigm in general (with JavaScript examples).
 * [React in patterns](https://legacy.gitbook.com/book/krasimir/react-in-patterns/details) - a book about common design patterns used while developing with React. It includes techniques for composition, data flow, dependency management and more.
 * [SurviveJS](https://survivejs.com/) - books about React, Webpack and maintenance of JavaScript code.
-* [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c) - learn 80% of JavaScript in 20% of the time.
+* [The Complete JavaScript Handbook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/) - learn 80% of JavaScript in 20% of the time.
 
 ### Examples <a name="examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CSSFX](https://cssfx.dev/) - beautifully simple click-to-copy CSS effects. A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup.
