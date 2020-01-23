@@ -114,8 +114,9 @@
 * [Ringo](https://ringojs.org/) - a JavaScript platform built on the JVM and optimized for server-side applications.
 
 ### JavaScript variant / compiler / transpiler <a name="js-variant"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [Babel](http://babeljs.io/) - a JavaScript compiler.
+* [Babel](https://babeljs.io/) - a JavaScript compiler.
 * [Bublé](https://buble.surge.sh/) - fast, batteries-included ES2015 compiler.
+* [swc](https://swc-project.github.io/) - a TypeScript / JavaScript compiler. It consumes a JavaScript or TypeScript file which uses recently added features and emits JavaScript code which can be executed on old browsers.
 * [TypeScript](http://www.typescriptlang.org/) - a typed superset of JavaScript that compiles to plain JavaScript.
 
 ### JavaScript framework <a name="js-framework"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
