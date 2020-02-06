@@ -237,7 +237,6 @@
 * [Effector](https://effector.now.sh/) - an effective multi-store state manager for Javascript apps, that allows you to manage data in complex applications without the risk of inflating the monolithic central store, with clear control flow, good type support and high capacity API.
 * [freactal](https://github.com/FormidableLabs/freactal) - a composable state management library for React.
 * [JSData](https://www.js-data.io/) - a framework-agnostic, datastore-agnostic ORM for Node.js and the Browser.
-* [Kea](https://kea.js.org/) - data layer for React webapps, built on top of Redux.
 * [Microstates](https://github.com/microstates/microstates.js) - a functional runtime type system designed to ease state management in component based applications. It allows you to declaratively compose application state from atomic state machines.
 * [MobX](https://mobx.js.org/) - a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming.
 * [NuclearJS](https://optimizely.github.io/nuclear-js/) - reactive Flux built with ImmutableJS data structures.
@@ -246,9 +245,12 @@
 * [Redux](https://redux.js.org/) - a predictable state container for JavaScript apps.
 * [Storeon](https://github.com/storeon/storeon) - a tiny event-based Redux-like state manager for React and Preact.
 * [Transis](https://github.com/centro/transis) - a JavaScript data modeling library useful for creating rich client-side experiences.
+* [Undux](https://undux.org/) - a simple & typesafe alternative to Flux and Redux. Use it to manage state and data for ReactJS applications of all sizes.
+* [Unistore](https://github.com/developit/unistore) - a tiny centralized state container with component bindings for Preact & React.
 * [WatermelonDB](https://nozbe.github.io/WatermelonDB/) - build powerful React and React Native apps that scale from hundreds to tens of thousands of records and remain fast.
 * Redux-based library <a name="redux-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [Easy Peasy](https://easy-peasy.now.sh/) - provides you with an intuitive API to quickly and easily manage the state for your React application. No configuration is required to support derived state, API calls, performance optimisation, developer tools etc.
+    - [Kea](https://kea.js.org/) - data layer for React webapps, built on top of Redux.
     - [Redux Toolkit](https://redux-toolkit.js.org/) - the official, opinionated, batteries-included toolset for efficient Redux development.
     - [Rematch](https://rematch.github.io/rematch/) - Redux best practices without the boilerplate.
 
@@ -287,7 +289,7 @@
     - [Inject](http://www.injectjs.com/) (outdated) - AMD and CJS dependency management in the browser.
     - [require1k](https://github.com/Stuk/require1k) - a minimal, and yet practically useful, CommonJS/Node.js require module loader for the browser in under 1000 bytes.
 * ECMAScript 6:
-    - [@pika/web](https://github.com/pikapkg/web) - run npm dependencies directly in the browser. No Browserify, Webpack or import maps required.
+    - [Snowpack](https://www.snowpack.dev/) - with Snowpack you can build modern web apps (using React, Vue, etc.) without a bundler (like Webpack, Parcel, Rollup). No more waiting for your bundler to rebuild your site. Instead, every change is reflected in the browser instantly.
 
 ### Module and asset bundler <a name="bundler"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Browserify](http://browserify.org/) - lets you `require('modules')` in the browser by bundling up all of your dependencies.
