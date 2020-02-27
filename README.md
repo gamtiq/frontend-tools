@@ -343,6 +343,7 @@
 * [CodeceptJS](https://codecept.io/) - acceptance testing framework for NodeJS. CodeceptJS is a testing framework for end-to-end testing with WebDriver (or others). It abstracts browser interaction to simple steps which is written from a user perspective.
 * [Cypress](https://www.cypress.io/) - a test engine that runs unit and integration tests in your browser.
 * [Enzyme](https://airbnb.io/enzyme/) - a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output.
+* [Gauge](https://gauge.org/) - a light weight cross-platform test automation tool. It provides the ability to author test cases in the business language.
 * [Intern](https://theintern.io/) - a complete test system for JavaScript designed to help you write and run consistent, high-quality test cases for your JavaScript libraries and applications.
 * [Istanbul](https://istanbul.js.org/) - JS code coverage tool that computes statement, line, function and branch coverage.
 * [Jasmine](https://jasmine.github.io/) - a behavior-driven development framework for testing JavaScript code.
