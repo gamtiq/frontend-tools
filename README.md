@@ -131,19 +131,19 @@
 
 ### JavaScript UI (view) library / framework <a name="js-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Cell](https://www.celljs.org/) - A self-constructing web app framework powered by a self-driving DOM.
-* [Inferno](http://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces.
-* [jComponent](https://jcomponent.org/) - A component library for creating reusable components with jQuery.
-* [Marko](http://markojs.com/) - A friendly (and fast!) UI library that makes building web apps fun.
+* [Inferno](https://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces.
+* [Marko](https://markojs.com/) - A friendly (and fast!) UI library that makes building web apps fun.
 * [Melody](https://melody.js.org/) - A fast and memory efficient library for creating highly dynamic user interfaces.
-* [Monkberry](http://monkberry.js.org/) - Blazingly fast, small and simple JavaScript library for building web user interfaces.
-* [Moon](https://kbrsh.github.io/moon) - A minimal & fast UI library.
+* [Monkberry](https://monkberry.js.org/) - Blazingly fast, small and simple JavaScript library for building web user interfaces.
+* [Moon](https://moonjs.org/) - The minimal & fast library for functional user interfaces.
 * [Nerv](https://nerv.aotu.io/) - A blazing fast React alternative, compatible with IE8 and React 16.
 * [Preact](https://preactjs.com/) - Fast 3kb alternative to React with the same ES6 API.
 * [Ractive.js](https://ractive.js.org/) - A JavaScript library for building reactive user interfaces in a way that doesn't force you into a particular framework's way of thinking.
-* [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces.
+* [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
 * [Riot](https://riot.js.org/) - Simple and elegant component-based UI library.
-* [Svelte](https://svelte.technology/) - Rather than interpreting your application code at run time, your app is converted into ideal JavaScript at build time.
-* [Vue.js](http://vuejs.org/) - Simple yet powerful library for building modern web interfaces.
+* [Solid](https://github.com/ryansolid/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [Svelte](https://svelte.dev/) - Rather than interpreting your application code at run time, your app is converted into ideal JavaScript at build time.
+* [Vue.js](https://vuejs.org/) - Simple yet powerful library for building modern web interfaces.
 
 ### React-based library / framework / platform <a name="react-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Ant Design](https://ant.design/docs/react/introduce) - An enterprise-class UI design language and React-based implementation.
