@@ -590,13 +590,14 @@
 * [DevDocs](https://devdocs.io/) - combines multiple API documentations in a fast, organized, and searchable interface.
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - a collection of (mostly) technical things every software developer should know.
 * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook) - almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.
-* [Front-end Job Interview Questions](https://h5bp.github.io/Front-end-Developer-Interview-Questions/) - a list of helpful front-end related questions you can use to interview potential candidates or test yourself.
+* [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/) - a list of helpful front-end related questions you can use to interview potential candidates or test yourself.
 * [Grab Front End Guide](https://github.com/grab/front-end-guide) - study guide and introduction to the modern front end stack.
 * [OverAPI.com](http://overapi.com/) - collecting all cheat sheets.
 * [Project Guidelines](https://github.com/elsewhencode/project-guidelines) - a list of guidelines that works really well with most JavaScript projects.
 * [Service Worker Cookbook](https://serviceworke.rs/) - a collection of working, practical examples of using service workers in modern web sites.
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) - a big picture, thesaurus, and taxonomy of modern JavaScript web development.
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) - carefully curated content to help you ace your next technical interview, with a focus on algorithms.
+* [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - a collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users. This is a practical guide with concise explanations, however the reader is supposed to know what s/he is doing.
 * CSS <a name="css-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [30 Seconds of CSS](https://css.30secondsofcode.org/) - a curated collection of useful CSS snippets you can understand in 30 seconds or less.
     - [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - a collection of tips to help take your CSS skills pro.
