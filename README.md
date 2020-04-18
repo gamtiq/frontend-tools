@@ -515,6 +515,7 @@
 * [Light Table](http://lighttable.com/) - a next generation code editor that connects you to your creation with instant feedback. Light Table is very customizable and can display anything a Chromium browser can.
 * [Notepad++](https://notepad-plus-plus.org/) - a free source code editor and Notepad replacement that supports several languages.
 * [PSPad](https://www.pspad.com/) - text editor for developers for Microsoft Windows systems.
+* [RJ TextEd](https://www.rj-texted.se/) - a full featured text and source editor with Unicode support. It is also a very powerful web (PHP, ASP, JavaScript, HTML and CSS) development editor.
 * [Visual Studio Code](https://code.visualstudio.com/) - a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
 
 ### API <a name="api"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
