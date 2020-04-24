@@ -626,10 +626,13 @@
 * [The Complete JavaScript Handbook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/) - learn 80% of JavaScript in 20% of the time.
 
 ### Examples <a name="examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [CSSFX](https://cssfx.dev/) - beautifully simple click-to-copy CSS effects. A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup.
+* [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/) - a collection of CSS effects.
+* [CSSFX](https://cssfx.dev/) (https://cssfx.netlify.app/) - beautifully simple click-to-copy CSS effects. A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup.
 * [Hacker News readers as Progressive Web Apps](https://hnpwa.com/) - a list of unofficial Hacker News clients built with a number of popular JavaScript frameworks and libraries. Each implementation is a complete Progressive Web App that utilizes different progressive technologies to provide a fast, reliable and engaging experience.
+* [HTML DOM](https://htmldom.dev/) - common tasks of managing HTML DOM with vanilla JavaScript.
 * [RealWorld](https://github.com/gothinkster/realworld) - see how the exact same Medium.com clone is built using any of our supported frontends and backends.
 * [simpl.info](https://simpl.info/) - simplest possible examples of HTML, CSS and JavaScript.
+* [TodoMVC](http://todomvc.com/) - helping you select an MV* framework.
 
 ### Useful articles & resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [120+ Places To Find Creative Commons Media](https://www.sitepoint.com/creative-commons-sources/) - resources to search for audio, video, images and more for use in a project.
