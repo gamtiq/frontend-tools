@@ -274,6 +274,7 @@
 
 ### JavaScript utility library <a name="js-utility-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [101](https://github.com/tjmehta/101) - a modern JS utility library.
+* [Licia](https://licia.liriliri.io/) - useful utility collection with zero dependencies.
 * [Lodash](https://lodash.com/) - a modern JavaScript utility library delivering modularity, performance & extras.
 * [Mout](http://moutjs.com/) - a collection of modular JavaScript utilities that can be used in the browser as AMD modules or on node.js.
 * [Sugar](https://sugarjs.com/) - a Javascript utility library for working with native objects.
@@ -360,6 +361,7 @@
 * [Testing Library](https://testing-library.com/) - simple and complete testing utilities that encourage good testing practices and help you test UI components in a user-centric way.
 
 ### Debug <a name="debug"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Eruda](https://eruda.liriliri.io/) - console for mobile browsers.
 * [ndb](https://github.com/GoogleChromeLabs/ndb) - an improved debugging experience for Node.js, enabled by Chrome DevTools.
 * [stacktrace.js](https://www.stacktracejs.com/) - generate, parse, and enhance JavaScript stack traces in all web browsers.
 * [Vorlon.JS](http://www.vorlonjs.com/) - an open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript, powered by node.js and socket.io.
