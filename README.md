@@ -536,6 +536,7 @@
 * [jsFiddle](https://jsfiddle.net/) - an online playground for your JavaScript, HTML, CSS.
 * [Repl.it](https://repl.it/) - simple, reliable, and portable cloud coding interface. A community of teachers, students and engineers.
 * [RequireBin](http://requirebin.com/) - create programs in the browser using modules from NPM.
+* [RunJS](https://runjs.dev/) - a JavaScript playground that auto-evaluates your code as you type and outputs the results to a console pane.
 * [RunKit](https://runkit.com/) - a node playground in your browser.
 * [StackBlitz](https://stackblitz.com/) - the online code editor for web apps.
 
