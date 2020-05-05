@@ -610,6 +610,7 @@
     - [CSS-Tricks](https://css-tricks.com/) - a site about all things web design and development.
     - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/) - a showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 * JavaScript <a name="js-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+    - [1loc](https://1loc.dev/) - favorite JavaScript utilities in single line of code.
     - [30 seconds of code](https://www.30secondsofcode.org/) - curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
     - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts) - this repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies.
     - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - JavaScript based examples of many popular algorithms and data structures.
