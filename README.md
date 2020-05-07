@@ -178,7 +178,7 @@
 * [Bootstrap](https://getbootstrap.com/) - an open source toolkit for developing with HTML, CSS, and JS.
 * [Bulma](https://bulma.io/) - a modern CSS framework based on Flexbox.
 * [Flat UI](http://designmodo.github.io/Flat-UI/) - a beautiful theme for Bootstrap.
-* [Foundation](https://foundation.zurb.com/) - the most advanced responsive front-end framework in the world.
+* [Foundation](https://get.foundation/) - the most advanced responsive front-end framework in the world.
 * [Froala Design Blocks](https://www.froala.com/design-blocks) - a set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 * [GroundworkCSS](http://groundworkcss.github.io/) (outdated) - a fully responsive HTML5, CSS and Javascript toolkit.
 * [Ink](http://ink.sapo.pt/) - an interface kit for quick development of web interfaces, simple to use and expand on.
@@ -192,13 +192,14 @@
 * [Metro UI](https://metroui.org.ua/) - sleek, intuitive, and powerful front-end framework for faster and easier web development. Build responsive, mobile-first projects on the web with the first front-end component library in Metro Style.
 * [Polymer](https://www.polymer-project.org/) - libraries, tools and patterns to help developers build modern Progressive Web Apps, taking full advantage of cutting-edge platform features like Web Components, Service Workers and HTTP/2.
 * [Semantic UI](https://semantic-ui.com/) - a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
+* [Shorthand](https://shorthandcss.com/) - a free and open source css framework, that allows you to make unique and modern design without writing any css.
 * [Spectre.css](https://picturepan2.github.io/spectre/) - a lightweight, responsive and modern CSS framework.
 * [Tailwind CSS](https://tailwindcss.com/) - a utility-first CSS framework for rapid UI development.
 * [Topcoat](http://topcoat.io/) - CSS for clean and fast web apps.
 * [Turret](https://turretcss.com/) - a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.
 * [UIkit](https://getuikit.com/) - a lightweight and modular front-end framework for developing fast and powerful web interfaces.
 * Small CSS library / toolkit <a name="small-css-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-    - [Basscss](http://basscss.com/) - low-Level CSS Toolkit, a lightweight collection of immutable utilities designed for speed, clarity, performance, and scalability.
+    - [Basscss](https://basscss.com/) - low-Level CSS Toolkit, a lightweight collection of immutable utilities designed for speed, clarity, performance, and scalability.
     - [Cutestrap](https://www.cutestrap.com/) - a sassy, opinionated CSS Framework. A tiny alternative to Bootstrap.
     - [mini.css](https://minicss.org/) - a minimal, responsive, style-agnostic CSS framework.
     - [Mobi.css](http://getmobicss.com/) - a lightweight, scalable, mobile-first css framework.
