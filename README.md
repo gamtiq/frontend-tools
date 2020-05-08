@@ -446,6 +446,7 @@
 * [Playroom](https://github.com/seek-oss/playroom) - Simultaneously design across a variety of themes and screen sizes, powered by JSX and your own component library. Playroom allows you to create a zero-install code-oriented design environment, built into a standalone bundle that can be deployed alongside your existing design system documentation.
 
 ### Images, icons <a name="images"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [css.gg](https://css.gg/) - open-source CSS, SVG and Figma UI Icons, available in SVG Sprite, styled-components, NPM & API.
 * [Eva Icons](https://akveo.github.io/eva-icons/) - a pack of more than 480 beautifully crafted Open Source icons for common actions and items. Icons are provided in two visual types: Fill and Outline and in several formats, including PNG, SVG, font, Sketch, etc.
 * [Ikonate](https://www.ikonate.com/) - fully customisable & accessible, well-optimised vector icons.
 * [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - miniscule SVG versions of your favourite website and app logos.
