@@ -467,6 +467,8 @@
 
 ### Network <a name="net"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [HTTPie](https://httpie.org/) - a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more.
+* [Insomnia](https://insomnia.rest/) - cross-platform HTTP and GraphQL Client.
+* [Postwoman](https://postwoman.io/) - a free, fast and beautiful API request builder (web alternative to Postman).
 * [Wireshark](https://www.wireshark.org/) - the world’s foremost and widely-used network protocol analyzer.
 
 ### Version control <a name="version-control"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
