@@ -595,6 +595,7 @@
 * [unpkg](https://unpkg.com/) - a fast, global content delivery network for everything on npm. Use it to quickly and easily load any file from any package.
 
 ### Guide, reference, practices, recipes <a name="guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [30 seconds of code](https://www.30secondsofcode.org/) - short code snippets for all your development needs.
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/) - a curated collection of common interview questions to help you prepare for your next interview.
 * [Checkbot: Web Best Practices](https://www.checkbot.io/guide/) - details 50+ SEO, speed and security web best practices.
 * [DevDocs](https://devdocs.io/) - combines multiple API documentations in a fast, organized, and searchable interface.
@@ -609,16 +610,17 @@
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) - carefully curated content to help you ace your next technical interview, with a focus on algorithms.
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - a collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users. This is a practical guide with concise explanations, however the reader is supposed to know what s/he is doing.
 * CSS <a name="css-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-    - [30 Seconds of CSS](https://css.30secondsofcode.org/) - a curated collection of useful CSS snippets you can understand in 30 seconds or less.
+    - [30 Seconds of CSS](https://www.30secondsofcode.org/css/) - a curated collection of useful CSS snippets you can understand in 30 seconds or less.
     - [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - a collection of tips to help take your CSS skills pro.
     - [CSS-Tricks](https://css-tricks.com/) - a site about all things web design and development.
     - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/) - a showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 * JavaScript <a name="js-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [1loc](https://1loc.dev/) - favorite JavaScript utilities in single line of code.
-    - [30 seconds of code](https://www.30secondsofcode.org/) - curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+    - [30 seconds of JavaScript](https://www.30secondsofcode.org/js/) - curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
     - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts) - this repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies.
     - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - JavaScript based examples of many popular algorithms and data structures.
     - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - a growing collection of documentation about the most quirky parts of the JavaScript programming language.
+    - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - a long list of (advanced) JavaScript questions, and their explanations. From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview!
     - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
     - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - a summary and curation of the top-ranked content on Node JS best practices.
 
