@@ -61,6 +61,7 @@
     - [JavaScript](#js-guide)
 * [Books](#books)
 * [Examples](#examples)
+    - [CSS](#css-examples)
 * [Useful articles & resources](#resources)
 
 ### Tools catalog / search / discovery / comparison service <a name="tool-search"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -448,6 +449,7 @@
 ### Images, icons <a name="images"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [css.gg](https://css.gg/) - open-source CSS, SVG and Figma UI Icons, available in SVG Sprite, styled-components, NPM & API.
 * [Eva Icons](https://akveo.github.io/eva-icons/) - a pack of more than 480 beautifully crafted Open Source icons for common actions and items. Icons are provided in two visual types: Fill and Outline and in several formats, including PNG, SVG, font, Sketch, etc.
+* [icono](https://saeedalipoor.github.io/icono/) - pure css icons, with only one element.
 * [Ikonate](https://www.ikonate.com/) - fully customisable & accessible, well-optimised vector icons.
 * [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - miniscule SVG versions of your favourite website and app logos.
 * [SVG Porn](https://svgporn.com/) - a huge collection of SVG logos.
@@ -637,13 +639,16 @@
 * [The Complete JavaScript Handbook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/) - learn 80% of JavaScript in 20% of the time.
 
 ### Examples <a name="examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/) - a collection of CSS effects.
-* [CSSFX](https://cssfx.dev/) (https://cssfx.netlify.app/) - beautifully simple click-to-copy CSS effects. A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup.
 * [Hacker News readers as Progressive Web Apps](https://hnpwa.com/) - a list of unofficial Hacker News clients built with a number of popular JavaScript frameworks and libraries. Each implementation is a complete Progressive Web App that utilizes different progressive technologies to provide a fast, reliable and engaging experience.
 * [HTML DOM](https://htmldom.dev/) - common tasks of managing HTML DOM with vanilla JavaScript.
 * [RealWorld](https://github.com/gothinkster/realworld) - see how the exact same Medium.com clone is built using any of our supported frontends and backends.
 * [simpl.info](https://simpl.info/) - simplest possible examples of HTML, CSS and JavaScript.
 * [TodoMVC](http://todomvc.com/) - helping you select an MV* framework.
+* CSS <a name="css-examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+    - [CSS Arrows From CodePen](https://freebiesupply.com/blog/css-arrows/) - a list of CSS arrows from CodePen.
+    - [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/) - a collection of CSS effects.
+    - [CSSFX](https://cssfx.dev/) (https://cssfx.netlify.app/) - beautifully simple click-to-copy CSS effects. A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup.
+    - [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/) - lots of shapes in CSS with only a single HTML element.
 
 ### Useful articles & resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [120+ Places To Find Creative Commons Media](https://www.sitepoint.com/creative-commons-sources/) - resources to search for audio, video, images and more for use in a project.
