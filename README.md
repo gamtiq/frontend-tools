@@ -38,6 +38,7 @@
 * [Boilerplate, scaffolding](#boilerplate)
 * [Component development](#component-dev)
 * [Design](#design)
+* [Graphics/image editor](#image-editor)
 * [Images, icons](#images)
 * [Analysis, performance, optimization](#analysis)
 * [Network](#net)
@@ -445,6 +446,12 @@
 
 ### Design <a name="design"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Playroom](https://github.com/seek-oss/playroom) - Simultaneously design across a variety of themes and screen sizes, powered by JSX and your own component library. Playroom allows you to create a zero-install code-oriented design environment, built into a standalone bundle that can be deployed alongside your existing design system documentation.
+
+### Graphics/image editor <a name="image-editor"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [GIMP](https://www.gimp.org/) - a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems.
+* [Inkscape](https://inkscape.org/) - a free and open source vector graphics editor for GNU/Linux, Windows and MacOS X. It offers a rich set of features and is widely used for both artistic and technical illustrations such as cartoons, clip art, logos, typography, diagramming and flowcharting.
+* [Krita](https://krita.org/) - a professional free and open source painting program. It is made by artists that want to see affordable art tools for everyone.
+* [Paint.NET](https://www.getpaint.net/) - image and photo editing software for PCs that run Windows.
 
 ### Images, icons <a name="images"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [css.gg](https://css.gg/) - open-source CSS, SVG and Figma UI Icons, available in SVG Sprite, styled-components, NPM & API.
