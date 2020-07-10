@@ -261,11 +261,12 @@
 * [AlaSQL](http://alasql.org/) - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
 * [DataScript](https://github.com/tonsky/datascript) - immutable database and Datalog query engine for Clojure, ClojureScript and JS.
 * [ForerunnerDB](http://www.forerunnerdb.com) - a NoSQL JavaScript JSON database with a query language based on MongoDB (with some differences) and runs on browsers and Node.js.
-* [LokiJS](http://lokijs.org) - a fast, in-memory document-oriented datastore for node.js, browser and cordova.
+* [LokiJS](https://github.com/techfort/LokiJS) - a document oriented database written in javascript. Its purpose is to store javascript objects as documents in a nosql fashion and retrieve them with a similar mechanism. Runs in node (including cordova/phonegap and node-webkit), nativescript and the browser.
 * [Lowdb](https://github.com/typicode/lowdb) - a small local database for small projects (powered by lodash API).
+* [nanoSQL](https://nanosql.io/) - universal database layer for the client, server & mobile devices. It's like Lego for databases. 
 * [NeDB](https://github.com/louischatriot/nedb) - embedded persistent or in memory database for Node.js, nw.js, Electron and browsers, 100% JavaScript, no binary dependency.
 * [PouchDB](https://pouchdb.com/) - an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser. It enables applications to store data locally while offline, then synchronize it with CouchDB and compatible servers when the application is back online, keeping the user's data in sync no matter where they next login.
-* [RxDB](https://github.com/pubkey/rxdb) - reactive, serverless, client-side, offline-first database.
+* [RxDB](https://rxdb.info/) - a realtime database for JavaScript applications. RxDB is a NoSQL-database for JavaScript applications like websites, hybrid apps, Electron-apps, Progressive Web Apps and NodeJs.
 * [TingoDB](http://www.tingodb.com/) - an embedded JavaScript in-process filesystem or in-memory database upwards compatible with MongoDB at the API level.
 
 ### Internationalization (i18n), localization (l10n) <a name="i18n"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
