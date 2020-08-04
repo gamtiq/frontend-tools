@@ -68,6 +68,7 @@
 ### Tools catalog / search / discovery / comparison service <a name="tool-search"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [AlternativeTo](https://alternativeto.net/) - A free service that helps you find better alternatives to the products you love and hate.
 * [awesome](https://awesome.re/) - A curated list of awesome lists.
+* [Awesome Open Source](https://awesomeopensource.com/) - Find open source by searching, browsing and combining topics.
 * [awesome-react-components](http://devarchy.com/react-components) - Catalog of React components / libraries.
 * [Best of JavaScript](https://bestofjs.org/) - A place to find the best components to build amazing web applications.
 * [CSS Script](https://www.cssscript.com/) - A Javascript & CSS code library aims to provide the newest, best and free CSS & javascript resources for web/mobile developers and designers.
@@ -538,6 +539,7 @@
 * [APIs.guru](https://apis.guru/browse-apis/) - Wikipedia for WEB APIs.
 * [ProgrammableWeb API directory](https://www.programmableweb.com/apis/directory) - directory where developers can search for APIs to include in their next software development project.
 * [Public APIs](https://github.com/public-apis/public-apis) - a collective list of free APIs for use in software and web development.
+* [RapidAPI](https://rapidapi.com/) - find and connect to thousands of APIs, track and manage all of your API connections in one place. RapidAPI lets you manage all your API integrations from one place and gives you real-time performance metrics.
 * [Swagger](https://swagger.io/) - a powerful yet easy-to-use suite of API developer tools for teams and individuals, enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 
 ### Playground, online development <a name="playground"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
