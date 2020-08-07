@@ -51,6 +51,7 @@
 * [Editor, IDE](#editor)
 * [API](#api)
 * [Playground, online development](#playground)
+* [Online tool](#online-tool)
 * [Site generator](#site-generator)
 * [Emulator, simulator](#emulator)
 * [Browser extension](#browser-extension)
@@ -66,35 +67,36 @@
 * [Useful articles & resources](#resources)
 
 ### Tools catalog / search / discovery / comparison service <a name="tool-search"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [AlternativeTo](https://alternativeto.net/) - A free service that helps you find better alternatives to the products you love and hate.
-* [awesome](https://awesome.re/) - A curated list of awesome lists.
-* [Awesome Open Source](https://awesomeopensource.com/) - Find open source by searching, browsing and combining topics.
-* [awesome-react-components](http://devarchy.com/react-components) - Catalog of React components / libraries.
-* [Best of JavaScript](https://bestofjs.org/) - A place to find the best components to build amazing web applications.
-* [CSS Script](https://www.cssscript.com/) - A Javascript & CSS code library aims to provide the newest, best and free CSS & javascript resources for web/mobile developers and designers.
-* [headlesscms.org](https://headlesscms.org/) - A list of content management systems for JAMstack sites.
-* [iReact](http://ireact.cn/) - Helps you discover the most fantastic, powerful React Components and Libraries, and makes it easy for you to pick one that’ll work for you.
-* [JavaScripting](https://www.javascripting.com/) - The definitive source of the best JavaScript libraries, frameworks, and plugins.
-* [jQuery Plugins](https://jquery-plugins.net/) - Categorized collection of jQuery plugins.
-* [JqueryScript.Net](https://www.jqueryscript.net/) - One of jQuery Plugin websites that provide web designers and developers with a simple way to preview and download a variety of Free jQuery Plugins.
-* [JSter](http://jster.net/) - A catalog of frontend JavaScript libraries.
-* [JS.coach](https://js.coach/) - An opinionated catalog of open source JS packages.
-* [LibHunt](https://www.libhunt.com/) -  Our goal is to help you find the software and libraries you need. All lists have been crafted by many experts from the relevant GitHub communities.
-* [Libraries.io](https://libraries.io/) - Helps developers find new open source libraries, modules and frameworks and keep track of ones they depend upon.
-* [MicroJS](http://microjs.com) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
-* [Node Frameworks](http://nodeframework.com/) - Hand-picked registry of Node.js frameworks.
-* [NPMCompare](https://npmcompare.com/) - Search and compare npm packages.
-* [npms](https://npms.io/) - A better and open source search for node modules.
-* [npmsearch](http://npmsearch.com/) - Search for node packages on the npm registry.
-* [npm trends](https://www.npmtrends.com/) - Compare package download counts over time.
-* [Pika](https://www.pika.dev/) - Search npm for fast, modern packages.
-* [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of addon libraries for Redux, as well as other libraries that are closely related.
-* [Slant](https://www.slant.co/) - A product recommendation community that helps connect people with the best products for them.
-* [StackShare](https://stackshare.io/) - Discover & discuss the best software tools & services.
-* [StaticGen.com](https://www.staticgen.com/) - A leaderboard of top open-source static site generators.
-* [Unheap](http://www.unheap.com/) - A tidy repository of JavaScript plugins.
-* [VueScript.com](https://www.vuescript.com/) - Aims to offer latest free Vue.js components for web application developers.
-* [webcomponents.org](https://www.webcomponents.org/) - A place to publish, browse and search for reusable web UI components.
+* [AlternativeTo](https://alternativeto.net/) - a free service that helps you find better alternatives to the products you love and hate.
+* [awesome](https://awesome.re/) - a curated list of awesome lists.
+* [Awesome Open Source](https://awesomeopensource.com/) - find open source by searching, browsing and combining topics.
+* [awesome-react-components](http://devarchy.com/react-components) - catalog of React components / libraries.
+* [Best of JavaScript](https://bestofjs.org/) - a place to find the best components to build amazing web applications.
+* [CSS Script](https://www.cssscript.com/) - a Javascript & CSS code library aims to provide the newest, best and free CSS & javascript resources for web/mobile developers and designers.
+* [Free for developers](https://free-for.dev/) - a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+* [headlesscms.org](https://headlesscms.org/) - a list of content management systems for JAMstack sites.
+* [iReact](http://ireact.cn/) - helps you discover the most fantastic, powerful React Components and Libraries, and makes it easy for you to pick one that’ll work for you.
+* [JavaScripting](https://www.javascripting.com/) - the definitive source of the best JavaScript libraries, frameworks, and plugins.
+* [jQuery Plugins](https://jquery-plugins.net/) - categorized collection of jQuery plugins.
+* [JqueryScript.Net](https://www.jqueryscript.net/) - one of jQuery plugin websites that provide web designers and developers with a simple way to preview and download a variety of free jQuery plugins.
+* [JSter](http://jster.net/) - a catalog of frontend JavaScript libraries.
+* [JS.coach](https://js.coach/) - an opinionated catalog of open source JS packages.
+* [LibHunt](https://www.libhunt.com/) -  our goal is to help you find the software and libraries you need. All lists have been crafted by many experts from the relevant GitHub communities.
+* [Libraries.io](https://libraries.io/) - helps developers find new open source libraries, modules and frameworks and keep track of ones they depend upon.
+* [MicroJS](http://microjs.com) - fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
+* [Node Frameworks](http://nodeframework.com/) - hand-picked registry of Node.js frameworks.
+* [NPMCompare](https://npmcompare.com/) - search and compare npm packages.
+* [npms](https://npms.io/) - a better and open source search for node modules.
+* [npmsearch](http://npmsearch.com/) - search for node packages on the npm registry.
+* [npm trends](https://www.npmtrends.com/) - compare package download counts over time.
+* [Pika](https://www.pika.dev/) - search npm for fast, modern packages.
+* [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links) - a categorized list of addon libraries for Redux, as well as other libraries that are closely related.
+* [Slant](https://www.slant.co/) - a product recommendation community that helps connect people with the best products for them.
+* [StackShare](https://stackshare.io/) - discover & discuss the best software tools & services.
+* [StaticGen.com](https://www.staticgen.com/) - a leaderboard of top open-source static site generators.
+* [Unheap](http://www.unheap.com/) - a tidy repository of JavaScript plugins.
+* [VueScript.com](https://www.vuescript.com/) - aims to offer latest free Vue.js components for web application developers.
+* [webcomponents.org](https://www.webcomponents.org/) - a place to publish, browse and search for reusable web UI components.
 
 ### ECMAScript / JavaScript <a name="ecmascript"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Specification <a name="es-specification"></a>
@@ -556,6 +558,9 @@
 * [RunKit](https://runkit.com/) - a node playground in your browser.
 * [StackBlitz](https://stackblitz.com/) - the online code editor for web apps.
 
+### Online tool <a name="online-tool"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [ExtendsClass](https://extendsclass.com/) - free online toolbox for developers. You have at your disposal syntax validators, code formatters, testers, HTTP clients, mock server, but also a SQLite browser.
+
 ### Site generator <a name="site-generator"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CMS.js](https://chrisdiana.dev/cms.js/) - fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol' HTML, CSS and Javascript to generate your website.
 * [DocPad](https://docpad.bevry.me/) - a dynamic static-site generator. That is a content management system that takes content from several sources, like files on your computer, and renders them into incredibly fast static output.
@@ -607,6 +612,7 @@
 * [unpkg](https://unpkg.com/) - a fast, global content delivery network for everything on npm. Use it to quickly and easily load any file from any package.
 
 ### Guide, reference, practices, recipes <a name="guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [100+ Coding Interview Questions for Programmers](https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7) - solve these frequently asked coding problems to do well on your next programming job interviews.
 * [30 seconds of code](https://www.30secondsofcode.org/) - short code snippets for all your development needs.
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/) - a curated collection of common interview questions to help you prepare for your next interview.
 * [Checkbot: Web Best Practices](https://www.checkbot.io/guide/) - details 50+ SEO, speed and security web best practices.
