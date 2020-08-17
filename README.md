@@ -135,36 +135,36 @@
 * [qooxdoo](http://www.qooxdoo.org/) - a universal JavaScript framework that enables you to create applications for a wide range of platforms.
 
 ### JavaScript UI (view) library / framework <a name="js-ui-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [Cell](https://www.celljs.org/) - A self-constructing web app framework powered by a self-driving DOM.
-* [Inferno](https://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces.
-* [Marko](https://markojs.com/) - A friendly (and fast!) UI library that makes building web apps fun.
-* [Melody](https://melody.js.org/) - A fast and memory efficient library for creating highly dynamic user interfaces.
-* [Monkberry](https://monkberry.js.org/) - Blazingly fast, small and simple JavaScript library for building web user interfaces.
-* [Moon](https://moonjs.org/) - The minimal & fast library for functional user interfaces.
-* [Nerv](https://nerv.aotu.io/) - A blazing fast React alternative, compatible with IE8 and React 16.
-* [Preact](https://preactjs.com/) - Fast 3kb alternative to React with the same ES6 API.
-* [Ractive.js](https://ractive.js.org/) - A JavaScript library for building reactive user interfaces in a way that doesn't force you into a particular framework's way of thinking.
-* [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
-* [Riot](https://riot.js.org/) - Simple and elegant component-based UI library.
-* [Solid](https://github.com/ryansolid/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-* [Svelte](https://svelte.dev/) - Rather than interpreting your application code at run time, your app is converted into ideal JavaScript at build time.
-* [Vue.js](https://vuejs.org/) - Simple yet powerful library for building modern web interfaces.
+* [Alpine.js](https://github.com/alpinejs/alpine) - a rugged, minimal framework for composing JavaScript behavior in your markup. Alpine.js offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
+* [Cell](https://www.celljs.org/) - a self-constructing web app framework powered by a self-driving DOM.
+* [Inferno](https://infernojs.org/) - an extremely fast, React-like JavaScript library for building modern user interfaces.
+* [Marko](https://markojs.com/) - a friendly (and fast!) UI library that makes building web apps fun.
+* [Melody](https://melody.js.org/) - a fast and memory efficient library for creating highly dynamic user interfaces.
+* [Monkberry](https://monkberry.js.org/) - blazingly fast, small and simple JavaScript library for building web user interfaces.
+* [Moon](https://moonjs.org/) - the minimal & fast library for functional user interfaces.
+* [Nerv](https://nerv.aotu.io/) - a blazing fast React alternative, compatible with IE8 and React 16.
+* [Preact](https://preactjs.com/) - fast 3kb alternative to React with the same ES6 API.
+* [Ractive.js](https://ractive.js.org/) - a JavaScript library for building reactive user interfaces in a way that doesn't force you into a particular framework's way of thinking.
+* [React](https://reactjs.org/) - a JavaScript library for building user interfaces.
+* [Riot](https://riot.js.org/) - simple and elegant component-based UI library.
+* [Solid](https://github.com/ryansolid/solid) - a declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [Svelte](https://svelte.dev/) - rather than interpreting your application code at run time, your app is converted into ideal JavaScript at build time.
+* [Vue.js](https://vuejs.org/) - simple yet powerful library for building modern web interfaces.
 
 ### React-based library / framework / platform <a name="react-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [Ant Design](https://ant.design/docs/react/introduce) - An enterprise-class UI design language and React-based implementation.
-* [Blueprint](http://blueprintjs.com/) - A React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for desktop applications.
+* [Ant Design](https://ant.design/docs/react/introduce) - an enterprise-class UI design language and React-based implementation.
+* [Blueprint](https://blueprintjs.com/) - a React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for desktop applications.
+* [Chakra UI](https://chakra-ui.com/) - a simple, modular and accessible component library that gives you all the building blocks you need to build your React applications.
 * [dva](https://github.com/dvajs/dva) - React and Redux based, lightweight and Elm-style framework.
-* [Electrode](http://www.electrode.io/) - A platform for building universal React/Node.js applications with standardized structure, best practices, and modern technologies baked in.
-* [Elemental UI](http://elemental-ui.com/) - A UI Toolkit for React.js Websites and Apps.
-* [Essence](http://getessence.io) - The Essential Material Design Framework.
-* [Grommet](http://grommet.github.io/) - The most advanced UX framework for enterprise applications.
+* [Electrode](http://www.electrode.io/) - a platform for building universal React/Node.js applications with standardized structure, best practices, and modern technologies baked in.
+* [Elemental UI](http://elemental-ui.com/) - a UI Toolkit for React.js Websites and Apps.
+* [Grommet](http://grommet.github.io/) - the most advanced UX framework for enterprise applications.
 * [libreact](https://github.com/streamich/libreact) - a collection of most essential React utilities you will probably need in any project.
-* [Material-UI](http://www.material-ui.com/) - A Set of React Components that Implement Google's Material Design.
-* [react-md](http://react-md.mlaursen.com/) - A set of React components and sass files for implementing Google's Material Design.
-* [React-MDL](https://react-mdl.github.io/react-mdl/) - A set of React components build on top of Material Design Lite.
-* [React Toolbox](http://react-toolbox.com) - A set of React components that implement Google's Material Design specification.
-* [ReactXP](https://microsoft.github.io/reactxp/) - A library for cross-platform app development using React and React Native.
-* [Rebass](http://jxnblk.com/rebass/) - Configurable React Stateless Functional UI Components.
+* [Material-UI](http://www.material-ui.com/) - a Set of React Components that Implement Google's Material Design.
+* [react-md](https://react-md.dev/) - an accessible React component library built from the Material Design guidelines in Sass.
+* [React Toolbox](http://react-toolbox.com) - a set of React components that implement Google's Material Design specification.
+* [ReactXP](https://microsoft.github.io/reactxp/) - a library for cross-platform app development using React and React Native.
+* [Rebass](https://rebassjs.org/) - React primitive UI components built with Styled System.
 
 ### Vue-based library / framework <a name="vue-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [BalmUI](https://material.balmjs.com/) - next generation Material UI for Vue.js.
