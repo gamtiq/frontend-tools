@@ -436,8 +436,10 @@
 * [Create React App](https://create-react-app.dev/) - create React apps with no build configuration.
 * [create-react-library](https://github.com/transitive-bullshit/create-react-library) - CLI for easily creating reusable react libraries.
 * [degit](https://github.com/Rich-Harris/degit) - straightforward project scaffolding. *degit* makes copies of git repositories.
+* [fullstack-typescript](https://github.com/gilamran/fullstack-typescript) - FullStack React with TypeScript starter kit.
 * [Neutrino](https://neutrinojs.org/) - a companion tool which lets you build web and Node.js applications with shared presets or configurations. It intends to make the process of initializing and building projects much simpler by providing minimal development dependencies.
 * [nwb](https://github.com/insin/nwb) - a toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it).
+* [React Starter Kit](https://reactstarter.com/) - an opinionated boilerplate for web development built on top of Node.js, Express, GraphQL and React, containing modern web development tools such as Webpack, Babel and Browsersync.
 * [TSDX](https://github.com/jaredpalmer/tsdx) - a zero-config CLI that helps you develop, test, and publish modern TypeScript packages with ease.
 
 ### Component development <a name="component-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
