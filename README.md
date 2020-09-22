@@ -557,8 +557,8 @@
 * [Glitch](https://glitch.com/) - the friendly community where everyone can discover and create the best stuff on the web.
 * [JS Bin](https://jsbin.com/) - an open source collaborative web development debugging tool. Write code and have it both save in real-time, but also render a full preview in real-time.
 * [jsFiddle](https://jsfiddle.net/) - an online playground for your JavaScript, HTML, CSS.
+* [Quokka](https://quokkajs.com/) - a developer productivity tool for rapid JavaScript / TypeScript prototyping. Runtime values are updated and displayed in your IDE next to your code, as you type.
 * [Repl.it](https://repl.it/) - simple, reliable, and portable cloud coding interface. A community of teachers, students and engineers.
-* [RequireBin](http://requirebin.com/) - create programs in the browser using modules from NPM.
 * [RunJS](https://runjs.dev/) - a JavaScript playground that auto-evaluates your code as you type and outputs the results to a console pane.
 * [RunKit](https://runkit.com/) - a node playground in your browser.
 * [StackBlitz](https://stackblitz.com/) - the online code editor for web apps.
