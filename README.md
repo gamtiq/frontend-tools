@@ -158,11 +158,12 @@
 * [dva](https://github.com/dvajs/dva) - React and Redux based, lightweight and Elm-style framework.
 * [Electrode](http://www.electrode.io/) - a platform for building universal React/Node.js applications with standardized structure, best practices, and modern technologies baked in.
 * [Elemental UI](http://elemental-ui.com/) - a UI Toolkit for React.js Websites and Apps.
-* [Grommet](http://grommet.github.io/) - the most advanced UX framework for enterprise applications.
+* [Fusion.js](https://fusionjs.com/) - modern framework for fast, powerful React apps. Fusion.js is a universal web framework that represents the fusion of the client and the server. It's geared for server-side rendering out of the box, and its plugin-driven architecture allows for complex frontend and backend logic to be encapsulated in a single plugin.
+* [Grommet](https://grommet.io/) - a React-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package.
 * [libreact](https://github.com/streamich/libreact) - a collection of most essential React utilities you will probably need in any project.
-* [Material-UI](http://www.material-ui.com/) - a Set of React Components that Implement Google's Material Design.
+* [Material-UI](https://material-ui.com/) - a Set of React Components that Implement Google's Material Design.
 * [react-md](https://react-md.dev/) - an accessible React component library built from the Material Design guidelines in Sass.
-* [React Toolbox](http://react-toolbox.com) - a set of React components that implement Google's Material Design specification.
+* [React Toolbox](http://react-toolbox.io) - a set of React components that implements Google Material Design specification.
 * [ReactXP](https://microsoft.github.io/reactxp/) - a library for cross-platform app development using React and React Native.
 * [Rebass](https://rebassjs.org/) - React primitive UI components built with Styled System.
 
