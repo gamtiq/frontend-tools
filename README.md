@@ -353,7 +353,7 @@
 * [Chai](https://www.chaijs.com/) - a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 * [CodeceptJS](https://codecept.io/) - acceptance testing framework for NodeJS. CodeceptJS is a testing framework for end-to-end testing with WebDriver (or others). It abstracts browser interaction to simple steps which is written from a user perspective.
 * [Cypress](https://www.cypress.io/) - a test engine that runs unit and integration tests in your browser.
-* [Enzyme](https://airbnb.io/enzyme/) - a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output.
+* [Enzyme](https://enzymejs.github.io/enzyme/) - a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output.
 * [Gauge](https://gauge.org/) - a light weight cross-platform test automation tool. It provides the ability to author test cases in the business language.
 * [Intern](https://theintern.io/) - a complete test system for JavaScript designed to help you write and run consistent, high-quality test cases for your JavaScript libraries and applications.
 * [Istanbul](https://istanbul.js.org/) - JS code coverage tool that computes statement, line, function and branch coverage.
@@ -362,7 +362,8 @@
 * [Karma](http://karma-runner.github.io/) - a tool that allows you to execute JavaScript code in multiple real browsers.
 * [Majestic](https://github.com/Raathigesh/majestic) - zero config GUI for Jest.
 * [Mocha](https://mochajs.org/) - simple, flexible, fun JavaScript test framework for Node.js & The Browser.
-* [QUnit](http://qunitjs.com/) - a powerful, easy-to-use JavaScript unit testing framework.
+* [QA Wolf](https://www.qawolf.com/) - a Node.js library for creating browser tests.
+* [QUnit](https://qunitjs.com/) - a powerful, easy-to-use JavaScript unit testing framework.
 * [Sazerac](https://sazerac.js.org/) - data-driven testing for JavaScript. It helps you create simple, readable tests and works with Jasmine, Jest, and Mocha.
 * [tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers.
 * [TestCafe](https://devexpress.github.io/testcafe/) - a node.js tool to automate end-to-end web testing.
