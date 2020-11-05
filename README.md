@@ -461,6 +461,7 @@
 * [Inkscape](https://inkscape.org/) - a free and open source vector graphics editor for GNU/Linux, Windows and MacOS X. It offers a rich set of features and is widely used for both artistic and technical illustrations such as cartoons, clip art, logos, typography, diagramming and flowcharting.
 * [Krita](https://krita.org/) - a professional free and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 * [Paint.NET](https://www.getpaint.net/) - image and photo editing software for PCs that run Windows.
+* [Change SVG Color](https://change-svg-color.edrini.xyz/) - change svg color using css filter
 
 ### Images, icons <a name="images"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [css.gg](https://css.gg/) - open-source CSS, SVG and Figma UI Icons, available in SVG Sprite, styled-components, NPM & API.
@@ -470,6 +471,8 @@
 * [Ikonate](https://www.ikonate.com/) - fully customisable & accessible, well-optimised vector icons.
 * [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - miniscule SVG versions of your favourite website and app logos.
 * [SVG Porn](https://svgporn.com/) - a huge collection of SVG logos.
+* [Icons8](https://icons8.com/) - free icons, photos, vectors, music and tools
+
 
 ### Analysis, performance, optimization <a name="analysis"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Bundle Buddy](https://github.com/samccone/bundle-buddy) - a tool to help you find source code duplication across your javascript chunks/splits.
