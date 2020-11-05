@@ -27,6 +27,7 @@
 * [Module and asset bundler](#bundler)
 * [Package manager](#package-manager)
 * [CSS processor](#css-processor)
+* [CSS tool](#css-tool)
 * [Linting, validation, checklist](#linting)
 * [Testing](#testing)
 * [Debug](#debug)
@@ -329,6 +330,9 @@
 * [Sass](http://sass-lang.com/) - An extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more. 
 * [Stylus](http://stylus-lang.com/) - Expressive, robust, feature-rich language, providing an efficient, dynamic, and expressive way to generate CSS. 
 
+### CSS tool <a name="css-tool"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Change SVG Color](https://change-svg-color.edrini.xyz/) - converts Hex, Rgba, HSLA color to CSS filter. And the CSS filter could be used to change the SVG color.
+
 ### Linting, validation, checklist <a name="linting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Front-End Checklist](https://frontendchecklist.io/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
 * [lint-staged](https://github.com/okonet/lint-staged) - run linters against staged git files. This project contains a script that will run arbitrary shell tasks with a list of staged files as an argument, filtered by a specified glob pattern.
@@ -461,17 +465,16 @@
 * [Inkscape](https://inkscape.org/) - a free and open source vector graphics editor for GNU/Linux, Windows and MacOS X. It offers a rich set of features and is widely used for both artistic and technical illustrations such as cartoons, clip art, logos, typography, diagramming and flowcharting.
 * [Krita](https://krita.org/) - a professional free and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 * [Paint.NET](https://www.getpaint.net/) - image and photo editing software for PCs that run Windows.
-* [Change SVG Color](https://change-svg-color.edrini.xyz/) - change svg color using css filter
 
 ### Images, icons <a name="images"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [css.gg](https://css.gg/) - open-source CSS, SVG and Figma UI Icons, available in SVG Sprite, styled-components, NPM & API.
 * [Eva Icons](https://akveo.github.io/eva-icons/) - a pack of more than 480 beautifully crafted Open Source icons for common actions and items. Icons are provided in two visual types: Fill and Outline and in several formats, including PNG, SVG, font, Sketch, etc.
 * [Heroicons](https://heroicons.dev/) - a set of free MIT-licensed high-quality SVG icons for UI development.
 * [icono](https://saeedalipoor.github.io/icono/) - pure css icons, with only one element.
+* [Icons8](https://icons8.com/) - free icons, photos, vectors, music and tools.
 * [Ikonate](https://www.ikonate.com/) - fully customisable & accessible, well-optimised vector icons.
 * [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - miniscule SVG versions of your favourite website and app logos.
 * [SVG Porn](https://svgporn.com/) - a huge collection of SVG logos.
-* [Icons8](https://icons8.com/) - free icons, photos, vectors, music and tools
 
 
 ### Analysis, performance, optimization <a name="analysis"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
