@@ -645,6 +645,7 @@
     - [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - a collection of tips to help take your CSS skills pro.
     - [CSS-Tricks](https://css-tricks.com/) - a site about all things web design and development.
     - [cssdb](https://cssdb.org/) - a comprehensive list of CSS features and their positions in the process of becoming implemented web standards.
+    - [Modern CSS](https://moderncss.dev/) - modern CSS solutions for old CSS problems.
     - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/) - a showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
     - [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
 * JavaScript <a name="js-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
