@@ -188,10 +188,10 @@
 * [Foundation](https://get.foundation/) - the most advanced responsive front-end framework in the world.
 * [Froala Design Blocks](https://www.froala.com/design-blocks) - a set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 * [GroundworkCSS](http://groundworkcss.github.io/) (outdated) - a fully responsive HTML5, CSS and Javascript toolkit.
+* [Halfmoon](https://www.gethalfmoon.com/) - front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 * [Ink](http://ink.sapo.pt/) - an interface kit for quick development of web interfaces, simple to use and expand on.
 * [inuitcss](https://github.com/inuitcss/inuitcss) - extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects. It does not provide you with UI and design out of the box, instead, it provides you with a solid architectural baseline upon which to complete your own work.
 * [Kube](https://imperavi.com/kube/) - clean, minimalistic and fast to implement CSS & JS framework for professional developers and designers alike.
-* [Leaf](http://getleaf.com/) (outdated) - a CSS framework based on Google's material design.
 * [Material Components for the web](https://github.com/material-components/material-components-web) - modular and customizable Material Design UI components for the web. Developed by a core team of engineers and UX designers at Google, these components enable a reliable development workflow to build beautiful and functional web projects.
 * [Material Design Lite](https://getmdl.io/) - lets you add a Material Design look and feel to your websites. It doesn’t rely on any JavaScript frameworks and aims to optimize for cross-device use, gracefully degrade in older browsers, and offer an experience that is immediately accessible.
 * [Material Framework](http://nt1m.github.io/material-framework/) - a simple responsive CSS framework that allows you to integrate Material Design in any web page or web app.
