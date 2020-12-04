@@ -678,6 +678,7 @@
 * [TodoMVC](http://todomvc.com/) - helping you select an MV* framework.
 * CSS <a name="css-examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [CSS Arrows From CodePen](https://freebiesupply.com/blog/css-arrows/) - a list of CSS arrows from CodePen.
+    - [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds) - beautiful pure CSS background patterns.
     - [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/) - a collection of CSS effects.
     - [CSSFX](https://cssfx.dev/) (https://cssfx.netlify.app/) - beautifully simple click-to-copy CSS effects. A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup.
     - [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/) - lots of shapes in CSS with only a single HTML element.
