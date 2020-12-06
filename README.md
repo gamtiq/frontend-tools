@@ -473,6 +473,7 @@
 * [icono](https://saeedalipoor.github.io/icono/) - pure css icons, with only one element.
 * [Icons8](https://icons8.com/) - free icons, photos, vectors, music and tools.
 * [Ikonate](https://www.ikonate.com/) - fully customisable & accessible, well-optimised vector icons.
+* [Line Icons](https://lineicons.com/) - handcrafted line icons for modern user interfaces.
 * [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - miniscule SVG versions of your favourite website and app logos.
 * [SVG Porn](https://svgporn.com/) - a huge collection of SVG logos.
 
