@@ -645,6 +645,7 @@
     - [30 Seconds of CSS](https://www.30secondsofcode.org/css/) - a curated collection of useful CSS snippets you can understand in 30 seconds or less.
     - [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - a collection of tips to help take your CSS skills pro.
     - [CSS-Tricks](https://css-tricks.com/) - a site about all things web design and development.
+    - [CSS Triggers](https://csstriggers.com/) - a reference for the render impact of mutating CSS properties.
     - [cssdb](https://cssdb.org/) - a comprehensive list of CSS features and their positions in the process of becoming implemented web standards.
     - [Modern CSS](https://moderncss.dev/) - modern CSS solutions for old CSS problems.
     - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/) - a showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
