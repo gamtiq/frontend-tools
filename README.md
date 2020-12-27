@@ -655,6 +655,7 @@
     - [30 seconds of JavaScript](https://www.30secondsofcode.org/js/) - curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
     - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts) - this repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies.
     - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - JavaScript based examples of many popular algorithms and data structures.
+    - [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) - software engineering principles, from Robert C. Martin's book `Clean Code`, adapted for JavaScript.
     - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - a growing collection of documentation about the most quirky parts of the JavaScript programming language.
     - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - a long list of (advanced) JavaScript questions, and their explanations. From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview!
     - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
