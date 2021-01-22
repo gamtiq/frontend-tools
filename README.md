@@ -50,11 +50,12 @@
     - [With PHP support](#dev-server-php)
 * [Node.js version management](#node-manage)
 * [Editor, IDE](#editor)
-* [API](#api)
-* [Playground, online development](#playground)
+* [Playground, interactive computing](#playground)
+* [Online development/playground](#online-dev)
 * [Online tool](#online-tool)
 * [Site generator](#site-generator)
 * [Emulator, simulator](#emulator)
+* [API](#api)
 * [Browser extension](#browser-extension)
 * [Benchmark](#benchmark)
 * [Hosting, cloud services](#hosting)
@@ -551,14 +552,12 @@
 * [RJ TextEd](https://www.rj-texted.se/) - a full featured text and source editor with Unicode support. It is also a very powerful web (PHP, ASP, JavaScript, HTML and CSS) development editor.
 * [Visual Studio Code](https://code.visualstudio.com/) - a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
 
-### API <a name="api"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [APIs.guru](https://apis.guru/browse-apis/) - Wikipedia for WEB APIs.
-* [ProgrammableWeb API directory](https://www.programmableweb.com/apis/directory) - directory where developers can search for APIs to include in their next software development project.
-* [Public APIs](https://github.com/public-apis/public-apis) - a collective list of free APIs for use in software and web development.
-* [RapidAPI](https://rapidapi.com/) - find and connect to thousands of APIs, track and manage all of your API connections in one place. RapidAPI lets you manage all your API integrations from one place and gives you real-time performance metrics.
-* [Swagger](https://swagger.io/) - a powerful yet easy-to-use suite of API developer tools for teams and individuals, enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
+### Playground, interactive computing <a name="playground"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [nteract](https://nteract.io) - SDKs, applications, and libraries that help you and your team make the most of interactive notebooks and REPLs.
+* [Quokka](https://quokkajs.com/) - a developer productivity tool for rapid JavaScript / TypeScript prototyping. Runtime values are updated and displayed in your IDE next to your code, as you type.
+* [RunJS](https://runjs.dev/) - a JavaScript playground that auto-evaluates your code as you type and outputs the results to a console pane.
 
-### Playground, online development <a name="playground"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+### Online development/playground <a name="online-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CodePen](https://codepen.io/) - a playground for the front end side of the web. It's a place to build and deploy a website, show off your work, build test cases, and find inspiration.
 * [CodeSandbox](https://codesandbox.io/) - an online web application editor. Makes it easier to create, share and reuse web projects with others.
 * [ESNextbin](https://esnextb.in/) - create browser programs in ES2015 code and import modules from NPM in browser.
@@ -566,9 +565,7 @@
 * [Glitch](https://glitch.com/) - the friendly community where everyone can discover and create the best stuff on the web.
 * [JS Bin](https://jsbin.com/) - an open source collaborative web development debugging tool. Write code and have it both save in real-time, but also render a full preview in real-time.
 * [jsFiddle](https://jsfiddle.net/) - an online playground for your JavaScript, HTML, CSS.
-* [Quokka](https://quokkajs.com/) - a developer productivity tool for rapid JavaScript / TypeScript prototyping. Runtime values are updated and displayed in your IDE next to your code, as you type.
 * [Repl.it](https://repl.it/) - simple, reliable, and portable cloud coding interface. A community of teachers, students and engineers.
-* [RunJS](https://runjs.dev/) - a JavaScript playground that auto-evaluates your code as you type and outputs the results to a console pane.
 * [RunKit](https://runkit.com/) - a node playground in your browser.
 * [StackBlitz](https://stackblitz.com/) - the online code editor for web apps.
 
@@ -585,6 +582,13 @@
 ### Emulator, simulator <a name="emulator"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Responsinator](https://www.responsinator.com/) - helps website makers quickly get an indication of how their responsive site will look on the most popular devices.
 * [Screenfly](http://quirktools.com/screenfly/) - allows you to view your website on a variety of device screens and resolutions.
+
+### API <a name="api"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [APIs.guru](https://apis.guru/browse-apis/) - Wikipedia for WEB APIs.
+* [ProgrammableWeb API directory](https://www.programmableweb.com/apis/directory) - directory where developers can search for APIs to include in their next software development project.
+* [Public APIs](https://github.com/public-apis/public-apis) - a collective list of free APIs for use in software and web development.
+* [RapidAPI](https://rapidapi.com/) - find and connect to thousands of APIs, track and manage all of your API connections in one place. RapidAPI lets you manage all your API integrations from one place and gives you real-time performance metrics.
+* [Swagger](https://swagger.io/) - a powerful yet easy-to-use suite of API developer tools for teams and individuals, enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 
 ### Browser extension <a name="browser-extension"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Chrome
