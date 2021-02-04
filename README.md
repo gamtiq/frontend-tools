@@ -72,7 +72,7 @@
 * [AlternativeTo](https://alternativeto.net/) - a free service that helps you find better alternatives to the products you love and hate.
 * [awesome](https://awesome.re/) - a curated list of awesome lists.
 * [Awesome Open Source](https://awesomeopensource.com/) - find open source by searching, browsing and combining topics.
-* [awesome-react-components](http://devarchy.com/react-components) - catalog of React components / libraries.
+* [awesome-react-components](https://github.com/brillout/awesome-react-components) - curated list of React components & libraries.
 * [Best of JavaScript](https://bestofjs.org/) - a place to find the best components to build amazing web applications.
 * [CSS Script](https://www.cssscript.com/) - a Javascript & CSS code library aims to provide the newest, best and free CSS & javascript resources for web/mobile developers and designers.
 * [Free for developers](https://free-for.dev/) - a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
@@ -86,6 +86,7 @@
 * [LibHunt](https://www.libhunt.com/) -  our goal is to help you find the software and libraries you need. All lists have been crafted by many experts from the relevant GitHub communities.
 * [Libraries.io](https://libraries.io/) - helps developers find new open source libraries, modules and frameworks and keep track of ones they depend upon.
 * [MicroJS](http://microjs.com) - fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
+* [Moiva](https://moiva.io/) - measure and compare JavaScript libraries.
 * [Node Frameworks](http://nodeframework.com/) - hand-picked registry of Node.js frameworks.
 * [NPMCompare](https://npmcompare.com/) - search and compare npm packages.
 * [npms](https://npms.io/) - a better and open source search for node modules.
