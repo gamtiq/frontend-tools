@@ -666,6 +666,7 @@
     - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - a long list of (advanced) JavaScript questions, and their explanations. From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview!
     - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
     - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - a summary and curation of the top-ranked content on Node JS best practices.
+    - [The Modern JavaScript Tutorial](https://javascript.info)
 
 ### Books <a name="books"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Data Structures and Algorithms in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-and-algorithms-in-javascript) - data structures and algorithms explained and implemented in JavaScript.
