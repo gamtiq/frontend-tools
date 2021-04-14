@@ -595,8 +595,9 @@
 * Chrome
   - [25 Essential Chrome Extensions for Web Designers](https://envato.com/blog/chrome-extensions-web-design/)
   - [Checkbot](https://www.checkbot.io/) - crawls your site testing pages follow 50+ SEO, speed and security best practices.
-  - [CSS Peeper](https://csspeeper.com/) - Smart CSS viewer tailored for Designers.
-  - [JS Bundle Size](https://github.com/vicrazumov/js-bundle-size) - Automatically adds javascript bundle size data to npm and github project pages.
+  - [CSS Peeper](https://csspeeper.com/) - smart CSS viewer tailored for designers.
+  - [JS Bundle Size](https://github.com/vicrazumov/js-bundle-size) - automatically adds javascript bundle size data to npm and github project pages.
+  - [Z-Context](https://github.com/gwwar/z-context) - displays stacking contexts and z-index values in the elements panel.
 
 ### Benchmark <a name="benchmark"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CSS minification benchmark](http://goalsmashers.github.io/css-minification-benchmark/)
