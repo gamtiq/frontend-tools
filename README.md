@@ -479,7 +479,6 @@
 * [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - miniscule SVG versions of your favourite website and app logos.
 * [SVG Porn](https://svgporn.com/) - a huge collection of SVG logos.
 
-
 ### Analysis, performance, optimization <a name="analysis"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Bundle Buddy](https://github.com/samccone/bundle-buddy) - a tool to help you find source code duplication across your javascript chunks/splits.
 * [Bundle Phobia](https://bundlephobia.com/) - know the performance impact of including an npm package in your app's bundle.
@@ -512,7 +511,7 @@
     - [Browsersync](https://www.browsersync.io/) - keep multiple browsers & devices in sync when building websites.
     - [EasyMock Server](https://github.com/cyberagent/node-easymock) - a simple but powerful mock server.
     - [freddie](https://github.com/Scytl/freddie) - front end development server.
-    - [http-server](https://github.com/indexzero/http-server) - a simple, zero-configuration command-line http server.
+    - [http-server](https://github.com/http-party/http-server) - a simple, zero-configuration command-line http server.
     - [JSON Server](https://github.com/typicode/json-server) - get a full fake REST API with zero coding.
     - [Live Server](http://tapiov.net/live-server/) - a simple development http server with live reload capability.
     - [lite-server](https://github.com/johnpapa/lite-server) - lightweight development only node server that serves a web app. `lite-server` is a simple customized wrapper around BrowserSync to make it easy to serve SPAs.
@@ -525,9 +524,10 @@
 * With PHP support <a name="dev-server-php"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [AppServ](http://www.appservnetwork.com) - a full-featured of Apache, MySQL, PHP, phpMyAdmin.
     - [Devserver](http://www.easyphp.org) - a complete and ready-to-use development environment. Devserver is portable, modular, fully configurable and easy to update and extend.
+    - [Laragon](https://laragon.org) - a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
     - [Uniform Server](http://www.uniformserver.com/) - a lightweight server solution for running a web server under the WindowsOS.
     - [UwAmp](http://www.uwamp.com/en/) - free Wamp Server with Apache MySQL PHP and SQLite.
-    - [VertrigoServ](http://vertrigo.sourceforge.net/) - a complete free WAMP server allowing PHP development for Windows.
+    - [VertrigoServ](https://www.vswamp.com) - a complete free WAMP server allowing PHP development for Windows.
     - [WampServer](http://www.wampserver.com/en/) - a Windows web development environment. It allows you to create web applications with Apache2, PHP and a MySQL database.
     - [WPИ-XM](http://wpn-xm.org/) - a free and open-source web server solution stack for professional PHP development on Windows.
     - [WTServer](http://wtserver.wtriple.com/) - a portable, preconfigured, lightweight, fast and stable server stack for developing php mysql applications on windows, based on the excellent webserver Nginx.
