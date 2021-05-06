@@ -686,12 +686,13 @@
 * [HTML DOM](https://htmldom.dev/) - common tasks of managing HTML DOM with vanilla JavaScript.
 * [RealWorld](https://github.com/gothinkster/realworld) - see how the exact same Medium.com clone is built using any of our supported frontends and backends.
 * [simpl.info](https://simpl.info/) - simplest possible examples of HTML, CSS and JavaScript.
-* [TodoMVC](http://todomvc.com/) - helping you select an MV* framework.
+* [TodoMVC](https://todomvc.com/) - helping you select an MV* framework.
 * CSS <a name="css-examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [CSS Arrows From CodePen](https://freebiesupply.com/blog/css-arrows/) - a list of CSS arrows from CodePen.
     - [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds) - beautiful pure CSS background patterns.
     - [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/) - a collection of CSS effects.
     - [CSSFX](https://cssfx.dev/) (https://cssfx.netlify.app/) - beautifully simple click-to-copy CSS effects. A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup.
+    - [CSS Layout](https://csslayout.io/) - popular layouts & patterns made with CSS.
     - [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/) - lots of shapes in CSS with only a single HTML element.
 
 ### Useful articles & resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
