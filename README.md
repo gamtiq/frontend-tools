@@ -62,6 +62,7 @@
 * [Code CDN](#code-cdn)
 * [Guide, reference, practices, recipes](#guide)
     - [CSS](#css-guide)
+    - [HTML](#html-guide)
     - [JavaScript](#js-guide)
     - [TypeScript](#ts-guide)
 * [Books](#books)
@@ -659,6 +660,8 @@
     - [Modern CSS](https://moderncss.dev/) - modern CSS solutions for old CSS problems.
     - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/) - a showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
     - [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
+* HTML <a name="html-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+    - [HTML Tips](https://markodenic.com/html-tips/) - some very useful HTML tips.
 * JavaScript <a name="js-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [1loc](https://1loc.dev/) - favorite JavaScript utilities in single line of code.
     - [30 seconds of JavaScript](https://www.30secondsofcode.org/js/) - curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
