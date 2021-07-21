@@ -487,12 +487,14 @@
 * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - an exhaustive list of elements you should check or at least be aware of, as a Front-End developer and apply to your project.
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - an open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive web apps, and more.
 * [Optimize your libraries with webpack](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - tips to make your webpack bundle smaller.
-* [Package Phobia](https://packagephobia.now.sh/) - reports the size of an npm package before you install it. This is useful for inspecting potential dependencies or devDependencies without using up precious disk space or waiting minutes for npm install.
+* [Package Phobia](https://packagephobia.com/) - reports the size of an npm package before you install it. This is useful for inspecting potential dependencies or devDependencies without using up precious disk space or waiting minutes for npm install.
 * [Size Limit](https://github.com/ai/size-limit) - calculate the real cost of your JS for end users and throws an error if the cost exceeds the limit.
 * [Source map explorer](https://github.com/danvk/source-map-explorer) - analyze and debug space usage through source maps. The source map explorer determines which file each byte in your minified code came from.
+* [Waterfaller](https://waterfaller.dev/) - focuses on issues in the network waterfall and provides recommendations for improvement.
 * [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 * [Webpack Visualizer](https://github.com/chrisbateman/webpack-visualizer) - visualize and analyze your Webpack bundle to see which modules are taking up space and which might be duplicates.
 * [WebPagetest](https://www.webpagetest.org/) - run a free website speed test from multiple locations around the globe using real browsers and at real consumer connection speeds.
+* [Yellow Lab Tools](https://yellowlab.tools/) - allows you to test a webpage (via an URL) and detects performance and front-end code quality issues.
 
 ### Network <a name="net"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [HTTPie](https://httpie.org/) - a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more.
