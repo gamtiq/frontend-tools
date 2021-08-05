@@ -187,7 +187,6 @@
 * [Blaze](https://www.blazeui.com/) - an open source modular toolkit. It provides great structure for building websites quickly with a scalable and maintainable foundation.
 * [Bootflat](http://bootflat.github.io/) - an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework.
 * [Bootstrap](https://getbootstrap.com/) - an open source toolkit for developing with HTML, CSS, and JS.
-* [Bootstrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/) - It is an interactive list of Bootstrap 5 classes, variables, and mixins.
 * [Bulma](https://bulma.io/) - a modern CSS framework based on Flexbox.
 * [Flat UI](http://designmodo.github.io/Flat-UI/) - a beautiful theme for Bootstrap.
 * [Foundation](https://get.foundation/) - the most advanced responsive front-end framework in the world.
@@ -657,6 +656,7 @@
 * CSS <a name="css-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [30 Seconds of CSS](https://www.30secondsofcode.org/css/) - a curated collection of useful CSS snippets you can understand in 30 seconds or less.
     - [A complete guide to CSS functions](https://css-tricks.com/complete-guide-to-css-functions/)
+    - [Bootstrap Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/) - an interactive list of Bootstrap classes, variables, and mixins.
     - [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - a collection of tips to help take your CSS skills pro.
     - [CSS-Tricks](https://css-tricks.com/) - a site about all things web design and development.
     - [CSS Triggers](https://csstriggers.com/) - a reference for the render impact of mutating CSS properties.
