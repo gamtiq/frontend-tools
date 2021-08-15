@@ -181,7 +181,7 @@
 * [Muse UI](https://museui.github.io/) - a Vue 2.0 and Material Design based UI component library.
 * [Quasar Framework](https://quasar.dev/) - build high-performance VueJS user interfaces in record time.
 * [Vuetify.js](https://vuetifyjs.com/) - a component framework for Vue.js 2.
-* [Vue Material](https://vuematerial.github.io/) - lightweight framework built exactly according to the Material Design specs. It aims to deliver a collection of reusable components and a series of UI Elements to build applications with support to all modern Web Browsers through Vue 2.
+* [Vue Material](https://vuematerial.io/) - simple, lightweight and built exactly according to the Google Material Design specs. Build well-designed apps that can fit on every screen with support to all modern Web Browsers with dynamic themes, components on demand and all with an ease-to-use API.
 
 ### Front-end / CSS framework <a name="frontend-framework"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Blaze](https://www.blazeui.com/) - an open source modular toolkit. It provides great structure for building websites quickly with a scalable and maintainable foundation.
@@ -203,7 +203,7 @@
 * [Metro UI](https://metroui.org.ua/) - sleek, intuitive, and powerful front-end framework for faster and easier web development. Build responsive, mobile-first projects on the web with the first front-end component library in Metro Style.
 * [Polymer](https://www.polymer-project.org/) - libraries, tools and patterns to help developers build modern Progressive Web Apps, taking full advantage of cutting-edge platform features like Web Components, Service Workers and HTTP/2.
 * [Semantic UI](https://semantic-ui.com/) - a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
-* [Shorthand](https://shorthandcss.com/) - a free and open source css framework, that allows you to make unique and modern design without writing any css.
+* [Shorthand](https://shorthandcss.bansal.io/) - a free and open source css framework, that allows you to make unique and modern design without writing any css.
 * [Spectre.css](https://picturepan2.github.io/spectre/) - a lightweight, responsive and modern CSS framework.
 * [Tailwind CSS](https://tailwindcss.com/) - a utility-first CSS framework for rapid UI development.
 * [Topcoat](http://topcoat.io/) - CSS for clean and fast web apps.
@@ -394,7 +394,7 @@
 * [Docz](https://www.docz.site/) - It has never been so easy to document your things!
 * [ESDoc](https://esdoc.org/) - A documentation generator for JavaScript (ES6).
 * [JSDoc](http://usejsdoc.org/) - An API documentation generator for JavaScript.
-* [x0](https://compositor.io/x0/) - Document & develop React components without breaking a sweat.
+* [x0](https://github.com/c8r/x0) - Document & develop React components without breaking a sweat.
 * [YUIDoc](http://yui.github.io/yuidoc/) - A Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
 
 ### Code processing <a name="code-processing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -420,7 +420,7 @@
     - [UglifyJS](https://github.com/mishoo/UglifyJS2) - a JavaScript parser, minifier, compressor and beautifier toolkit.
 
 ### Task runner, build tool <a name="task-runner"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [Brunch](https://brunch.io/) - fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps.
+* [Brunch](https://github.com/brunch/brunch) - fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps.
 * [cross-env](https://github.com/kentcdodds/cross-env) - run scripts that set and use environment variables across platforms.
 * [Grunion](https://github.com/Hypercubed/grunion) - run multiple commands using glob patterns.
 * [Grunt](https://gruntjs.com/) - the JavaScript task runner.
@@ -455,7 +455,7 @@
 ### Component development <a name="component-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [BlueKit](http://bluekit.blueberry.io/) - automatically generates a library from your React components with editable props and live preview.
 * [component-playground](https://github.com/FormidableLabs/component-playground) - a component for rendering React Components and ES6 code with editable source and live preview.
-* [Kit](https://compositor.io/kit/) - tools for developing, documenting, and testing React component libraries.
+* [Kit](https://github.com/c8r/kit) - tools for developing, documenting, and testing React component libraries.
 * [React Cosmos](https://github.com/react-cosmos/react-cosmos) - dev tool for creating reusable React components.
 * [React Live](https://github.com/FormidableLabs/react-live) - brings you the ability to render React components and present the user with editable source code and live preview.
 * [React Styleguidist](https://react-styleguidist.js.org/) - isolated React component development environment with a living style guide.
@@ -560,7 +560,7 @@
 ### Playground, interactive computing <a name="playground"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [nteract](https://nteract.io) - SDKs, applications, and libraries that help you and your team make the most of interactive notebooks and REPLs.
 * [Quokka](https://quokkajs.com/) - a developer productivity tool for rapid JavaScript / TypeScript prototyping. Runtime values are updated and displayed in your IDE next to your code, as you type.
-* [RunJS](https://runjs.dev/) - a JavaScript playground that auto-evaluates your code as you type and outputs the results to a console pane.
+* [RunJS](https://runjs.app/) - a JavaScript playground that auto-evaluates your code as you type and outputs the results to a console pane.
 
 ### Online development/playground <a name="online-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CodePen](https://codepen.io/) - a playground for the front end side of the web. It's a place to build and deploy a website, show off your work, build test cases, and find inspiration.
@@ -613,7 +613,6 @@
 ### Hosting, cloud services <a name="hosting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [000webhost](https://www.000webhost.com/) & [hostinger.ru](https://www.hostinger.ru/) - zero cost website hosting with PHP, MySQL, Cpanel & no ads.
 * [5apps Deploy](https://5apps.com/deploy/) - a turn-key deployment and hosting platform for client-side web apps.
-* [Appback](https://appback.com/) - provides a backend as a service (BaaS) for web and mobile applications.
 * [Backendless](https://backendless.com/) - a leading mBaaS and powerful Mobile Application Development Platform that enables rapid development of feature-rich mobile, desktop and browser-based applications.
 * [Cloudant](https://www.ibm.com/cloud/cloudant) - a highly scalable and performant JSON database.
 * [Cloudnode](https://cloudno.de/) - a place to get your Javascript web applications up and running.
@@ -622,9 +621,8 @@
 * [HackMD](https://hackmd.io/) - best way to share knowledge in markdown.
 * [Heroku](https://www.heroku.com/) - a cloud platform that lets companies build, deliver, monitor and scale apps.
 * [JSONbin](https://jsonbin.io/) - a free JSON storage and JSON hosting service.
+* [JSONSERVE](https://jsonserve.com/) - host your JSON easily and use in your apps.
 * [Microsoft Azure](https://azure.microsoft.com/en-us/services/app-service/) - quickly create powerful cloud apps for web and mobile clients.
-* [Modulus](https://modulus.io/) - application container platform. Deploy, scale, and monitor apps in the language of your choice.
-* [Myjson](http://myjson.com/) - a simple JSON store for use in your client side web and/or mobile applications.
 * [Netlify](https://www.netlify.com/) - builds, deploys, and hosts your front end.
 * [now](https://zeit.co/now) - allows you to take your JavaScript (Node.js) or Docker powered websites, applications and services to the cloud with ease, speed and reliability.
 * [Nuclino](https://www.nuclino.com/) - the easiest way to organize and share knowledge in teams. Create real-time collaborative documents and connect them instantly like a wiki. Use the tree, board, and graph view to explore and organize your knowledge visually. It's great for meeting notes, product requirements, docs, decisions, and more.
@@ -703,11 +701,11 @@
 * CSS <a name="css-examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [CSS Arrows From CodePen](https://freebiesupply.com/blog/css-arrows/) - a list of CSS arrows from CodePen.
     - [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds) - beautiful pure CSS background patterns.
-    - [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/) - a collection of CSS effects.
-    - [CSSFX](https://cssfx.dev/) (https://cssfx.netlify.app/) - beautifully simple click-to-copy CSS effects. A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup.
+    - [CSSFX](https://cssfx.netlify.app/) - beautifully simple click-to-copy CSS effects. A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup.
     - [CSS Layout](https://csslayout.io/) - popular layouts & patterns made with CSS.
     - [Drop-in Minimal CSS](https://dohliam.github.io/dropin-minimal-css/) - an overview of barebones drop-in minimal CSS boilerplate frameworks.
     - [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/) - lots of shapes in CSS with only a single HTML element.
+    - [UI Snippets](https://ui-snippets.dev/) - a collection of UI Snippets.
 
 ### Useful articles & resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [120+ Places To Find Creative Commons Media](https://www.sitepoint.com/creative-commons-sources/) - resources to search for audio, video, images and more for use in a project.
