@@ -481,6 +481,7 @@
 * [Line Icons](https://lineicons.com/) - handcrafted line icons for modern user interfaces.
 * [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - miniscule SVG versions of your favourite website and app logos.
 * [SVG Porn](https://svgporn.com/) - a huge collection of SVG logos.
+* [Tabler Icons](https://tabler-icons.io/) - free and open source icons designed to make your website or app attractive, visually consistent and simply beautiful.
 
 ### Analysis, performance, optimization <a name="analysis"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Bundle Buddy](https://github.com/samccone/bundle-buddy) - a tool to help you find source code duplication across your javascript chunks/splits.
