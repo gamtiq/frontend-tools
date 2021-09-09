@@ -429,6 +429,7 @@
 * [Gulp](https://gulpjs.com/) - a toolkit for automating painful or time-consuming tasks in your development workflow.
 * [Just](https://microsoft.github.io/just/) - a library that organizes build tasks for your JS projects. It consists of: a build task build definition library; sane preset build flows for node and browser projects featuring TypeScript, Webpack and jest; project scaffold tool that generates no-ejection needed repos that tracks template changes.
 * [ncc](https://github.com/zeit/ncc) - simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
+* [nexe](https://github.com/nexe/nexe) - a command-line utility that compiles your Node.js application into a single executable file.
 * [npm-run-all](https://github.com/mysticatea/npm-run-all) - a CLI tool to run multiple npm-scripts in parallel or sequential.
 * [nps](https://github.com/kentcdodds/nps) - all the benefits of npm scripts without the cost of a bloated package.json and limits of json.
 * [npx](https://github.com/npm/npx) - execute npm package binaries.
