@@ -598,6 +598,7 @@
 * [APIs.guru](https://apis.guru/browse-apis/) - Wikipedia for WEB APIs.
 * [ProgrammableWeb API directory](https://www.programmableweb.com/apis/directory) - directory where developers can search for APIs to include in their next software development project.
 * [Public APIs](https://github.com/public-apis/public-apis) - a collective list of free APIs for use in software and web development.
+* [public-apis.io](https://public-apis.io/) - a directory of free public & open Rest APIs.
 * [RapidAPI](https://rapidapi.com/) - find and connect to thousands of APIs, track and manage all of your API connections in one place. RapidAPI lets you manage all your API integrations from one place and gives you real-time performance metrics.
 * [Swagger](https://swagger.io/) - a powerful yet easy-to-use suite of API developer tools for teams and individuals, enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 
