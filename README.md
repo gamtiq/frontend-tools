@@ -94,6 +94,7 @@
 * [npms](https://npms.io/) - a better and open source search for node modules.
 * [npmsearch](http://npmsearch.com/) - search for node packages on the npm registry.
 * [npm trends](https://www.npmtrends.com/) - compare package download counts over time.
+* [Openbase](https://openbase.com/) - a platform to help developers navigate the world of open-source and make more well-informed choices.
 * [Pika](https://www.pika.dev/) - search npm for fast, modern packages.
 * [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links) - a categorized list of addon libraries for Redux, as well as other libraries that are closely related.
 * [Slant](https://www.slant.co/) - a product recommendation community that helps connect people with the best products for them.
