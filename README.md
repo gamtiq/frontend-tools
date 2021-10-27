@@ -707,6 +707,7 @@
 * CSS <a name="css-examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [CSS Arrows From CodePen](https://freebiesupply.com/blog/css-arrows/) - a list of CSS arrows from CodePen.
     - [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds) - beautiful pure CSS background patterns.
+    - [CSS buttons](https://cssbuttons.io/) -  CSS buttons, checkboxes, and more. Choose from numerous UI components and get the CSS for the ones you like.
     - [CSSFX](https://cssfx.netlify.app/) - beautifully simple click-to-copy CSS effects. A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup.
     - [CSS Layout](https://csslayout.io/) - popular layouts & patterns made with CSS.
     - [Drop-in Minimal CSS](https://dohliam.github.io/dropin-minimal-css/) - an overview of barebones drop-in minimal CSS boilerplate frameworks.
