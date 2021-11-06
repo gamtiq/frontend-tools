@@ -581,6 +581,7 @@
 
 ### Online tool <a name="online-tool"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [ExtendsClass](https://extendsclass.com/) - free online toolbox for developers. You have at your disposal syntax validators, code formatters, testers, HTTP clients, mock server, but also a SQLite browser.
+* [Windframe](https://www.devwares.com/) - online visual builder for rapidly building and prototyping components and websites using tailwind css.
 
 ### Site generator <a name="site-generator"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CMS.js](https://chrisdiana.dev/cms.js/) - fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol' HTML, CSS and Javascript to generate your website.
