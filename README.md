@@ -712,6 +712,7 @@
     - [CSSFX](https://cssfx.netlify.app/) - beautifully simple click-to-copy CSS effects. A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup.
     - [CSS Layout](https://csslayout.io/) - popular layouts & patterns made with CSS.
     - [Drop-in Minimal CSS](https://dohliam.github.io/dropin-minimal-css/) - an overview of barebones drop-in minimal CSS boilerplate frameworks.
+    - [SpinKit](https://tobiasahlin.com/spinkit/) - a collection of loading indicators animated with CSS.
     - [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/) - lots of shapes in CSS with only a single HTML element.
     - [UI Snippets](https://ui-snippets.dev/) - a collection of UI Snippets.
 
