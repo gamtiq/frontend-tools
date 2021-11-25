@@ -416,6 +416,7 @@
     - [HTMLMinifier](https://github.com/kangax/html-minifier) - a highly configurable, well-tested, JavaScript-based HTML minifier.
     - [Minimize](https://github.com/Swaagie/minimize) - a HTML minifier based on the node-htmlparser. Minimize is focussed on HTML5 and will not support older HTML drafts.
 * Images
+    - [CompressImage.io](https://compressimage.io/) - compress JPG and PNG images at light speed with browser based image compressor. Private, works offline.
     - [Squoosh](https://squoosh.app/) - an image compression web app that allows you to dive into the advanced options provided by various image compressors.
     - [SVGO](https://github.com/svg/svgo) - a Nodejs-based tool for optimizing SVG vector graphics files.
 * JavaScript
