@@ -92,7 +92,6 @@
 * [Node Frameworks](http://nodeframework.com/) - hand-picked registry of Node.js frameworks.
 * [NPMCompare](https://npmcompare.com/) - search and compare npm packages.
 * [npms](https://npms.io/) - a better and open source search for node modules.
-* [npmsearch](http://npmsearch.com/) - search for node packages on the npm registry.
 * [npm trends](https://www.npmtrends.com/) - compare package download counts over time.
 * [Openbase](https://openbase.com/) - a platform to help developers navigate the world of open-source and make more well-informed choices.
 * [Pika](https://www.pika.dev/) - search npm for fast, modern packages.
@@ -148,7 +147,7 @@
 * [Melody](https://melody.js.org/) - a fast and memory efficient library for creating highly dynamic user interfaces.
 * [Monkberry](https://monkberry.js.org/) - blazingly fast, small and simple JavaScript library for building web user interfaces.
 * [Moon](https://moonjs.org/) - the minimal & fast library for functional user interfaces.
-* [Nerv](https://nerv.aotu.io/) - a blazing fast React alternative, compatible with IE8 and React 16.
+* [Nerv](https://github.com/NervJS/nerv) - a blazing fast React alternative, compatible with IE8 and React 16.
 * [Preact](https://preactjs.com/) - fast 3kb alternative to React with the same ES6 API.
 * [Ractive.js](https://ractive.js.org/) - a JavaScript library for building reactive user interfaces in a way that doesn't force you into a particular framework's way of thinking.
 * [React](https://reactjs.org/) - a JavaScript library for building user interfaces.
@@ -658,7 +657,7 @@
 * [Service Worker Cookbook](https://serviceworke.rs/) - a collection of working, practical examples of using service workers in modern web sites.
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) - a big picture, thesaurus, and taxonomy of modern JavaScript web development.
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) - carefully curated content to help you ace your next technical interview, with a focus on algorithms.
-* [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - a collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users. This is a practical guide with concise explanations, however the reader is supposed to know what s/he is doing.
+* [Unix Toolbox](http://devdoc.net/linux/UnixToolbox.html) - a collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users. This is a practical guide with concise explanations, however the reader is supposed to know what s/he is doing.
 * CSS <a name="css-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [30 Seconds of CSS](https://www.30secondsofcode.org/css/) - a curated collection of useful CSS snippets you can understand in 30 seconds or less.
     - [A complete guide to CSS functions](https://css-tricks.com/complete-guide-to-css-functions/)
