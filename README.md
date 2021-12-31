@@ -685,6 +685,7 @@
     - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
     - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - a summary and curation of the top-ranked content on Node JS best practices.
     - [The Modern JavaScript Tutorial](https://javascript.info)
+    - [wtfjs](https://github.com/denysdovhan/wtfjs) - a list of funny and tricky JavaScript examples.
 * TypeScript <a name="ts-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [TypeScript Cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - a set of TypeScript related notes used for quick reference. The cheatsheet contains references to types, classes, decorators, and many other TypeScript related subjects.
     - [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets) - community curated cheatsheets for experienced JS developers to share knowledge and copy-paste recipes for common usecases.
