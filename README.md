@@ -480,11 +480,14 @@
 * [Heroicons](https://heroicons.dev/) - a set of free MIT-licensed high-quality SVG icons for UI development.
 * [icono](https://saeedalipoor.github.io/icono/) - pure css icons, with only one element.
 * [Icons8](https://icons8.com/) - free icons, photos, vectors, music and tools.
+* [IconSear.ch](https://iconsear.ch/search.html) - search engine for SVG icons.
 * [Ikonate](https://www.ikonate.com/) - fully customisable & accessible, well-optimised vector icons.
 * [Line Icons](https://lineicons.com/) - handcrafted line icons for modern user interfaces.
+* [LogoSear.ch](https://logosear.ch/search.html) - search engine for SVG logos.
 * [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - miniscule SVG versions of your favourite website and app logos.
 * [SVG Porn](https://svgporn.com/) - a huge collection of SVG logos.
 * [Tabler Icons](https://tabler-icons.io/) - free and open source icons designed to make your website or app attractive, visually consistent and simply beautiful.
+* [VectorLogoZone](https://www.vectorlogo.zone/) - consistently formatted SVG logos.
 
 ### Analysis, performance, optimization <a name="analysis"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Bundle Buddy](https://github.com/samccone/bundle-buddy) - a tool to help you find source code duplication across your javascript chunks/splits.
