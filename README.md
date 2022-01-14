@@ -702,6 +702,7 @@
 * [How to be a Programmer](https://www.gitbook.com/book/braydie/how-to-be-a-programmer/)
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read) - a book about programming with functions.
 * [Mostly adequate guide to functional programming](https://github.com/MostlyAdequate/mostly-adequate-guide) - a book on the functional paradigm in general (with JavaScript examples).
+* [Patterns.dev](https://www.patterns.dev/) - free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.
 * [React in patterns](https://legacy.gitbook.com/book/krasimir/react-in-patterns/details) - a book about common design patterns used while developing with React. It includes techniques for composition, data flow, dependency management and more.
 * [SurviveJS](https://survivejs.com/) - books about React, Webpack and maintenance of JavaScript code.
 * [The Complete JavaScript Handbook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/) - learn 80% of JavaScript in 20% of the time.
