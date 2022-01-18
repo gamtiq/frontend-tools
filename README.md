@@ -699,6 +699,7 @@
 * [Essential Image Optimization](https://images.guide/)
 * [Freely available programming books](https://github.com/EbookFoundation/free-programming-books) - list of free learning resources.
 * [Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/) - a guide that anyone could use to learn about the practice of front-end development.
+* [High Performance Browser Networking](https://hpbn.co/) - provides a hands-on overview of what every web developer needs to know about the various types of networks (WiFi, 3G/4G), transport protocols (UDP, TCP, and TLS), application protocols (HTTP/1.1, HTTP/2), and APIs available in the browser (XHR, WebSocket, WebRTC, and more) to deliver the best — fast, reliable, and resilient — user experience.
 * [How to be a Programmer](https://www.gitbook.com/book/braydie/how-to-be-a-programmer/)
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read) - a book about programming with functions.
 * [Mostly adequate guide to functional programming](https://github.com/MostlyAdequate/mostly-adequate-guide) - a book on the functional paradigm in general (with JavaScript examples).
