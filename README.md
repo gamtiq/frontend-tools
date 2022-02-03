@@ -34,6 +34,7 @@
 * [Documentation](#documentation)
 * [Code processing](#code-processing)
 * [Minification](#mini)
+* [Unminifier](#unmini)
 * [Task runner, build tool](#task-runner)
 * [Automation](#automation)
 * [Boilerplate, scaffolding](#boilerplate)
@@ -337,6 +338,7 @@
 
 ### CSS tool <a name="css-tool"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Change SVG Color](https://change-svg-color.edrini.xyz/) ([Github](https://github.com/Prottoy2938/change-svg-color)) - converts Hex, Rgba, HSLA color to CSS filter. And the CSS filter could be used to change the SVG color.
+* [CSS Gradient](https://cssgradient.io/) - a website and free tool that lets you create a gradient background for websites.
 * [Keyframes](https://keyframes.app/) - a free bundle of tools to generate & live preview different CSS properties, plus some other web development tools.
 
 ### Linting, validation, checklist <a name="linting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -416,11 +418,15 @@
     - [Minimize](https://github.com/Swaagie/minimize) - a HTML minifier based on the node-htmlparser. Minimize is focussed on HTML5 and will not support older HTML drafts.
 * Images
     - [CompressImage.io](https://compressimage.io/) - compress JPG and PNG images at light speed with browser based image compressor. Private, works offline.
+    - [Compressor.io](https://compressor.io/) - fast & efficient online image compression.
     - [Squoosh](https://squoosh.app/) - an image compression web app that allows you to dive into the advanced options provided by various image compressors.
     - [SVGO](https://github.com/svg/svgo) - a Nodejs-based tool for optimizing SVG vector graphics files.
 * JavaScript
     - [Babel-Minify](https://github.com/babel/minify) - an ES6+ aware minifier based on the Babel toolchain.
     - [UglifyJS](https://github.com/mishoo/UglifyJS2) - a JavaScript parser, minifier, compressor and beautifier toolkit.
+
+### Unminifier <a name="unmini"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [unminify](https://unminify.com/) - free tool to unminify (unpack, deobfuscate) JavaScript, CSS, HTML, XML and JSON code, making it readable and pretty.
 
 ### Task runner, build tool <a name="task-runner"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Brunch](https://github.com/brunch/brunch) - fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps.
@@ -484,6 +490,7 @@
 * [Ikonate](https://www.ikonate.com/) - fully customisable & accessible, well-optimised vector icons.
 * [Line Icons](https://lineicons.com/) - handcrafted line icons for modern user interfaces.
 * [LogoSear.ch](https://logosear.ch/search.html) - search engine for SVG logos.
+* [Lorem Picsum](https://picsum.photos/) - the Lorem Ipsum for photos. Easy to use, stylish image placeholders. Just add your desired image size (width & height) after our URL, and you'll get a random image.
 * [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - miniscule SVG versions of your favourite website and app logos.
 * [SVG Porn](https://svgporn.com/) - a huge collection of SVG logos.
 * [Tabler Icons](https://tabler-icons.io/) - free and open source icons designed to make your website or app attractive, visually consistent and simply beautiful.
