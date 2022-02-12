@@ -263,7 +263,7 @@
 * [WatermelonDB](https://nozbe.github.io/WatermelonDB/) - build powerful React and React Native apps that scale from hundreds to tens of thousands of records and remain fast.
 * Redux-based library <a name="redux-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [Easy Peasy](https://easy-peasy.now.sh/) - provides you with an intuitive API to quickly and easily manage the state for your React application. No configuration is required to support derived state, API calls, performance optimisation, developer tools etc.
-    - [Kea](https://kea.js.org/) - data layer for React webapps, built on top of Redux.
+    - [Kea](https://keajs.org/) - a production-grade state management framework built for React apps. Kea is built on top of Redux and leverages its underlying functional principles.
     - [Redux Toolkit](https://redux-toolkit.js.org/) - the official, opinionated, batteries-included toolset for efficient Redux development.
     - [Rematch](https://rematch.github.io/rematch/) - Redux best practices without the boilerplate.
 
