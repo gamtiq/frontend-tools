@@ -666,6 +666,8 @@
     - [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
 * HTML <a name="html-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [HTML Tips](https://markodenic.com/html-tips/) - some very useful HTML tips.
+    - [Sneat Free Bootstrap HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free):Open-source & Easy to use Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.
+
 * JavaScript <a name="js-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [1loc](https://1loc.dev/) - favorite JavaScript utilities in single line of code.
     - [30 seconds of JavaScript](https://www.30secondsofcode.org/js/) - curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
