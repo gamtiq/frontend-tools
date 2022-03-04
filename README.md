@@ -722,6 +722,7 @@
 * [RealWorld](https://github.com/gothinkster/realworld) - see how the exact same Medium.com clone is built using any of our supported frontends and backends.
 * [simpl.info](https://simpl.info/) - simplest possible examples of HTML, CSS and JavaScript.
 * [TodoMVC](https://todomvc.com/) - helping you select an MV* framework.
+* [Vanilla Web Projects](https://github.com/bradtraversy/vanillawebprojects) - mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
 * CSS <a name="css-examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [CSS Arrows From CodePen](https://freebiesupply.com/blog/css-arrows/) - a list of CSS arrows from CodePen.
     - [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds) - beautiful pure CSS background patterns.
