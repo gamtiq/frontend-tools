@@ -653,7 +653,9 @@
 * [Surge](http://surge.sh/) - static web publishing for front-end developers.
 
 ### Code CDN <a name="code-cdn"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [ESM](https://esm.sh/) - a fast, global content delivery network for NPM packages with ES Module format.
 * [jsDelivr](https://www.jsdelivr.com/) - a free, fast, and reliable Open Source CDN for npm & GitHub.
+* [Skypack](https://www.skypack.dev/) - load optimized npm packages with no install and no build tools.
 * [unpkg](https://unpkg.com/) - a fast, global content delivery network for everything on npm. Use it to quickly and easily load any file from any package.
 
 ### Guide, reference, practices, recipes <a name="guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
