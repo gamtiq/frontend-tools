@@ -718,6 +718,7 @@
 * [React in patterns](https://legacy.gitbook.com/book/krasimir/react-in-patterns/details) - a book about common design patterns used while developing with React. It includes techniques for composition, data flow, dependency management and more.
 * [SurviveJS](https://survivejs.com/) - books about React, Webpack and maintenance of JavaScript code.
 * [The Complete JavaScript Handbook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/) - learn 80% of JavaScript in 20% of the time.
+* [The JavaScript Way](https://github.com/thejsway/thejsway) - a gentle introduction to an essential language.
 
 ### Examples <a name="examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Hacker News readers as Progressive Web Apps](https://hnpwa.com/) - a list of unofficial Hacker News clients built with a number of popular JavaScript frameworks and libraries. Each implementation is a complete Progressive Web App that utilizes different progressive technologies to provide a fast, reliable and engaging experience.
