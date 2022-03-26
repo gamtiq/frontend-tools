@@ -467,6 +467,7 @@
 * [BlueKit](http://bluekit.blueberry.io/) - automatically generates a library from your React components with editable props and live preview.
 * [component-playground](https://github.com/FormidableLabs/component-playground) - a component for rendering React Components and ES6 code with editable source and live preview.
 * [Kit](https://github.com/c8r/kit) - tools for developing, documenting, and testing React component libraries.
+* [Ladle](https://www.ladle.dev/) - develop and test your React stories faster. Ladle is a drop-in alternative to Storybook. It is a tool for developing and testing your React components in an environement that's isolated and faster than most real-world applications.
 * [React Cosmos](https://github.com/react-cosmos/react-cosmos) - dev tool for creating reusable React components.
 * [React Live](https://github.com/FormidableLabs/react-live) - brings you the ability to render React components and present the user with editable source code and live preview.
 * [React Styleguidist](https://react-styleguidist.js.org/) - isolated React component development environment with a living style guide.
