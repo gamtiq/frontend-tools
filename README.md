@@ -358,6 +358,7 @@
     - [ESLint](https://eslint.org/) - the pluggable linting utility for JavaScript and JSX.
     - [JSHint](https://jshint.com/) - a tool that helps to detect errors and potential problems in your JavaScript code.
     - [TSLint](https://palantir.github.io/tslint/) - an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors. It is widely supported across modern editors & build systems and can be customized with your own lint rules, configurations, and formatters.
+    - [unimported](https://github.com/smeijer/unimported) - find and fix dangling files and unused dependencies in your JavaScript projects. 
     - [XO](https://github.com/xojs/xo) - opinionated but configurable ESLint wrapper with lots of goodies included.
 
 ### Testing <a name="testing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
