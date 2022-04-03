@@ -159,7 +159,6 @@
 * [Vue.js](https://vuejs.org/) - simple yet powerful library for building modern web interfaces.
 
 ### React-based library / framework / platform <a name="react-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [AgnosticUI](https://www.agnosticui.com/) - Accessible React component primitives that also work with Vue 3, Svelte, and Angular!
 * [Ant Design](https://ant.design/docs/react/introduce) - an enterprise-class UI design language and React-based implementation.
 * [Blueprint](https://blueprintjs.com/) - a React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for desktop applications.
 * [Chakra UI](https://chakra-ui.com/) - a simple, modular and accessible component library that gives you all the building blocks you need to build your React applications.
@@ -176,7 +175,6 @@
 * [Rebass](https://rebassjs.org/) - React primitive UI components built with Styled System.
 
 ### Vue-based library / framework <a name="vue-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [AgnosticUI](https://www.agnosticui.com/) - Accessible React component primitives that also work with Vue 3, Svelte, and Angular!
 * [BalmUI](https://material.balmjs.com/) - next generation Material UI for Vue.js.
 * [Buefy](https://buefy.org/) - a lightweight library of responsive UI components for Vue.js based on Bulma framework and design.
 * [Element](http://element.eleme.io/) - a Vue.js 2.0 UI Toolkit for Web.
@@ -188,7 +186,7 @@
 * [Vue Material](https://vuematerial.io/) - simple, lightweight and built exactly according to the Google Material Design specs. Build well-designed apps that can fit on every screen with support to all modern Web Browsers with dynamic themes, components on demand and all with an ease-to-use API.
 
 ### Front-end / CSS framework <a name="frontend-framework"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [AgnosticUI](https://www.agnosticui.com/) - Accessible React component primitives that also work with Vue 3, Svelte, and Angular!
+* [AgnosticUI](https://www.agnosticui.com/) - a UI component library designed to work with multiple JavaScript frameworks (React, Vue, Svelte, and Angular). 
 * [Blaze](https://www.blazeui.com/) - an open source modular toolkit. It provides great structure for building websites quickly with a scalable and maintainable foundation.
 * [Bootflat](http://bootflat.github.io/) - an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework.
 * [Bootstrap](https://getbootstrap.com/) - an open source toolkit for developing with HTML, CSS, and JS.
