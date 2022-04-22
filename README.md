@@ -342,6 +342,7 @@
 * [Change SVG Color](https://change-svg-color.edrini.xyz/) ([Github](https://github.com/Prottoy2938/change-svg-color)) - converts Hex, Rgba, HSLA color to CSS filter. And the CSS filter could be used to change the SVG color.
 * [CSS Gradient](https://cssgradient.io/) - a website and free tool that lets you create a gradient background for websites.
 * [Keyframes](https://keyframes.app/) - a free bundle of tools to generate & live preview different CSS properties, plus some other web development tools.
+* [Smooth Shadow](https://shadows.brumm.af/) - make a smooth shadow.
 
 ### Linting, validation, checklist <a name="linting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Front-End Checklist](https://frontendchecklist.io/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
