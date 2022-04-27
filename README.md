@@ -128,6 +128,7 @@
 ### JavaScript variant / compiler / transpiler <a name="js-variant"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Babel](https://babeljs.io/) - a JavaScript compiler.
 * [Bublé](https://buble.surge.sh/) - fast, batteries-included ES2015 compiler.
+* [Sucrase](https://sucrase.io/) - super-fast alternative to Babel for when you can target modern JS runtimes.
 * [swc](https://swc-project.github.io/) - a TypeScript / JavaScript compiler. It consumes a JavaScript or TypeScript file which uses recently added features and emits JavaScript code which can be executed on old browsers.
 * [TypeScript](http://www.typescriptlang.org/) - a typed superset of JavaScript that compiles to plain JavaScript.
 
