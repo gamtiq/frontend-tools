@@ -441,6 +441,7 @@
 * [Grunion](https://github.com/Hypercubed/grunion) - run multiple commands using glob patterns.
 * [Grunt](https://gruntjs.com/) - the JavaScript task runner.
 * [Gulp](https://gulpjs.com/) - a toolkit for automating painful or time-consuming tasks in your development workflow.
+* [Jake](https://jakejs.com/) - a simple and flexible JavaScript build tool for NodeJS.
 * [Just](https://microsoft.github.io/just/) - a library that organizes build tasks for your JS projects. It consists of: a build task build definition library; sane preset build flows for node and browser projects featuring TypeScript, Webpack and jest; project scaffold tool that generates no-ejection needed repos that tracks template changes.
 * [ncc](https://github.com/zeit/ncc) - simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
 * [nexe](https://github.com/nexe/nexe) - a command-line utility that compiles your Node.js application into a single executable file.
