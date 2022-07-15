@@ -322,6 +322,7 @@
 * [Poi](https://poi.js.org/) - develop powerful web app with no build configs until you need.
 * [Rollup](http://rollupjs.org/) - a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.
 * [SystemJS Builder](https://github.com/systemjs/builder) - provides a single-file build for SystemJS of mixed-dependency module trees.
+* [Vite](https://vitejs.dev/) - a new breed of frontend build tool that significantly improves the frontend development experience.
 * [webpack](https://webpack.js.org/) - a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
 
 ### Package manager <a name="package-manager"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
