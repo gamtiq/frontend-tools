@@ -746,6 +746,7 @@
     - [SpinKit](https://tobiasahlin.com/spinkit/) - a collection of loading indicators animated with CSS.
     - [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/) - lots of shapes in CSS with only a single HTML element.
     - [UI Snippets](https://ui-snippets.dev/) - a collection of UI Snippets.
+    - [WebGradients](https://webgradients.com/) - a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 * HTML <a name="html-examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [HTML DOM](https://htmldom.dev/) - common tasks of managing HTML DOM with vanilla JavaScript.
     - [Sneat Free Bootstrap HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free) - open-source & rasy to use Bootstrap 5 HTML admin template with elegant design & unique layout.
