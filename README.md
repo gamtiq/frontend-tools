@@ -43,6 +43,7 @@
 * [Graphics/image editor](#image-editor)
 * [Images, icons](#images)
 * [Analysis, performance, optimization](#analysis)
+* [Technologies support](#tech-support)
 * [Network](#net)
 * [Version control](#version-control)
     - [Git](#git)
@@ -520,6 +521,9 @@
 * [Webpack Visualizer](https://github.com/chrisbateman/webpack-visualizer) - visualize and analyze your Webpack bundle to see which modules are taking up space and which might be duplicates.
 * [WebPagetest](https://www.webpagetest.org/) - run a free website speed test from multiple locations around the globe using real browsers and at real consumer connection speeds.
 * [Yellow Lab Tools](https://yellowlab.tools/) - allows you to test a webpage (via an URL) and detects performance and front-end code quality issues.
+
+### Technologies support <a name="tech-support"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Can I use](https://caniuse.com/) - provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
 ### Network <a name="net"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [HTTPie](https://httpie.org/) - a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more.
