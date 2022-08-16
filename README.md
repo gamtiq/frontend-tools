@@ -523,6 +523,7 @@
 * [Yellow Lab Tools](https://yellowlab.tools/) - allows you to test a webpage (via an URL) and detects performance and front-end code quality issues.
 
 ### Technologies support <a name="tech-support"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Can I email](https://www.caniemail.com/) - provides email clients support tables for HTML and CSS features.
 * [Can I use](https://caniuse.com/) - provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
 ### Network <a name="net"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
