@@ -406,7 +406,7 @@
 * [Docute](https://docute.org/) - The fastest way to create a documentation site for your project.
 * [Docz](https://www.docz.site/) - It has never been so easy to document your things!
 * [ESDoc](https://esdoc.org/) - A documentation generator for JavaScript (ES6).
-* [JSDoc](http://usejsdoc.org/) - An API documentation generator for JavaScript.
+* [JSDoc](https://jsdoc.app/) - An API documentation generator for JavaScript.
 * [x0](https://github.com/c8r/x0) - Document & develop React components without breaking a sweat.
 * [YUIDoc](http://yui.github.io/yuidoc/) - A Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
 
@@ -612,7 +612,7 @@
 * [Windframe](https://www.devwares.com/windframe/) - online visual builder for rapidly building and prototyping components and websites using tailwind css.
 
 ### Site generator <a name="site-generator"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [CMS.js](https://chrisdiana.dev/cms.js/) - fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol' HTML, CSS and Javascript to generate your website.
+* [CMS.js](http://chrisdiana.github.io/cms.js/) - fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol' HTML, CSS and Javascript to generate your website.
 * [DocPad](https://github.com/docpad/docpad) - a dynamic static-site generator. That is a content management system that takes content from several sources, like files on your computer, and renders them into incredibly fast static output.
 * [Elder.js](https://github.com/elderjs/elderjs) - an opinionated static site generator and web framework for Svelte built with SEO in mind.
 * [Gatsby](https://www.gatsbyjs.com/) - blazing-fast static site generator for React.
@@ -744,12 +744,12 @@
 * CSS <a name="css-examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [CSS Arrows From CodePen](https://freebiesupply.com/blog/css-arrows/) - a list of CSS arrows from CodePen.
     - [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds) - beautiful pure CSS background patterns.
-    - [CSS buttons](https://cssbuttons.io/) -  CSS buttons, checkboxes, and more. Choose from numerous UI components and get the CSS for the ones you like.
     - [CSSFX](https://cssfx.netlify.app/) - beautifully simple click-to-copy CSS effects. A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by CSS with minimal markup.
     - [CSS Layout](https://csslayout.io/) - popular layouts & patterns made with CSS.
     - [Drop-in Minimal CSS](https://dohliam.github.io/dropin-minimal-css/) - an overview of barebones drop-in minimal CSS boilerplate frameworks.
     - [SpinKit](https://tobiasahlin.com/spinkit/) - a collection of loading indicators animated with CSS.
     - [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/) - lots of shapes in CSS with only a single HTML element.
+    - [Universe of UI elements](https://uiverse.io/) -  CSS buttons, checkboxes, and more. Choose from numerous UI components and get the CSS for the ones you like.
     - [UI Snippets](https://ui-snippets.dev/) - a collection of UI Snippets.
     - [WebGradients](https://webgradients.com/) - a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 * HTML <a name="html-examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
