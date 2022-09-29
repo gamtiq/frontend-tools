@@ -386,6 +386,7 @@
 * [QA Wolf](https://www.qawolf.com/) - a Node.js library for creating browser tests.
 * [QUnit](https://qunitjs.com/) - a powerful, easy-to-use JavaScript unit testing framework.
 * [Sazerac](https://sazerac.js.org/) - data-driven testing for JavaScript. It helps you create simple, readable tests and works with Jasmine, Jest, and Mocha.
+* [Taiko](https://taiko.dev/) - an open source node.js library for testing modern web applications.
 * [tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers.
 * [TestCafe](https://devexpress.github.io/testcafe/) - a node.js tool to automate end-to-end web testing.
 * [Testem](https://github.com/testem/testem) - a test runner that makes Javascript unit testing fun.
