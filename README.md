@@ -625,7 +625,6 @@
 
 ### Emulator, simulator <a name="emulator"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Responsinator](https://www.responsinator.com/) - helps website makers quickly get an indication of how their responsive site will look on the most popular devices.
-* [Screenfly](http://quirktools.com/screenfly/) - allows you to view your website on a variety of device screens and resolutions.
 
 ### API <a name="api"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [APIs.guru](https://apis.guru/browse-apis/) - Wikipedia for WEB APIs.
