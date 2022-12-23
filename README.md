@@ -612,6 +612,7 @@
 
 ### Online tool <a name="online-tool"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [ExtendsClass](https://extendsclass.com/) - free online toolbox for developers. You have at your disposal syntax validators, code formatters, testers, HTTP clients, mock server, but also a SQLite browser.
+* [Online Gradient Generator](https://angrytools.com/gradient/) - create gradient code in CSS, RGBA, HEX, Canvas, SVG, SwiftUI and Android XML format. In addition you can also generate gradient image and download.
 * [Windframe](https://www.devwares.com/windframe/) - online visual builder for rapidly building and prototyping components and websites using tailwind css.
 
 ### Site generator <a name="site-generator"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
