@@ -356,7 +356,9 @@
 * [Web Developer Checklist](http://webdevchecklist.com/) - the ultimate checklist for all serious web developers building modern websites.
 * CSS
     - [CSSLint](https://github.com/CSSLint/csslint) - a tool to help point out problems with your CSS code. It does basic syntax checking as well as applying a set of rules to the code that look for problematic patterns or signs of inefficiency. The rules are all pluggable, so you can easily write your own or omit ones you don't want.
+    - [PurgeCSS](https://purgecss.com/) - a tool to remove unused CSS from your project.
     - [stylelint](https://stylelint.io/) - a mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
+    - [uncss](https://github.com/uncss/uncss) - a tool that removes unused CSS from your stylesheets. It works across multiple files and supports Javascript-injected CSS.
 * HTML
     - [HTML Inspector](https://github.com/philipwalton/html-inspector) - a highly-customizable, code quality tool to help you write better markup.
     - [HTMLHint](https://github.com/htmlhint/HTMLHint) - the static code analysis tool you need for your HTML.
