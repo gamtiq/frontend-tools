@@ -363,10 +363,13 @@
     - [HTML Inspector](https://github.com/philipwalton/html-inspector) - a highly-customizable, code quality tool to help you write better markup.
     - [HTMLHint](https://github.com/htmlhint/HTMLHint) - the static code analysis tool you need for your HTML.
 * JavaScript and variants
+    - [deadfile](https://github.com/M-Izadmehr/deadfile) - simple util to find deadcode and unused files in any JavaScript project (ES5, ES6, React, Vue, ...).
+    - [depcheck](https://github.com/depcheck/depcheck) - a tool for analyzing the dependencies in a project to see: how each dependency is used, which dependencies are useless, and which dependencies are missing from `package.json`.
     - [ESLint](https://eslint.org/) - the pluggable linting utility for JavaScript and JSX.
     - [JSHint](https://jshint.com/) - a tool that helps to detect errors and potential problems in your JavaScript code.
     - [quick-lint-js](https://quick-lint-js.com/) - finds bugs in JavaScript programs. Lint any JavaScript file with no configuration.
     - [TSLint](https://palantir.github.io/tslint/) - an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors. It is widely supported across modern editors & build systems and can be customized with your own lint rules, configurations, and formatters.
+    - [ts-prune](https://github.com/nadeesha/ts-prune) - find potentially unused exports in your Typescript project with zero configuration.
     - [unimported](https://github.com/smeijer/unimported) - find and fix dangling files and unused dependencies in your JavaScript projects. 
     - [XO](https://github.com/xojs/xo) - opinionated but configurable ESLint wrapper with lots of goodies included.
 
