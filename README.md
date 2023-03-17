@@ -437,6 +437,7 @@
 * Images
     - [CompressImage.io](https://compressimage.io/) - compress JPG and PNG images at light speed with browser based image compressor. Private, works offline.
     - [Compressor.io](https://compressor.io/) - fast & efficient online image compression.
+    - [ImageOptim](https://imageoptim.com/mac) - saves disk space & bandwidth by compressing images without losing quality.
     - [Squoosh](https://squoosh.app/) - an image compression web app that allows you to dive into the advanced options provided by various image compressors.
     - [SVGO](https://github.com/svg/svgo) - a Nodejs-based tool for optimizing SVG vector graphics files.
 * JavaScript
