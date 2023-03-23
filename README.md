@@ -94,6 +94,7 @@
 * [MicroJS](http://microjs.com) - fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
 * [Moiva](https://moiva.io/) - measure and compare JavaScript libraries.
 * [Node Frameworks](http://nodeframework.com/) - hand-picked registry of Node.js frameworks.
+* [Node.js Toolbox](https://nodejstoolbox.com/) - find actively maintained and popular libraries in the Node.js ecosystem.
 * [NPMCompare](https://npmcompare.com/) - search and compare npm packages.
 * [npms](https://npms.io/) - a better and open source search for node modules.
 * [npm trends](https://www.npmtrends.com/) - compare package download counts over time.
@@ -131,7 +132,7 @@
 * [Babel](https://babeljs.io/) - a JavaScript compiler.
 * [Bublé](https://buble.surge.sh/) - fast, batteries-included ES2015 compiler.
 * [Sucrase](https://sucrase.io/) - super-fast alternative to Babel for when you can target modern JS runtimes.
-* [swc](https://swc-project.github.io/) - a TypeScript / JavaScript compiler. It consumes a JavaScript or TypeScript file which uses recently added features and emits JavaScript code which can be executed on old browsers.
+* [SWC](https://swc.rs/) - a TypeScript / JavaScript compiler. It takes JavaScript / TypeScript files using modern JavaScript features and outputs valid code that is supported by all major browsers.
 * [TypeScript](http://www.typescriptlang.org/) - a typed superset of JavaScript that compiles to plain JavaScript.
 
 ### JavaScript framework <a name="js-framework"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
