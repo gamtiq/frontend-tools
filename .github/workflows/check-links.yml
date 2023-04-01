@@ -8,14 +8,14 @@ jobs:
             - run: echo "This job is now running on a ${{ runner.os }} server hosted by GitHub."
             - run: echo "Repository - ${{ github.repository }}, branch - ${{ github.ref }}."
             - name: Check out repository code
-              uses: actions/checkout@v2
+              uses: actions/checkout@v3
             - run: echo "The ${{ github.repository }} repository has been cloned to the runner."
             - run: echo "The workflow is now ready to check links."
             - name: List files in the repository
               run: |
                 ls ${{ github.workspace }}
             - name: Set up Ruby 2.6
-              uses: actions/setup-ruby@v1
+              uses: ruby/setup-ruby@v1
               with:
                 ruby-version: 2.6.x
             - name: Checks
