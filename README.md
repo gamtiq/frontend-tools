@@ -723,6 +723,7 @@
     - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - a growing collection of documentation about the most quirky parts of the JavaScript programming language.
     - [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions) - list of 1000 JavaScript interview questions.
     - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - a long list of (advanced) JavaScript questions, and their explanations. From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview!
+    - [JS Tips](https://www.jstips.co/) - a collection of useful daily JavaScript tips that will allow you to improve your code writing.
     - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
     - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - a summary and curation of the top-ranked content on Node JS best practices.
     - [The Modern JavaScript Tutorial](https://javascript.info)
