@@ -556,6 +556,7 @@
 * Node.js-based <a name="dev-server-node"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [Browsersync](https://www.browsersync.io/) - keep multiple browsers & devices in sync when building websites.
     - [EasyMock Server](https://github.com/cyberagent/node-easymock) - a simple but powerful mock server.
+    - [Fenix](http://fenixwebserver.com/) - a simple and visual static web server with collaboration features.
     - [freddie](https://github.com/Scytl/freddie) - front end development server.
     - [http-server](https://github.com/http-party/http-server) - a simple, zero-configuration command-line http server.
     - [JSON Server](https://github.com/typicode/json-server) - get a full fake REST API with zero coding.
