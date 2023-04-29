@@ -391,6 +391,7 @@
 * [Majestic](https://github.com/Raathigesh/majestic) - zero config GUI for Jest.
 * [Mocha](https://mochajs.org/) - simple, flexible, fun JavaScript test framework for Node.js & The Browser.
 * [Mock Service Worker](https://github.com/mswjs/msw) - an API mocking library for browser and Node.js.
+* [Responsively App](https://responsively.app/) - a modified browser that helps in responsive web development.
 * [QA Wolf](https://www.qawolf.com/) - a Node.js library for creating browser tests.
 * [QUnit](https://qunitjs.com/) - a powerful, easy-to-use JavaScript unit testing framework.
 * [Sazerac](https://sazerac.js.org/) - data-driven testing for JavaScript. It helps you create simple, readable tests and works with Jasmine, Jest, and Mocha.
