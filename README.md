@@ -508,6 +508,7 @@
 * [css.gg](https://css.gg/) - open-source CSS, SVG and Figma UI Icons, available in SVG Sprite, styled-components, NPM & API.
 * [Eva Icons](https://akveo.github.io/eva-icons/) - a pack of more than 480 beautifully crafted Open Source icons for common actions and items. Icons are provided in two visual types: Fill and Outline and in several formats, including PNG, SVG, font, Sketch, etc.
 * [Heroicons](https://heroicons.dev/) - a set of free MIT-licensed high-quality SVG icons for UI development.
+* [iconmonstr](https://iconmonstr.com/) - free, monstrously big and continuously growing source of simple icons.
 * [icono](https://saeedalipoor.github.io/icono/) - pure css icons, with only one element.
 * [Icons8](https://icons8.com/) - free icons, photos, vectors, music and tools.
 * [IconSear.ch](https://iconsear.ch/search.html) - search engine for SVG icons.
@@ -515,6 +516,7 @@
 * [Line Icons](https://lineicons.com/) - handcrafted line icons for modern user interfaces.
 * [LogoSear.ch](https://logosear.ch/search.html) - search engine for SVG logos.
 * [Lorem Picsum](https://picsum.photos/) - the Lorem Ipsum for photos. Easy to use, stylish image placeholders. Just add your desired image size (width & height) after our URL, and you'll get a random image.
+* [Remix Icon](https://remixicon.com/) - a set of open-source neutral-style system symbols for designers and developers.
 * [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - miniscule SVG versions of your favourite website and app logos.
 * [SVG Porn](https://svgporn.com/) - a huge collection of SVG logos.
 * [Tabler Icons](https://tabler-icons.io/) - free and open source icons designed to make your website or app attractive, visually consistent and simply beautiful.
