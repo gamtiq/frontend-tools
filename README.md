@@ -510,6 +510,7 @@
 * [Heroicons](https://heroicons.dev/) - a set of free MIT-licensed high-quality SVG icons for UI development.
 * [iconmonstr](https://iconmonstr.com/) - free, monstrously big and continuously growing source of simple icons.
 * [icono](https://saeedalipoor.github.io/icono/) - pure css icons, with only one element.
+* [Iconoir](https://iconoir.com/) - a high-quality selection of free icons.
 * [Icons8](https://icons8.com/) - free icons, photos, vectors, music and tools.
 * [IconSear.ch](https://iconsear.ch/search.html) - search engine for SVG icons.
 * [Ikonate](https://www.ikonate.com/) - fully customisable & accessible, well-optimised vector icons.
