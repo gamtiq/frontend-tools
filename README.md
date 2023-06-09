@@ -383,6 +383,7 @@
 * [Cypress](https://www.cypress.io/) - a test engine that runs unit and integration tests in your browser.
 * [Enzyme](https://enzymejs.github.io/enzyme/) - a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output.
 * [Gauge](https://gauge.org/) - a light weight cross-platform test automation tool. It provides the ability to author test cases in the business language.
+* [Hermione](https://github.com/gemini-testing/hermione) - a utility for integration testing of web pages using WebdriverIO and Mocha.
 * [Intern](https://theintern.io/) - a complete test system for JavaScript designed to help you write and run consistent, high-quality test cases for your JavaScript libraries and applications.
 * [Istanbul](https://istanbul.js.org/) - JS code coverage tool that computes statement, line, function and branch coverage.
 * [Jasmine](https://jasmine.github.io/) - a behavior-driven development framework for testing JavaScript code.
