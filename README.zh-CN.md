@@ -27,7 +27,6 @@
 - [NPMCompare](https://npmcompare.com/) - 搜索和比较 npm 包。
 - [NPMS](https://npms.io/) - 一个更好的开源Node模块搜索。
 - [npm 趋势](https://www.npmtrends.com/) - 比较一段时间内的包下载计数。
-- [Openbase](https://openbase.com/) - 一个帮助开发人员浏览开源世界并做出更明智选择的平台。
 - [Pika](https://www.pika.dev/) - 在 npm 中搜索快速、现代的软件包。
 - [Redux 生态系统链接 - Redux](https://github.com/markerikson/redux-ecosystem-links) 插件库的分类列表，以及其他密切相关的库。
 - [Slant](https://www.slant.co/) - 一个产品推荐社区，帮助人们与最适合他们的产品联系起来。
