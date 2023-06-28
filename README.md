@@ -218,7 +218,7 @@
 * Small CSS library / toolkit <a name="small-css-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [Basscss](https://basscss.com/) - low-Level CSS Toolkit, a lightweight collection of immutable utilities designed for speed, clarity, performance, and scalability.
     - [Cutestrap](https://www.cutestrap.com/) - a sassy, opinionated CSS Framework. A tiny alternative to Bootstrap.
-    - [mini.css](https://minicss.org/) - a minimal, responsive, style-agnostic CSS framework.
+    - [mini.css](https://minicss.us/) - a minimal, responsive, style-agnostic CSS framework.
     - [Mobi.css](http://getmobicss.com/) - a lightweight, scalable, mobile-first css framework.
     - [Picnic CSS](https://picnicss.com/) - an invasive CSS library to get your style started.
     - [Pure](https://purecss.io/) - a set of small, responsive CSS modules that you can use in every web project.
@@ -485,7 +485,7 @@
 * [TSDX](https://github.com/jaredpalmer/tsdx) - a zero-config CLI that helps you develop, test, and publish modern TypeScript packages with ease.
 
 ### Component development <a name="component-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [BlueKit](http://bluekit.blueberry.io/) - automatically generates a library from your React components with editable props and live preview.
+* [BlueKit](https://react-bluekit.herokuapp.com/) - automatically generates a library from your React components with editable props and live preview.
 * [component-playground](https://github.com/FormidableLabs/component-playground) - a component for rendering React Components and ES6 code with editable source and live preview.
 * [Kit](https://github.com/c8r/kit) - tools for developing, documenting, and testing React component libraries.
 * [Ladle](https://www.ladle.dev/) - develop and test your React stories faster. Ladle is a drop-in alternative to Storybook. It is a tool for developing and testing your React components in an environement that's isolated and faster than most real-world applications.
@@ -705,7 +705,7 @@
 * [Project Guidelines](https://github.com/elsewhencode/project-guidelines) - a list of guidelines that works really well with most JavaScript projects.
 * [Service Worker Cookbook](https://serviceworke.rs/) - a collection of working, practical examples of using service workers in modern web sites.
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) - a big picture, thesaurus, and taxonomy of modern JavaScript web development.
-* [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) - carefully curated content to help you ace your next technical interview, with a focus on algorithms.
+* [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - carefully curated content to help you ace your next technical interview, with a focus on algorithms.
 * [Unix Toolbox](http://devdoc.net/linux/UnixToolbox.html) - a collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users. This is a practical guide with concise explanations, however the reader is supposed to know what s/he is doing.
 * CSS <a name="css-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [30 Seconds of CSS](https://www.30secondsofcode.org/css/) - a curated collection of useful CSS snippets you can understand in 30 seconds or less.
@@ -726,7 +726,7 @@
     - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts) - this repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies.
     - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - JavaScript based examples of many popular algorithms and data structures.
     - [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) - software engineering principles, from Robert C. Martin's book `Clean Code`, adapted for JavaScript.
-    - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - a growing collection of documentation about the most quirky parts of the JavaScript programming language.
+    - [JavaScript Garden](https://shamansir.github.io/JavaScript-Garden/) - a growing collection of documentation about the most quirky parts of the JavaScript programming language.
     - [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions) - list of 1000 JavaScript interview questions.
     - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - a long list of (advanced) JavaScript questions, and their explanations. From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview!
     - [JS Tips](https://www.jstips.co/) - a collection of useful daily JavaScript tips that will allow you to improve your code writing.

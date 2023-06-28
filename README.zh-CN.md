@@ -155,7 +155,7 @@
 - 小型 CSS 库 / 工具包
   - [Basscss](https://basscss.com/) - 低级 CSS 工具包，一个轻量级的不可变实用程序集合，旨在提高速度、清晰度、性能和可扩展性。
   - [Cutestrap](https://www.cutestrap.com/) - 一个时髦的，固执己见的CSS框架。Bootstrap的一个小替代品。
-  - [mini.css](https://minicss.org/) - 一个最小的，响应式的，与样式无关的CSS框架。
+  - [mini.css](https://minicss.us/) - 一个最小的，响应式的，与样式无关的CSS框架。
   - [Mobi.css](http://getmobicss.com/) - 一个轻量级、可扩展、移动优先的 CSS 框架。
   - [Picnic CSS](https://picnicss.com/) - 一个侵入性的CSS库，让你的风格开始。
   - [Pure](https://purecss.io/) - 一组小型的响应式CSS模块，您可以在每个Web项目中使用。
@@ -444,7 +444,7 @@
 
 ## 组件开发
 
-- [BlueKit](http://bluekit.blueberry.io/) - 从您的 React 组件自动生成一个库，其中包含可编辑的道具和实时预览。
+- [BlueKit](https://react-bluekit.herokuapp.com/) - 从您的 React 组件自动生成一个库，其中包含可编辑的道具和实时预览。
 - [component-playground](https://github.com/FormidableLabs/component-playground) - 一个用于渲染 React 组件和 ES6 代码的组件，具有可编辑的源代码和实时预览。
 - [Kit](https://github.com/c8r/kit) - 用于开发、记录和测试 React 组件库的工具。
 - [Ladle](https://www.ladle.dev/) - 更快地开发和测试你的 React 故事。Ladle是Storybook的直接替代品。它是一种用于在隔离的环境中开发和测试 React 组件的工具，比大多数现实世界的应用程序更快。
@@ -685,7 +685,7 @@
 - [项目指南](https://github.com/elsewhencode/project-guidelines)列表 - 适用于大多数JavaScript项目的指南列表。
 - Service [Worker Cookbook](https://serviceworke.rs/) - 在现代网站中使用 Service Worker 的实际示例的集合。
 - [现代 Web 开发的 Spellbook](https://github.com/dexteryy/spellbook-of-modern-webdev) - 现代 JavaScript Web 开发的大图景、同义词库和分类法。
-- [技术面试手册](https://yangshun.github.io/tech-interview-handbook/) - 精心策划的内容，帮助您在下一次技术面试中脱颖而出，重点是算法。
+- [技术面试手册](https://www.techinterviewhandbook.org/) - 精心策划的内容，帮助您在下一次技术面试中脱颖而出，重点是算法。
 - [Unix Toolbox - Unix](http://devdoc.net/linux/UnixToolbox.html)/Linux/BSD命令和任务的集合，对IT工作或高级用户很有用。这是一本实用指南，有简洁的解释，但读者应该知道他/她在做什么。
 - CSS
   - [30 秒 CSS](https://www.30secondsofcode.org/css/) - 一个精选的有用 CSS 片段集合，您可以在 30 秒或更短的时间内理解。
@@ -706,7 +706,7 @@
   - [每个 JavaScript 开发人员都应该知道的 33 个概念](https://github.com/leonardomso/33-js-concepts) - 创建此存储库的目的是帮助开发人员掌握他们在 JavaScript 中的概念。这不是要求，而是未来学习的指南。
   - [JavaScript 算法和数据结构](https://github.com/trekhleb/javascript-algorithms) - 许多流行算法和数据结构的基于 JavaScript 的示例。
   - [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) - 软件工程原理，来自Robert C. Martin的书，改编为JavaScript。Clean Code
-  - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - 关于 JavaScript 编程语言中最古怪部分的文档集合。
+  - [JavaScript Garden](https://shamansir.github.io/JavaScript-Garden/) - 关于 JavaScript 编程语言中最古怪部分的文档集合。
   - [JavaScript面试问题和答案](https://github.com/sudheerj/javascript-interview-questions) - 1000个JavaScript面试问题列表。
   - [JavaScript 问题](https://github.com/lydiahallie/javascript-questions) - 一长串（高级）JavaScript 问题及其解释。从基础到高级：测试您对 JavaScript 的了解程度，稍微更新一下您的知识，或者为您的编码面试做准备！
   - [JS](https://www.jstips.co/) 提示 - 一组有用的日常 JavaScript 提示，可让您改进代码编写。
