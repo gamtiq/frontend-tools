@@ -784,6 +784,7 @@
 ### Useful articles & resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [120+ Places To Find Creative Commons Media](https://www.sitepoint.com/creative-commons-sources/) - resources to search for audio, video, images and more for use in a project.
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) - a curated list of awesome places to learn and/or practice algorithms.
+* [Inside look at modern web browser](https://developer.chrome.com/blog/inside-browser-part1/)
 * [Keep a Changelog](https://keepachangelog.com/) - make it easier for users and contributors to see precisely what notable changes have been made between each release (or version) of the project.
 * [Overview of the RenderingNG architecture](https://developer.chrome.com/blog/renderingng-architecture/) - overview of the Chrome RenderingNG architecture goals and key properties.
 * [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/) (outdated) - demonstrates that small modules can have a surprisingly high performance cost depending on your choice of bundler and module system.

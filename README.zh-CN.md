@@ -768,6 +768,7 @@
 
 - [120+ 查找知识共享媒体的地方](https://www.sitepoint.com/creative-commons-sources/) - 搜索音频、视频、图像等以用于项目的资源。
 - [令人敬畏的算法](https://github.com/tayllan/awesome-algorithms) - 学习和/或练习算法的精彩场所的精选列表。
+- [现代网络浏览器的内部观察](https://developer.chrome.com/blog/inside-browser-part1/)
 - [keepachangelog](https://keepachangelog.com/) - 使用户和贡献者更容易准确地查看项目的每个版本（或版本）之间进行了哪些值得注意的更改。
 - RenderingNG 架构概述 - Chrome [RenderingNG 架构](https://developer.chrome.com/blog/renderingng-architecture/)目标和关键属性概述。
 - [小模块的成本](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)（过时） - 表明小模块可以具有惊人的高性能成本，具体取决于您选择的捆绑器和模块系统。
