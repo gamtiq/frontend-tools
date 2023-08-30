@@ -106,7 +106,6 @@
 * [Unheap](http://www.unheap.com/) - a tidy repository of JavaScript plugins.
 * [VueScript.com](https://www.vuescript.com/) - aims to offer latest free Vue.js components for web application developers.
 * [webcomponents.org](https://www.webcomponents.org/) - a place to publish, browse and search for reusable web UI components.
-* [WebGlossary.info](https://webglossary.info/) - large web development glossary.
 
 ### ECMAScript / JavaScript <a name="ecmascript"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Specification <a name="es-specification"></a>
@@ -708,6 +707,7 @@
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) - a big picture, thesaurus, and taxonomy of modern JavaScript web development.
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - carefully curated content to help you ace your next technical interview, with a focus on algorithms.
 * [Unix Toolbox](http://devdoc.net/linux/UnixToolbox.html) - a collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users. This is a practical guide with concise explanations, however the reader is supposed to know what s/he is doing.
+* [WebGlossary.info](https://webglossary.info/) - large web development glossary.
 * CSS <a name="css-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [30 Seconds of CSS](https://www.30secondsofcode.org/css/) - a curated collection of useful CSS snippets you can understand in 30 seconds or less.
     - [A complete guide to CSS functions](https://css-tricks.com/complete-guide-to-css-functions/)

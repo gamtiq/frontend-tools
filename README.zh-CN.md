@@ -683,10 +683,11 @@
 - [抓取前端](https://github.com/grab/front-end-guide)指南 - 学习指南和现代前端堆栈介绍。
 - [OverAPI.com](https://overapi.com/) - 收集所有备忘单。
 - [项目指南](https://github.com/elsewhencode/project-guidelines)列表 - 适用于大多数JavaScript项目的指南列表。
-- Service [Worker Cookbook](https://serviceworke.rs/) - 在现代网站中使用 Service Worker 的实际示例的集合。
+- [Service Worker Cookbook](https://serviceworke.rs/) - 在现代网站中使用 Service Worker 的实际示例的集合。
 - [现代 Web 开发的 Spellbook](https://github.com/dexteryy/spellbook-of-modern-webdev) - 现代 JavaScript Web 开发的大图景、同义词库和分类法。
 - [技术面试手册](https://www.techinterviewhandbook.org/) - 精心策划的内容，帮助您在下一次技术面试中脱颖而出，重点是算法。
 - [Unix Toolbox - Unix](http://devdoc.net/linux/UnixToolbox.html)/Linux/BSD命令和任务的集合，对IT工作或高级用户很有用。这是一本实用指南，有简洁的解释，但读者应该知道他/她在做什么。
+- [WebGlossary.info](https://webglossary.info/) - 大型网络开发术语表。
 - CSS
   - [30 秒 CSS](https://www.30secondsofcode.org/css/) - 一个精选的有用 CSS 片段集合，您可以在 30 秒或更短的时间内理解。
   - [CSS 函数的完整指南](https://css-tricks.com/complete-guide-to-css-functions/)
@@ -761,7 +762,8 @@
 
 ### 新闻，摘要
 
-- [https://frontendweekly.co/](https://frontendweekly.co/) - 与前端开发相关的最佳文章，链接和新闻。
+- [Frontend Dogma](https://frontenddogma.com/) - 前端开发的每日新闻。
+- [Frontend Weekly](https://frontendweekly.co/) - 与前端开发相关的最佳文章，链接和新闻。
 - [JavaScript Weekly](https://javascriptweekly.com/) - JavaScript文章，新闻和酷项目的时事通讯。
 
 ### 有用的文章和资源
