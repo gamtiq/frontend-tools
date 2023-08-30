@@ -106,6 +106,7 @@
 * [Unheap](http://www.unheap.com/) - a tidy repository of JavaScript plugins.
 * [VueScript.com](https://www.vuescript.com/) - aims to offer latest free Vue.js components for web application developers.
 * [webcomponents.org](https://www.webcomponents.org/) - a place to publish, browse and search for reusable web UI components.
+* [WebGlossary.info](https://webglossary.info/) - large web development glossary.
 
 ### ECMAScript / JavaScript <a name="ecmascript"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * Specification <a name="es-specification"></a>
@@ -778,6 +779,7 @@
     - [Sneat Free Bootstrap HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free) - open-source & rasy to use Bootstrap 5 HTML admin template with elegant design & unique layout.
 
 ### News, digest <a name="news"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Frontend Dogma](https://frontenddogma.com/) - daily news (and weekly [tools](https://frontenddogma.com/tools/)) for frontend development.
 * [Frontend Weekly](https://frontendweekly.co/) - the best articles, links and news related to frontend development.
 * [JavaScript Weekly](https://javascriptweekly.com/) - a newsletter of JavaScript articles, news and cool projects.
 
