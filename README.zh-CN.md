@@ -301,6 +301,7 @@
 ## 检查、验证、清单
 
 - [前端清单](https://frontendchecklist.io/) - 在将您的网站/HTML页面启动到生产环境之前，您需要拥有/测试的所有元素的详尽列表。
+- [Knip](https://github.com/webpro/knip) - 查找 JavaScript 和 TypeScript 项目中未使用的文件、依赖项和导出。
 - [棉绒暂存](https://github.com/okonet/lint-staged) - 针对暂存的 git 文件运行 linter。此项目包含一个脚本，该脚本将运行任意 shell 任务，并将暂存文件列表作为参数，按指定的 glob 模式进行筛选。
 - [textlint](https://textlint.github.io/) - 用于文本和降价的可插拔 linting 工具。 与 类似，但它用于自然语言。textlintESLint
 - [WebHint](https://webhint.io/) - 一个用于Web的linting工具。

@@ -351,6 +351,7 @@
 
 ### Linting, validation, checklist <a name="linting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Front-End Checklist](https://frontendchecklist.io/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+* [Knip](https://github.com/webpro/knip) - finds unused files, dependencies and exports in your JavaScript and TypeScript projects.
 * [lint-staged](https://github.com/okonet/lint-staged) - run linters against staged git files. This project contains a script that will run arbitrary shell tasks with a list of staged files as an argument, filtered by a specified glob pattern.
 * [textlint](https://textlint.github.io/) - the pluggable linting tool for text and markdown. `textlint` is similar to `ESLint`, but it's for use with natural language.
 * [webhint](https://webhint.io/) - a linting tool for the web.
