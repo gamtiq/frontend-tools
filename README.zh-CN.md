@@ -204,6 +204,7 @@
 - [Orbit](https://orbitjs.com/) - 一个可组合的数据框架，用于管理当今 Web 应用程序的复杂需求。虽然 Orbit 主要用作灵活的客户端 ORM，但它也可以在 Node.js 中的服务器端使用。
 - [overmindjs](https://overmindjs.org/) - 无摩擦状态管理。Overmind 旨在提供您关注的开发人员体验，将状态管理的编排减少到最低限度。
 - [Redux](https://redux.js.org/) - JavaScript应用程序的可预测状态容器。
+- [Signals](https://github.com/preactjs/signals) - 一个高性能的状态管理库。
 - [Storeon](https://github.com/storeon/storeon) - 一个基于事件的小型类似 Redux 的状态管理器，用于 React 和 Preact。
 - [Transis](https://github.com/centro/transis) - 一个 JavaScript 数据建模库，可用于创建丰富的客户端体验。
 - [Undux](https://undux.org/) - Flux和Redux的简单且类型安全的替代品。使用它来管理各种规模的 ReactJS 应用程序的状态和数据。

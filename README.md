@@ -262,6 +262,7 @@
 * [Orbit](https://orbitjs.com/) - a composable data framework for managing the complex needs of today's web applications. Although Orbit is primarily used as a flexible client-side ORM, it can also be used server-side in Node.js.
 * [Overmind](https://overmindjs.org) - frictionless state management. Overmind aims for a developer experience where that is all you focus on, reducing the orchestration of state management to a minimum.
 * [Redux](https://redux.js.org/) - a predictable state container for JavaScript apps.
+* [Signals](https://github.com/preactjs/signals) - a performant state management library.
 * [Storeon](https://github.com/storeon/storeon) - a tiny event-based Redux-like state manager for React and Preact.
 * [Transis](https://github.com/centro/transis) - a JavaScript data modeling library useful for creating rich client-side experiences.
 * [Undux](https://undux.org/) - a simple & typesafe alternative to Flux and Redux. Use it to manage state and data for ReactJS applications of all sizes.
