@@ -741,6 +741,7 @@
 ### 示例
 
 - Hacker News [阅读器作为渐进式 Web 应用程序](https://hnpwa.com/) - 使用许多流行的 JavaScript 框架和库构建的非官方 Hacker News 客户端列表。每个实现都是一个完整的渐进式 Web 应用程序，它利用不同的渐进式技术来提供快速、可靠和引人入胜的体验。
+- [Ladda](https://github.com/hakimel/Ladda) - 带有内置加载指示器的按钮，有效地弥合了操作和反馈之间的差距。
 - [realworld](https://github.com/gothinkster/realworld) - 了解如何使用我们支持的任何前端和后端构建完全相同的 Medium.com 克隆。
 - [simpl.info](https://simpl.info/) - 最简单的HTML，CSS和JavaScript示例。
 - [TodoMVC](https://todomvc.com/) - 帮助您选择 MV* 框架。
