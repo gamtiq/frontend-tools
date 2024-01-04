@@ -180,6 +180,7 @@
 
 ## 移动开发
 
+- [Expo](https://expo.dev/) - 使用 React 创建在 Android、iOS 和 Web 上运行的通用本机应用程序。
 - [Ionic](https://ionicframework.com/framework) - 开源移动应用程序开发框架，可通过 Web 技术轻松构建高质量的本机和渐进式 Web 应用程序。
 - [NativeScript](https://www.nativescript.org/) - 一个开源框架，用于使用 JavaScript 和 CSS 构建真正的原生移动应用程序。
 - [React Native](https://facebook.github.io/react-native/) - 使用 JavaScript 和 React 构建原生移动应用程序。

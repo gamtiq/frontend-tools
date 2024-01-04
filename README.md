@@ -240,6 +240,7 @@
 * [Zero](https://zeroserver.io/) - a web framework to simplify modern web development. It's as simple as writing your code in a mix of Node.js, React, HTML, MDX, Vue, and static files and putting them all in a folder. Zero abstracts the usual project configuration for routing, bundling, and transpiling to make it easier to get started.
 
 ### Mobile development <a name="mobile-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Expo](https://expo.dev/) - create universal native apps with React that run on Android, iOS, and the web.
 * [Ionic](https://ionicframework.com/framework) - the open-source mobile app development framework that makes it easy to build top quality native and progressive web apps with web technologies.
 * [NativeScript](https://www.nativescript.org/) - an open source framework for building truly native mobile apps with JavaScript and CSS.
 * [React Native](https://facebook.github.io/react-native/) - build native mobile apps using JavaScript and React.
