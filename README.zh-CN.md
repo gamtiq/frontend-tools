@@ -238,6 +238,10 @@
 - [i18next](https://www.i18next.com/) - 一个用JavaScript编写的国际化框架。它为您提供了一个完整的解决方案，将您的产品从网络本地化为移动设备和桌面。
 - [lingui](https://lingui.js.org/) - 一个简单而强大的全球项目国际化框架。
 
+## 电子邮件
+
+- [MJML](https://mjml.io/) - 一种标记语言，旨在减少编写响应式电子邮件的难度。
+
 ## JavaScript 实用程序库
 
 - [101](https://github.com/tjmehta/101) - 一个现代的JS实用程序库。

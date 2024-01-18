@@ -22,6 +22,7 @@
     - [Redux-based library](#redux-library)
 * [Database](#database)
 * [Internationalization (i18n), localization (l10n)](#i18n)
+* [Email](#email)
 * [JavaScript utility library](#js-utility-library)
 * [JavaScript module system and loader](#loader)
 * [Module and asset bundler](#bundler)
@@ -293,6 +294,9 @@
 * [Globalize](https://globalizejs.com/) - a JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data. Globalize provides number formatting and parsing, date and time formatting and parsing, currency formatting, message formatting (ICU message format pattern), and plural support.
 * [i18next](https://www.i18next.com/) - an internationalization-framework written in and for JavaScript. It provides you with a complete solution to localize your product from web to mobile and desktop.
 * [Lingui](https://lingui.js.org/) - an easy yet powerfull internationalization framework for global projects.
+
+### Email <a name="email"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [MJML](https://mjml.io/) - a markup language designed to reduce the pain of coding a responsive email.
 
 ### JavaScript utility library <a name="js-utility-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [101](https://github.com/tjmehta/101) - a modern JS utility library.
