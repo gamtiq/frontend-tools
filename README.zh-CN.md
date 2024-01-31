@@ -773,6 +773,7 @@
 - [Frontend Dogma](https://frontenddogma.com/) - 前端开发的每日新闻。
 - [Frontend Weekly](https://frontendweekly.co/) - 与前端开发相关的最佳文章，链接和新闻。
 - [JavaScript Weekly](https://javascriptweekly.com/) - JavaScript文章，新闻和酷项目的时事通讯。
+- [React Status](https://react.statuscode.com/) - 最新 React 和 React Native 链接和教程的每周汇总。
 
 ### 有用的文章和资源
 
