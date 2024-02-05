@@ -802,5 +802,6 @@
 * [The cost of transpiling es2015 in 2016](https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016) (outdated)
 * [What Do the Popular JavaScript Tools Depend On?](https://www.telerik.com/blogs/popular-javascript-tools-depend) (outdated)
 * [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+* [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) - An interactive cheatsheet of Vue, Vue Router, and Pinia.
 
 [Table of contents &#x2191;](#toc)
