@@ -695,6 +695,7 @@
 - [现代 Web 开发的 Spellbook](https://github.com/dexteryy/spellbook-of-modern-webdev) - 现代 JavaScript Web 开发的大图景、同义词库和分类法。
 - [技术面试手册](https://www.techinterviewhandbook.org/) - 精心策划的内容，帮助您在下一次技术面试中脱颖而出，重点是算法。
 - [Unix Toolbox - Unix](http://devdoc.net/linux/UnixToolbox.html)/Linux/BSD命令和任务的集合，对IT工作或高级用户很有用。这是一本实用指南，有简洁的解释，但读者应该知道他/她在做什么。
+- [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) - Vue、Vue Router 和 Pinia 的交互式备忘单。
 - [WebGlossary.info](https://webglossary.info/) - 大型网络开发术语表。
 - CSS
   - [30 秒 CSS](https://www.30secondsofcode.org/css/) - 一个精选的有用 CSS 片段集合，您可以在 30 秒或更短的时间内理解。

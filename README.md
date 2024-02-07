@@ -715,6 +715,7 @@
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) - a big picture, thesaurus, and taxonomy of modern JavaScript web development.
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - carefully curated content to help you ace your next technical interview, with a focus on algorithms.
 * [Unix Toolbox](http://devdoc.net/linux/UnixToolbox.html) - a collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users. This is a practical guide with concise explanations, however the reader is supposed to know what s/he is doing.
+* [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) - an interactive cheatsheet of Vue, Vue Router, and Pinia.
 * [WebGlossary.info](https://webglossary.info/) - large web development glossary.
 * CSS <a name="css-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [30 Seconds of CSS](https://www.30secondsofcode.org/css/) - a curated collection of useful CSS snippets you can understand in 30 seconds or less.
@@ -803,6 +804,5 @@
 * [The cost of transpiling es2015 in 2016](https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016) (outdated)
 * [What Do the Popular JavaScript Tools Depend On?](https://www.telerik.com/blogs/popular-javascript-tools-depend) (outdated)
 * [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
-* [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) - An interactive cheatsheet of Vue, Vue Router, and Pinia.
 
 [Table of contents &#x2191;](#toc)
