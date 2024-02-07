@@ -682,6 +682,7 @@
 - [程序员的 100+](https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7) 编码面试问题 - 解决这些常见的编码问题，以便在您的下一次编程工作面试中取得好成绩。
 - [30 秒代码](https://www.30secondsofcode.org/) - 满足您所有开发需求的简短代码片段。
 - [30秒面试](https://30secondsofinterviews.org/) - 一系列常见的面试问题，可帮助您为下一次面试做准备。
+- [Bulletproof React](https://github.com/alan2207/bulletproof-react) - 一个简单、可扩展且功能强大的架构，用于构建生产就绪的 React 应用程序。
 - [Checkbot：Web 最佳实践](https://www.checkbot.io/guide/) - 详细介绍 50+ SEO、速度和安全 Web 最佳实践。
 - [DevDocs](https://devdocs.io/) - 将多个 API 文档组合在一个快速、有条理且可搜索的界面中。
 - [每个程序员都应该知道](https://github.com/mtdvio/every-programmer-should-know) - 每个软件开发人员都应该知道的（大部分）技术知识的集合。

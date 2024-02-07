@@ -702,6 +702,7 @@
 * [100+ Coding Interview Questions for Programmers](https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7) - solve these frequently asked coding problems to do well on your next programming job interviews.
 * [30 seconds of code](https://www.30secondsofcode.org/) - short code snippets for all your development needs.
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/) - a curated collection of common interview questions to help you prepare for your next interview.
+* [Bulletproof React](https://github.com/alan2207/bulletproof-react) - a simple, scalable, and powerful architecture for building production ready React applications.
 * [Checkbot: Web Best Practices](https://www.checkbot.io/guide/) - details 50+ SEO, speed and security web best practices.
 * [DevDocs](https://devdocs.io/) - combines multiple API documentations in a fast, organized, and searchable interface.
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - a collection of (mostly) technical things every software developer should know.
