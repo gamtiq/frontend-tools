@@ -789,6 +789,7 @@
     - [Sneat Free Bootstrap HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free) - open-source & rasy to use Bootstrap 5 HTML admin template with elegant design & unique layout.
 
 ### News, digest <a name="news"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Bytes](https://bytes.dev/) - the most entertaining (and informative) JavaScript newsletter.
 * [Frontend Dogma](https://frontenddogma.com/) - daily news (and weekly [tools](https://frontenddogma.com/tools/)) for frontend development.
 * [Frontend Weekly](https://frontendweekly.co/) - the best articles, links and news related to frontend development.
 * [JavaScript Weekly](https://javascriptweekly.com/) - a newsletter of JavaScript articles, news and cool projects.
