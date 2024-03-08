@@ -790,6 +790,7 @@
 
 ### News, digest <a name="news"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Bytes](https://bytes.dev/) - the most entertaining (and informative) JavaScript newsletter.
+* [CSS Weekly](https://css-weekly.com/) - weekly e-mail roundup of CSS articles, tutorials, experiments, and tools.
 * [Frontend Dogma](https://frontenddogma.com/) - daily news (and weekly [tools](https://frontenddogma.com/tools/)) for frontend development.
 * [Frontend Weekly](https://frontendweekly.co/) - the best articles, links and news related to frontend development.
 * [JavaScript Weekly](https://javascriptweekly.com/) - a newsletter of JavaScript articles, news and cool projects.

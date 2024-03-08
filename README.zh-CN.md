@@ -773,6 +773,7 @@
 ### 新闻，摘要
 
 - [Bytes](https://bytes.dev/) - 最有趣（且内容丰富）的 JavaScript 时事通讯。
+- [CSS Weekly](https://css-weekly.com/) - CSS 文章、教程、实验和工具的每周电子邮件综述。
 - [Frontend Dogma](https://frontenddogma.com/) - 前端开发的每日新闻。
 - [Frontend Weekly](https://frontendweekly.co/) - 与前端开发相关的最佳文章，链接和新闻。
 - [JavaScript Weekly](https://javascriptweekly.com/) - JavaScript文章，新闻和酷项目的时事通讯。
