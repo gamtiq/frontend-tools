@@ -360,6 +360,7 @@
 
 ## 调试
 
+- [Chii](https://github.com/liriliri/chii) - 与 weinre 一样的远程调试工具，主要是将 web inspector 替换为最新的 chrome devtools frontend.
 - [Eruda](https://eruda.liriliri.io/) - 移动浏览器的控制台。
 - [fuite](https://github.com/nolanlawson/fuite) - 用于查找 Web 应用程序中内存泄漏的 CLI 工具。
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - 由Chrome DevTools启用的Node.js改进的调试体验。

@@ -409,6 +409,7 @@
 * [Testing Library](https://testing-library.com/) - simple and complete testing utilities that encourage good testing practices and help you test UI components in a user-centric way.
 
 ### Debug <a name="debug"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Chii](https://github.com/liriliri/chii) - remote debugging tool like weinre, replacing web inspector with the latest chrome devtools frontend.
 * [Eruda](https://eruda.liriliri.io/) - console for mobile browsers.
 * [fuite](https://github.com/nolanlawson/fuite) - a CLI tool for finding memory leaks in web apps.
 * [ndb](https://github.com/GoogleChromeLabs/ndb) - an improved debugging experience for Node.js, enabled by Chrome DevTools.
