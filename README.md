@@ -303,6 +303,7 @@
 * [Licia](https://licia.liriliri.io/) - useful utility collection with zero dependencies.
 * [Lodash](https://lodash.com/) - a modern JavaScript utility library delivering modularity, performance & extras.
 * [Mout](http://moutjs.com/) - a collection of modular JavaScript utilities that can be used in the browser as AMD modules or on node.js.
+* [Radash](https://radash-docs.vercel.app/) - functional utility library - modern, simple, typed, powerful.
 * [Sugar](https://sugarjs.com/) - a Javascript utility library for working with native objects.
 * [Umbrella](https://github.com/thi-ng/umbrella/) - a collection of functional programming libraries that can be composed together.
 * [Underscore](http://underscorejs.org/) - a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
