@@ -499,6 +499,7 @@
 - [Bundle Buddy](https://github.com/samccone/bundle-buddy) - 一个工具，帮助你在javascript块/拆分中查找源代码重复。
 - [bundlephobia](https://bundlephobia.com/) - 了解在应用的捆绑包中包含 npm 包对性能的影响。
 - [前端性能清单](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 作为前端开发人员，您应该检查或至少了解并应用于您的项目的元素的详尽列表。
+- [Jampack](https://jampack.divriots.com/) - 优化静态网站以获得最佳用户体验和最佳 Core Web Vitals 分数。
 - [灯塔](https://developers.google.com/web/tools/lighthouse/) - 用于提高网页质量的开源自动化工具。它具有对性能、可访问性、渐进式 Web 应用程序等的审核。
 - 使用 webpack [优化您的库 - 使您的 webpack](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) 捆绑包更小的提示。
 - [packagephobia](https://packagephobia.com/) - 在安装 npm 包之前报告它的大小。这对于检查潜在的依赖项或 devT依赖项非常有用，而不会占用宝贵的磁盘空间或等待几分钟进行 npm 安装。
