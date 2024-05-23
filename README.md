@@ -141,6 +141,7 @@
 * [choo](https://github.com/yoshuawuyts/choo) - framework for creating sturdy frontend applications.
 * [cyclow](http://cyclow.js.org) - a reactive frontend framework.
 * [Ember](http://emberjs.com/) - a framework for creating ambitious web applications.
+* [Hotwire](https://hotwired.dev/) - an alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire.
 * [HyperApp](https://github.com/hyperapp/hyperapp) - a JavaScript library for building frontend applications.
 * [Mithril](https://mithril.js.org/) - a modern client-side Javascript framework for building Single Page Applications.
 * [qooxdoo](http://www.qooxdoo.org/) - a universal JavaScript framework that enables you to create applications for a wide range of platforms.

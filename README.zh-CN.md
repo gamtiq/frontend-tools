@@ -73,6 +73,7 @@
 - [choo](https://github.com/yoshuawuyts/choo) - 用于创建坚固的前端应用程序的框架。
 - [CycloW](http://cyclow.js.org/) - 一个反应式前端框架。
 - [Ember](http://emberjs.com/) - 一个用于创建雄心勃勃的Web应用程序的框架。
+- [Hotwire](https://hotwired.dev/) - 这是一种无需使用大量 JavaScript 即可构建现代 Web 应用程序的替代方法，即通过网络发送 HTML 而不是 JSON。
 - [HyperApp](https://github.com/hyperapp/hyperapp) - 一个用于构建前端应用程序的JavaScript库。
 - [Mithril](https://mithril.js.org/) - 一个现代的客户端Javascript框架，用于构建单页应用程序。
 - [qooxdoo](http://www.qooxdoo.org/) - 一个通用的JavaScript框架，使您能够为各种平台创建应用程序。
