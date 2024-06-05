@@ -565,6 +565,7 @@
 
 ## Node.js版本管理
 
+- [fnm (Fast Node Manager)](https://github.com/Schniz/fnm) - 快速简单的 Node.js 版本管理器，采用 Rust 构建。
 - [n](https://github.com/tj/n) - 以交互方式管理您的 Node.js 版本。
 - [Node包](https://www.npmjs.com/package/node) - 将二进制文件安装到项目中的 npm 包，这意味着您可以拥有与系统不同的本地版本，并作为普通依赖项进行管理。nodenodenode
 - [nodenv](https://github.com/nodenv/nodenv) - 管理多个 NodeJS 版本。
