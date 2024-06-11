@@ -640,6 +640,7 @@
 
 ## 浏览器扩展
 
+- * [Wappalyzer](https://www.wappalyzer.com/apps/) - 一个揭示网站所用技术的浏览器扩展。
 - chrome
   - [网页设计师的 25 个基本 Chrome 扩展程序](https://envato.com/blog/chrome-extensions-web-design/)
   - [检查机器人](https://www.checkbot.io/) - 抓取您的网站测试页面遵循 50+ SEO、速度和安全最佳实践。
