@@ -670,6 +670,8 @@
   - [Checkbot](https://www.checkbot.io/) - crawls your site testing pages follow 50+ SEO, speed and security best practices.
   - [CSS Peeper](https://csspeeper.com/) - smart CSS viewer tailored for designers.
   - [JS Bundle Size](https://github.com/vicrazumov/js-bundle-size) - automatically adds javascript bundle size data to npm and github project pages.
+  - [Measure Everything](https://chromewebstore.google.com/detail/measure-everything/accaohnljoiaebphephigghihhpeknff) - a powerful tool for measuring distances between DOM Elements on a webpage.
+  - [Screen Ruler: Measure The Web](https://chromewebstore.google.com/detail/screen-ruler-measure-the/jfbbgijjljfbolelfkopkhbfjajjampm) - measure sizes, distances, margins and paddings of any element on any web page.
   - [Z-Context](https://github.com/gwwar/z-context) - displays stacking contexts and z-index values in the elements panel.
 
 ### Benchmark <a name="benchmark"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)

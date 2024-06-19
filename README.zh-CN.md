@@ -640,12 +640,14 @@
 
 ## 浏览器扩展
 
-- * [Wappalyzer](https://www.wappalyzer.com/apps/) - 一个揭示网站所用技术的浏览器扩展。
+- [Wappalyzer](https://www.wappalyzer.com/apps/) - 一个揭示网站所用技术的浏览器扩展。
 - chrome
   - [网页设计师的 25 个基本 Chrome 扩展程序](https://envato.com/blog/chrome-extensions-web-design/)
   - [检查机器人](https://www.checkbot.io/) - 抓取您的网站测试页面遵循 50+ SEO、速度和安全最佳实践。
   - [CSS Peeper](https://csspeeper.com/) - 为设计师量身定制的智能CSS查看器。
   - [JS Bundle Size](https://github.com/vicrazumov/js-bundle-size) - 自动将 JavaScript bundle 大小数据添加到 npm 和 github 项目页面。
+  - [Measure Everything](https://chromewebstore.google.com/detail/measure-everything/accaohnljoiaebphephigghihhpeknff) - 一个用于测量网页上 DOM 元素之间距离的强大工具。
+  - [Screen Ruler: Measure The Web](https://chromewebstore.google.com/detail/screen-ruler-measure-the/jfbbgijjljfbolelfkopkhbfjajjampm) - 测量任何网页上任何元素的尺寸、距离、边距和填充。
   - [Z 上下文](https://github.com/gwwar/z-context) - 在元素面板中显示堆叠上下文和 z 索引值。
 
 ## 基准
