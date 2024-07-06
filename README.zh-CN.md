@@ -246,6 +246,7 @@
 ## JavaScript 实用程序库
 
 - [101](https://github.com/tjmehta/101) - 一个现代的JS实用程序库。
+- [es-toolkit](https://es-toolkit.slash.page/) - 一个现代 JavaScript 实用程序库。
 - [Licia](https://licia.liriliri.io/) - 零依赖关系的有用实用程序集合。
 - [Lodash](https://lodash.com/) - 一个现代的JavaScript实用程序库，提供模块化，性能和附加功能。
 - [Radash](https://radash-docs.vercel.app/) - 功能实用库 - 现代、简单、类型化、功能强大。

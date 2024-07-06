@@ -301,6 +301,7 @@
 
 ### JavaScript utility library <a name="js-utility-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [101](https://github.com/tjmehta/101) - a modern JS utility library.
+* [es-toolkit](https://es-toolkit.slash.page/) - a modern JavaScript utility library.
 * [Licia](https://licia.liriliri.io/) - useful utility collection with zero dependencies.
 * [Lodash](https://lodash.com/) - a modern JavaScript utility library delivering modularity, performance & extras.
 * [Mout](http://moutjs.com/) - a collection of modular JavaScript utilities that can be used in the browser as AMD modules or on node.js.
