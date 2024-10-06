@@ -546,6 +546,7 @@
 * [Package Phobia](https://packagephobia.com/) - reports the size of an npm package before you install it. This is useful for inspecting potential dependencies or devDependencies without using up precious disk space or waiting minutes for npm install.
 * [Size Limit](https://github.com/ai/size-limit) - calculate the real cost of your JS for end users and throws an error if the cost exceeds the limit.
 * [Source map explorer](https://github.com/danvk/source-map-explorer) - analyze and debug space usage through source maps. The source map explorer determines which file each byte in your minified code came from.
+* [Statcounter GlobalStats](https://gs.statcounter.com) - browser / OS / device market share
 * [Waterfaller](https://waterfaller.dev/) - focuses on issues in the network waterfall and provides recommendations for improvement.
 * [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 * [Webpack Visualizer](https://github.com/chrisbateman/webpack-visualizer) - visualize and analyze your Webpack bundle to see which modules are taking up space and which might be duplicates.

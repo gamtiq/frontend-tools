@@ -509,6 +509,7 @@
 - [packagephobia](https://packagephobia.com/) - 在安装 npm 包之前报告它的大小。这对于检查潜在的依赖项或 devT依赖项非常有用，而不会占用宝贵的磁盘空间或等待几分钟进行 npm 安装。
 - [size-limit](https://github.com/ai/size-limit) - 计算最终用户的 JS 实际成本，如果成本超过限制，则会引发错误。
 - [source-map-explorer](https://github.com/danvk/source-map-explorer) - 通过源映射分析和调试空间使用情况。源映射资源管理器确定缩小代码中每个字节来自哪个文件。
+- [Statcounter GlobalStats](https://gs.statcounter.com) - 浏览器 / 操作系统 / 设备市场份额
 - [waterfaller](https://waterfaller.dev/) - 专注于网络瀑布中的问题，并提供改进建议。
 - [Webpack 捆绑分析器 - webpack](https://github.com/webpack-contrib/webpack-bundle-analyzer) 插件和 CLI 实用程序，将捆绑包内容表示为方便的交互式可缩放树状图。
 - [Webpack 可视化工具](https://github.com/chrisbateman/webpack-visualizer) - 可视化和分析您的 Webpack 捆绑包，以查看哪些模块占用了空间，哪些模块可能是重复的。
