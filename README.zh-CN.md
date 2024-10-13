@@ -369,6 +369,7 @@
 - [fuite](https://github.com/nolanlawson/fuite) - 用于查找 Web 应用程序中内存泄漏的 CLI 工具。
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - 由Chrome DevTools启用的Node.js改进的调试体验。
 - [stacktrace.js](https://www.stacktracejs.com/) - 在所有 Web 浏览器中生成、解析和增强 JavaScript 堆栈跟踪。
+- [vConsole](https://github.com/Tencent/vConsole) - 一个轻量、可拓展、针对手机网页的前端开发者调试面板。
 - [Vorlon.JS](http://www.vorlonjs.com/) - 一个开源的、可扩展的、与平台无关的工具，用于远程调试和测试你的JavaScript，由node.js和 socket.io 提供支持。
 - [weinre](https://people.apache.org/~pmuellr/weinre/docs/latest/) - 网页的调试器，如FireBug（用于FireFox）和Web Inspector（用于基于WebKit的浏览器），除了它被设计为远程工作，特别是允许您在移动设备（如手机）上调试网页。
 - Use new Error().stack or console.trace() to print stack trace (see [Force Stack Traces with JavaScript](https://davidwalsh.name/javascript-stack-trace)).
