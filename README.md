@@ -286,6 +286,7 @@
 * [Lowdb](https://github.com/typicode/lowdb) - a small local database for small projects (powered by lodash API).
 * [nanoSQL](https://nanosql.io/) - universal database layer for the client, server & mobile devices. It's like Lego for databases. 
 * [NeDB](https://github.com/louischatriot/nedb) - embedded persistent or in memory database for Node.js, nw.js, Electron and browsers, 100% JavaScript, no binary dependency.
+* [PGlite](https://pglite.dev/) - lightweight WASM Postgres with real-time, reactive bindings.
 * [PouchDB](https://pouchdb.com/) - an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser. It enables applications to store data locally while offline, then synchronize it with CouchDB and compatible servers when the application is back online, keeping the user's data in sync no matter where they next login.
 * [RxDB](https://rxdb.info/) - a realtime database for JavaScript applications. RxDB is a NoSQL-database for JavaScript applications like websites, hybrid apps, Electron-apps, Progressive Web Apps and NodeJs.
 * [TingoDB](http://www.tingodb.com/) - an embedded JavaScript in-process filesystem or in-memory database upwards compatible with MongoDB at the API level.

@@ -228,6 +228,7 @@
 - [Lowdb](https://github.com/typicode/lowdb) - 一个用于小型项目的小型本地数据库（由lodash API提供支持）。
 - [nanoSQL](https://nanosql.io/) - 客户端、服务器和移动设备的通用数据库层。这就像数据库的乐高。
 - [NeDB](https://github.com/louischatriot/nedb) - 嵌入持久或内存数据库，用于Node.js，nw.js，Electron和浏览器，100%JavaScript，无二进制依赖。
+- [PGlite](https://pglite.dev/) - 具有实时、反应式绑定的轻量级 WASM Postgres。
 - [PouchDB](https://pouchdb.com/) - 一个受Apache CouchDB启发的开源JavaScript数据库，旨在在浏览器中运行良好。它使应用程序能够在离线时在本地存储数据，然后在应用程序重新上线时将其与 CouchDB 和兼容服务器同步，无论用户下次登录何处，都能保持用户的数据同步。
 - [RxDB](https://rxdb.info/) - JavaScript应用程序的实时数据库。RxDB是一个NoSQL数据库，用于JavaScript应用程序，如网站，混合应用程序，电子应用程序，渐进式Web应用程序和NodeJs。
 - [TingoDB](http://www.tingodb.com/) - 一个嵌入式JavaScript进程内文件系统或内存数据库，在API级别与MongoDB兼容。
