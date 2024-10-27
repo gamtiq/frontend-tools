@@ -96,7 +96,7 @@
 * [Moiva](https://moiva.io/) - measure and compare JavaScript libraries.
 * [Node Frameworks](http://nodeframework.com/) - hand-picked registry of Node.js frameworks.
 * [Node.js Toolbox](https://nodejstoolbox.com/) - find actively maintained and popular libraries in the Node.js ecosystem.
-* [NPMCompare](https://npmcompare.com/) - search and compare npm packages.
+* [NPMCompare](https://npm-compare.com/) - search and compare npm packages.
 * [npms](https://npms.io/) - a better and open source search for node modules.
 * [npm trends](https://www.npmtrends.com/) - compare package download counts over time.
 * [Pika](https://www.pika.dev/) - search npm for fast, modern packages.

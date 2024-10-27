@@ -24,7 +24,7 @@
 - [Moiva](https://moiva.io/) - 测量和比较 JavaScript 库。
 - [Node框架](http://nodeframework.com/) - 精心挑选的 Node.js 框架注册表。
 - [Node.js Toolbox](https://nodejstoolbox.com/) - 在 [Node.js](https://nodejstoolbox.com/) 生态系统中查找积极维护和流行的库。
-- [NPMCompare](https://npmcompare.com/) - 搜索和比较 npm 包。
+- [NPMCompare](https://npm-compare.com/) - 搜索和比较 npm 包。
 - [NPMS](https://npms.io/) - 一个更好的开源Node模块搜索。
 - [npm 趋势](https://www.npmtrends.com/) - 比较一段时间内的包下载计数。
 - [Pika](https://www.pika.dev/) - 在 npm 中搜索快速、现代的软件包。
