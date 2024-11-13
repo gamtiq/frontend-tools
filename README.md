@@ -175,6 +175,7 @@
 * [Grommet](https://grommet.io/) - a React-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package.
 * [libreact](https://github.com/streamich/libreact) - a collection of most essential React utilities you will probably need in any project.
 * [Material-UI](https://material-ui.com/) - a Set of React Components that Implement Google's Material Design.
+* [Modern.js](https://modernjs.dev/) - a progressive web framework based on React.
 * [react-md](https://react-md.dev/) - an accessible React component library built from the Material Design guidelines in Sass.
 * [React Toolbox](http://react-toolbox.io) - a set of React components that implements Google Material Design specification.
 * [ReactXP](https://microsoft.github.io/reactxp/) - a library for cross-platform app development using React and React Native.
