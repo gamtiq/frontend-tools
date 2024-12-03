@@ -554,7 +554,7 @@
   - [live-server/](http://tapiov.net/live-server/) - 具有实时重新加载功能的简单开发HTTP服务器。
   - [lite-server](https://github.com/johnpapa/lite-server) - 为Web应用提供服务的轻量级开发Node服务器。 是围绕浏览器同步的简单自定义包装器，以便于 SPA 提供服务。lite-server
   - [local-web-server](https://github.com/lwsjs/local-web-server) - 用于高效全栈开发的模块化网络服务器。
-  - [MockIt](https://mockit.netlify.com/) - 一个快速创建模拟API的工具。
+  - [MockIt](https://mockit.netlify.app/) - 一个快速创建模拟API的工具。
   - [puer](https://github.com/leeluolee/puer) - 不仅仅是一个实时重载服务器，专为高效的前端开发而构建。
   - [servedir](https://github.com/evanw/servedir) - 一个简单的NodeWeb服务器，用于离线开发和测试：从目录运行servedir将创建一个快速的本地Web服务器。
   - [server-with-benefits](https://github.com/galbi101/server-with-benefits) - 一个静态的 Node.js 文件 Web 服务器，具有用于代理请求和延迟/模拟响应的选项。
