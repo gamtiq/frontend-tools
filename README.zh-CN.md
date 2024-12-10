@@ -511,6 +511,7 @@
 - [memlab](https://facebook.github.io/memlab/) - 一个用于查找 JavaScript 内存泄漏和分析堆快照的框架。
 - 使用 webpack [优化您的库 - 使您的 webpack](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) 捆绑包更小的提示。
 - [packagephobia](https://packagephobia.com/) - 在安装 npm 包之前报告它的大小。这对于检查潜在的依赖项或 devT依赖项非常有用，而不会占用宝贵的磁盘空间或等待几分钟进行 npm 安装。
+- [React Scan](https://react-scan.com/) - 自动检测 React 应用程序中的性能问题。
 - [size-limit](https://github.com/ai/size-limit) - 计算最终用户的 JS 实际成本，如果成本超过限制，则会引发错误。
 - [source-map-explorer](https://github.com/danvk/source-map-explorer) - 通过源映射分析和调试空间使用情况。源映射资源管理器确定缩小代码中每个字节来自哪个文件。
 - [Statcounter GlobalStats](https://gs.statcounter.com) - 浏览器 / 操作系统 / 设备市场份额

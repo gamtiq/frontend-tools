@@ -548,6 +548,7 @@
 * [memlab](https://facebook.github.io/memlab/) - a framework for finding JavaScript memory leaks and analyzing heap snapshots.
 * [Optimize your libraries with webpack](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - tips to make your webpack bundle smaller.
 * [Package Phobia](https://packagephobia.com/) - reports the size of an npm package before you install it. This is useful for inspecting potential dependencies or devDependencies without using up precious disk space or waiting minutes for npm install.
+* [React Scan](https://react-scan.com/) - automatically detects performance issues in your React app.
 * [Size Limit](https://github.com/ai/size-limit) - calculate the real cost of your JS for end users and throws an error if the cost exceeds the limit.
 * [Source map explorer](https://github.com/danvk/source-map-explorer) - analyze and debug space usage through source maps. The source map explorer determines which file each byte in your minified code came from.
 * [Statcounter GlobalStats](https://gs.statcounter.com) - browser / OS / device market share
