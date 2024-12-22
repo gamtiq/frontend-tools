@@ -83,7 +83,7 @@
 * [Best of JavaScript](https://bestofjs.org/) - a place to find the best components to build amazing web applications.
 * [CSS Script](https://www.cssscript.com/) - a Javascript & CSS code library aims to provide the newest, best and free CSS & javascript resources for web/mobile developers and designers.
 * [Free for developers](https://free-for.dev/) - a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
-* [headlesscms.org](https://headlesscms.org/) - a list of content management systems for JAMstack sites.
+* [Headless CMS](https://jamstack.org/headless-cms/) - a list of content management systems for JAMstack sites.
 * [iReact](http://ireact.cn/) - helps you discover the most fantastic, powerful React Components and Libraries, and makes it easy for you to pick one that’ll work for you.
 * [JavaScripting](https://www.javascripting.com/) - the definitive source of the best JavaScript libraries, frameworks, and plugins.
 * [jQuery Plugins](https://jquery-plugins.net/) - categorized collection of jQuery plugins.
@@ -179,7 +179,7 @@
 * [react-md](https://react-md.dev/) - an accessible React component library built from the Material Design guidelines in Sass.
 * [React Toolbox](http://react-toolbox.io) - a set of React components that implements Google Material Design specification.
 * [ReactXP](https://microsoft.github.io/reactxp/) - a library for cross-platform app development using React and React Native.
-* [Rebass](https://rebassjs.org/) - React primitive UI components built with Styled System.
+* [Rebass](https://rebassjs.org/), [Github repo](https://github.com/rebassjs/rebass) - React primitive UI components built with Styled System.
 
 ### Vue-based library / framework <a name="vue-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [BalmUI](https://material.balmjs.com/) - next generation Material UI for Vue.js.
@@ -285,7 +285,7 @@
 * [ForerunnerDB](http://www.forerunnerdb.com) - a NoSQL JavaScript JSON database with a query language based on MongoDB (with some differences) and runs on browsers and Node.js.
 * [LokiJS](https://github.com/techfort/LokiJS) - a document oriented database written in javascript. Its purpose is to store javascript objects as documents in a nosql fashion and retrieve them with a similar mechanism. Runs in node (including cordova/phonegap and node-webkit), nativescript and the browser.
 * [Lowdb](https://github.com/typicode/lowdb) - a small local database for small projects (powered by lodash API).
-* [nanoSQL](https://nanosql.io/) - universal database layer for the client, server & mobile devices. It's like Lego for databases. 
+* [nanoSQL](https://nanosql.io/), [Github repo](https://github.com/only-cliches/Nano-SQL) - universal database layer for the client, server & mobile devices. It's like Lego for databases.
 * [NeDB](https://github.com/louischatriot/nedb) - embedded persistent or in memory database for Node.js, nw.js, Electron and browsers, 100% JavaScript, no binary dependency.
 * [PGlite](https://pglite.dev/) - lightweight WASM Postgres with real-time, reactive bindings.
 * [PouchDB](https://pouchdb.com/) - an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser. It enables applications to store data locally while offline, then synchronize it with CouchDB and compatible servers when the application is back online, keeping the user's data in sync no matter where they next login.
@@ -334,7 +334,7 @@
 * [Microbundle](https://github.com/developit/microbundle) - zero-configuration bundler for tiny modules.
 * [Parcel](https://parceljs.org/) - blazing fast, zero configuration web application bundler.
 * [@pika/pack](https://github.com/pikapkg/pack) - developer tool that uses simple, pre-configured build plugins to create your modern package.
-* [Poi](https://poi.js.org/) - develop powerful web app with no build configs until you need.
+* [Poi](https://github.com/egoist/poi/) - develop powerful web app with no build configs until you need.
 * [Rollup](http://rollupjs.org/) - a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.
 * [SystemJS Builder](https://github.com/systemjs/builder) - provides a single-file build for SystemJS of mixed-dependency module trees.
 * [Vite](https://vitejs.dev/) - a new breed of frontend build tool that significantly improves the frontend development experience.
@@ -422,7 +422,7 @@
 * [stacktrace.js](https://www.stacktracejs.com/) - generate, parse, and enhance JavaScript stack traces in all web browsers.
 * [vConsole](https://github.com/Tencent/vConsole) - a lightweight, extendable front-end developer tool for mobile web page.
 * [Vorlon.JS](http://www.vorlonjs.com/) - an open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript, powered by node.js and socket.io.
-* [weinre](https://people.apache.org/~pmuellr/weinre/docs/latest/) - a debugger for web pages, like FireBug (for FireFox) and Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
+* [weinre](https://github.com/apache/cordova-weinre) - a debugger for web pages, like FireBug (for FireFox) and Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
 * Use `new Error().stack` or `console.trace()` to print stack trace (see [Force Stack Traces with JavaScript](https://davidwalsh.name/javascript-stack-trace)).
 
 ### Documentation <a name="documentation"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -500,7 +500,7 @@
 * [TSDX](https://github.com/jaredpalmer/tsdx) - a zero-config CLI that helps you develop, test, and publish modern TypeScript packages with ease.
 
 ### Component development <a name="component-dev"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [BlueKit](https://react-bluekit.herokuapp.com/) - automatically generates a library from your React components with editable props and live preview.
+* [BlueKit](https://github.com/blueberryapps/react-bluekit) - automatically generates a library from your React components with editable props and live preview.
 * [component-playground](https://github.com/FormidableLabs/component-playground) - a component for rendering React Components and ES6 code with editable source and live preview.
 * [Kit](https://github.com/c8r/kit) - tools for developing, documenting, and testing React component libraries.
 * [Ladle](https://www.ladle.dev/) - develop and test your React stories faster. Ladle is a drop-in alternative to Storybook. It is a tool for developing and testing your React components in an environement that's isolated and faster than most real-world applications.
@@ -564,7 +564,7 @@
 * [Can I use](https://caniuse.com/) - provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
 ### Network <a name="net"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [HTTPie](https://httpie.org/) - a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more.
+* [HTTPie](https://httpie.io/) - a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more.
 * [Insomnia](https://insomnia.rest/) - cross-platform HTTP and GraphQL Client.
 * [LightProxy](https://lightproxy.org/) - cross platform web debugging proxy. LightProxy is a local proxy packet capture software.
 * [Postwoman](https://postwoman.io/) - a free, fast and beautiful API request builder (web alternative to Postman).
@@ -619,7 +619,7 @@
 * [Atom](https://atom.io/) - a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
 * [Brackets](http://brackets.io/) - with focused visual tools and preprocessor support, Brackets is a modern text editor that makes it easy to design in the browser. It's crafted from the ground up for web designers and front-end developers.
 * [Geany](https://www.geany.org/) - a small and lightweight Integrated Development Environment.
-* [Leo](http://leoeditor.com/) - a PIM, IDE and outliner that accelerates the work flow of programmers, authors and web designers.
+* [Leo](https://leo-editor.github.io/leo-editor/) - a PIM, IDE and outliner that accelerates the work flow of programmers, authors and web designers.
 * [Light Table](http://lighttable.com/) - a next generation code editor that connects you to your creation with instant feedback. Light Table is very customizable and can display anything a Chromium browser can.
 * [Notepad++](https://notepad-plus-plus.org/) - a free source code editor and Notepad replacement that supports several languages.
 * [PSPad](https://www.pspad.com/) - text editor for developers for Microsoft Windows systems.
@@ -666,7 +666,6 @@
 
 ### API <a name="api"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [APIs.guru](https://apis.guru/browse-apis/) - Wikipedia for WEB APIs.
-* [ProgrammableWeb API directory](https://www.programmableweb.com/apis/directory) - directory where developers can search for APIs to include in their next software development project.
 * [Public APIs](https://github.com/public-apis/public-apis) - a collective list of free APIs for use in software and web development.
 * [public-apis.io](https://public-apis.io/) - a directory of free public & open Rest APIs.
 * [RapidAPI](https://rapidapi.com/) - find and connect to thousands of APIs, track and manage all of your API connections in one place. RapidAPI lets you manage all your API integrations from one place and gives you real-time performance metrics.
@@ -693,7 +692,6 @@
 * [5apps Deploy](https://5apps.com/deploy/) - a turn-key deployment and hosting platform for client-side web apps.
 * [Backendless](https://backendless.com/) - a leading mBaaS and powerful Mobile Application Development Platform that enables rapid development of feature-rich mobile, desktop and browser-based applications.
 * [Cloudant](https://www.ibm.com/cloud/cloudant) - a highly scalable and performant JSON database.
-* [Cloudnode](https://cloudno.de/) - a place to get your Javascript web applications up and running.
 * [ExtendsClass](https://extendsclass.com/json-storage.html) - a simple JSON storage.
 * [Firebase](https://firebase.google.com/) - a cloud-hosted database. Data is synchronized in realtime to every connected client.
 * [HackMD](https://hackmd.io/) - best way to share knowledge in markdown.
@@ -802,14 +800,14 @@
     - [WebGradients](https://webgradients.com/) - a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
     - [Whirl](https://whirl.netlify.app/) - CSS loading animations with minimal effort.
 * HTML <a name="html-examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-    - [HTML DOM](https://htmldom.dev/) - common tasks of managing HTML DOM with vanilla JavaScript.
+    - [HTML DOM](https://phuoc.ng/collection/html-dom/) - common tasks of managing HTML DOM with vanilla JavaScript.
     - [Sneat Free Bootstrap HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free) - open-source & rasy to use Bootstrap 5 HTML admin template with elegant design & unique layout.
 
 ### News, digest <a name="news"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Bytes](https://bytes.dev/) - the most entertaining (and informative) JavaScript newsletter.
 * [CSS Weekly](https://css-weekly.com/) - weekly e-mail roundup of CSS articles, tutorials, experiments, and tools.
 * [Frontend Dogma](https://frontenddogma.com/) - daily news (and weekly [tools](https://frontenddogma.com/tools/)) for frontend development.
-* [Frontend Weekly](https://frontendweekly.co/) - the best articles, links and news related to frontend development.
+* [Frontend Weekly](https://www.frontendweekly.co/) - the best articles, links and news related to frontend development.
 * [JavaScript Weekly](https://javascriptweekly.com/) - a newsletter of JavaScript articles, news and cool projects.
 * [React Status](https://react.statuscode.com/) - a weekly roundup of the latest React and React Native links and tutorials.
 
@@ -818,7 +816,7 @@
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) - a curated list of awesome places to learn and/or practice algorithms.
 * [Inside look at modern web browser](https://developer.chrome.com/blog/inside-browser-part1/)
 * [Keep a Changelog](https://keepachangelog.com/) - make it easier for users and contributors to see precisely what notable changes have been made between each release (or version) of the project.
-* [Overview of the RenderingNG architecture](https://developer.chrome.com/blog/renderingng-architecture/) - overview of the Chrome RenderingNG architecture goals and key properties.
+* [Overview of the RenderingNG architecture](https://developer.chrome.com/docs/chromium/renderingng-architecture) - how Chromium RenderingNG's component pieces are set up, and how the rendering pipeline flows through them.
 * [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/) (outdated) - demonstrates that small modules can have a surprisingly high performance cost depending on your choice of bundler and module system.
 * [The cost of transpiling es2015 in 2016](https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016) (outdated)
 * [What Do the Popular JavaScript Tools Depend On?](https://www.telerik.com/blogs/popular-javascript-tools-depend) (outdated)

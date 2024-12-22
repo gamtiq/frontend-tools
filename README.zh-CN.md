@@ -11,7 +11,7 @@
 - [最好的JavaScript](https://bestofjs.org/) - 一个找到最好的组件来构建令人惊叹的Web应用程序的地方。
 - [CSS Script](https://www.cssscript.com/) - 一个Javascript和CSS代码库，旨在为Web/移动开发人员和设计师提供最新，最好和免费的CSS和JavaScript资源。
 - [开发人员免费](https://free-for.dev/) - 软件列表（SaaS、PaaS、IaaS 等）和其他为开发人员提供免费层的产品。
-- [headlesscms.org](https://headlesscms.org/) - JAMstack 站点的内容管理系统列表。
+- [Headless CMS](https://jamstack.org/headless-cms/) - JAMstack 站点的内容管理系统列表。
 - [iReact](http://ireact.cn/) - 帮助你发现最棒、最强大的 React 组件和库，并让你轻松选择一个适合你的。
 - [JavaScripting](https://www.javascripting.com/) - 最好的JavaScript库，框架和插件的权威来源。
 - [jQuery 插件 - jQuery 插件](https://jquery-plugins.net/)的分类集合。
@@ -113,7 +113,7 @@
 - [react-md](https://react-md.dev/) - 一个可访问的 React 组件库，基于 Sass 中的材料设计指南构建。
 - React [Toolbox](http://react-toolbox.io/) - 一组实现 Google Material Design 规范的 React 组件。
 - [ReactXP](https://microsoft.github.io/reactxp/) - 一个使用 React 和 React Native 进行跨平台应用程序开发的库。
-- [Rebass](https://rebassjs.org/) - 使用 Styled System 构建的 React 基元 UI 组件。
+- [Rebass](https://rebassjs.org/), [Github](https://github.com/rebassjs/rebass) - 使用 Styled System 构建的 React 基元 UI 组件。
 
 ## 基于 Vue 的库/框架
 
@@ -227,7 +227,7 @@
 - [ForerunnerDB](http://www.forerunnerdb.com/) - 一个NoSQL JavaScript JSON数据库，具有基于MongoDB的查询语言（有一些差异），并在浏览器和Node.js上运行。
 - [LokiJS](https://github.com/techfort/LokiJS) - 一个用javascript编写的面向文档的数据库。其目的是以nosql方式将javascript对象存储为文档，并使用类似的机制检索它们。在node（包括cordova/phonegap和node-webkit）、nativescript和浏览器中运行。
 - [Lowdb](https://github.com/typicode/lowdb) - 一个用于小型项目的小型本地数据库（由lodash API提供支持）。
-- [nanoSQL](https://nanosql.io/) - 客户端、服务器和移动设备的通用数据库层。这就像数据库的乐高。
+- [nanoSQL](https://nanosql.io/), [Github](https://github.com/only-cliches/Nano-SQL) - 客户端、服务器和移动设备的通用数据库层。这就像数据库的乐高。
 - [NeDB](https://github.com/louischatriot/nedb) - 嵌入持久或内存数据库，用于Node.js，nw.js，Electron和浏览器，100%JavaScript，无二进制依赖。
 - [PGlite](https://pglite.dev/) - 具有实时、反应式绑定的轻量级 WASM Postgres。
 - [PouchDB](https://pouchdb.com/) - 一个受Apache CouchDB启发的开源JavaScript数据库，旨在在浏览器中运行良好。它使应用程序能够在离线时在本地存储数据，然后在应用程序重新上线时将其与 CouchDB 和兼容服务器同步，无论用户下次登录何处，都能保持用户的数据同步。
@@ -280,7 +280,7 @@
 - [microbundle](https://github.com/developit/microbundle) - 用于微型模块的零配置捆绑器。
 - [parceljs](https://parceljs.org/) - 超快、零配置 Web 应用程序捆绑器。
 - [@pika/pack](https://github.com/pikapkg/pack) - 开发人员工具，使用简单的预配置构建插件来创建您的现代包。
-- [Poi](https://poi.js.org/) - 开发功能强大的 Web 应用程序，无需构建配置，直到您需要为止。
+- [Poi](https://github.com/egoist/poi/) - 开发功能强大的 Web 应用程序，无需构建配置，直到您需要为止。
 - [Rollup](http://rollupjs.org/) - JavaScript的模块捆绑器，它将小段代码编译成更大更复杂的东西，例如库或应用程序。
 - [SystemJS Builder](https://github.com/systemjs/builder) - 为混合依赖模块树的 SystemJS 提供单文件构建。
 - [Vite](https://vitejs.dev/) - 一种新型的前端构建工具，可显著改善前端开发体验。
@@ -373,7 +373,7 @@
 - [stacktrace.js](https://www.stacktracejs.com/) - 在所有 Web 浏览器中生成、解析和增强 JavaScript 堆栈跟踪。
 - [vConsole](https://github.com/Tencent/vConsole) - 一个轻量、可拓展、针对手机网页的前端开发者调试面板。
 - [Vorlon.JS](http://www.vorlonjs.com/) - 一个开源的、可扩展的、与平台无关的工具，用于远程调试和测试你的JavaScript，由node.js和 socket.io 提供支持。
-- [weinre](https://people.apache.org/~pmuellr/weinre/docs/latest/) - 网页的调试器，如FireBug（用于FireFox）和Web Inspector（用于基于WebKit的浏览器），除了它被设计为远程工作，特别是允许您在移动设备（如手机）上调试网页。
+- [weinre](https://github.com/apache/cordova-weinre) - 网页的调试器，如FireBug（用于FireFox）和Web Inspector（用于基于WebKit的浏览器），除了它被设计为远程工作，特别是允许您在移动设备（如手机）上调试网页。
 - Use new Error().stack or console.trace() to print stack trace (see [Force Stack Traces with JavaScript](https://davidwalsh.name/javascript-stack-trace)).
 
 ## 文档
@@ -459,7 +459,7 @@
 
 ## 组件开发
 
-- [BlueKit](https://react-bluekit.herokuapp.com/) - 从您的 React 组件自动生成一个库，其中包含可编辑的道具和实时预览。
+- [BlueKit](https://github.com/blueberryapps/react-bluekit) - 从您的 React 组件自动生成一个库，其中包含可编辑的道具和实时预览。
 - [component-playground](https://github.com/FormidableLabs/component-playground) - 一个用于渲染 React 组件和 ES6 代码的组件，具有可编辑的源代码和实时预览。
 - [Kit](https://github.com/c8r/kit) - 用于开发、记录和测试 React 组件库的工具。
 - [Ladle](https://www.ladle.dev/) - 更快地开发和测试你的 React 故事。Ladle是Storybook的直接替代品。它是一种用于在隔离的环境中开发和测试 React 组件的工具，比大多数现实世界的应用程序更快。
@@ -529,7 +529,7 @@
 
 ## 网络
 
-- [HTTPie](https://httpie.org/) - 一个命令行HTTP客户端，具有直观的UI，JSON支持，语法突出显示，类似wget的下载，插件等。
+- [HTTPie](https://httpie.io/) - 一个命令行HTTP客户端，具有直观的UI，JSON支持，语法突出显示，类似wget的下载，插件等。
 - [insomnia](https://insomnia.rest/) - 跨平台 HTTP 和 GraphQL 客户端。
 - [LightProxy](https://lightproxy.org/) - 跨平台 Web 调试代理。LightProxy是一款本地代理数据包捕获软件。
 - [Postwoman](https://postwoman.io/) - 一个免费，快速和漂亮的API请求构建器（Postman的网络替代品）。
@@ -588,7 +588,7 @@
 - [Atom](https://atom.io/) - 一个现代、平易近人但核心可破解的文本编辑器 - 一个您可以自定义以执行任何操作的工具，但也可以在不接触配置文件的情况下高效使用。
 - [brackets](http://brackets.io/) - 具有重点可视化工具和预处理器支持，Brackets 是一个现代文本编辑器，可以轻松地在浏览器中进行设计。它是为网页设计师和前端开发人员从头开始制作的。
 - [Geany](https://www.geany.org/) - 一个小型轻量级的集成开发环境。
-- [Leo](http://leoeditor.com/) - 一个PIM，IDE和大纲，加速程序员，作者和网页设计师的工作流程。
+- [Leo](https://leo-editor.github.io/leo-editor/) - 一个PIM，IDE和大纲，加速程序员，作者和网页设计师的工作流程。
 - [Light Table](http://lighttable.com/) - 下一代代码编辑器，通过即时反馈将您连接到您的创作。Light Table是非常可定制的，可以显示Chromium浏览器可以显示的任何内容。
 - [notepad-plus-plus](https://notepad-plus-plus.org/) - 一个免费的源代码编辑器和记事本替代品，支持多种语言。
 - [PSPad](https://www.pspad.com/) - 面向Microsoft Windows系统开发人员的文本编辑器。
@@ -641,7 +641,6 @@
 ## API
 
 - [APIs.guru](https://apis.guru/browse-apis/) - Wikipedia for WEB API.
-- [可编程 Web API 目录](https://www.programmableweb.com/apis/directory) - 开发人员可以在其中搜索要包含在下一个软件开发项目中的 API。
 - [公共](https://github.com/public-apis/public-apis) API - 用于软件和 Web 开发的免费 API 的集合列表。
 - [public-apis.io](https://public-apis.io/) - 一个自由公共和开放 Rest API 的目录。
 - [RapidAPI](https://rapidapi.com/) - 查找并连接到数千个API，在一个地方跟踪和管理所有API连接。RapidAPI 允许您从一个位置管理所有 API 集成，并为您提供实时性能指标。
@@ -671,7 +670,6 @@
 - [5apps](https://5apps.com/deploy/) 部署 - 客户端 Web 应用程序的交钥匙部署和托管平台。
 - [Backendless](https://backendless.com/) - 领先的 mBaaS 和强大的移动应用程序开发平台，可快速开发功能丰富的移动、桌面和基于浏览器的应用程序。
 - [Cloudant](https://www.ibm.com/cloud/cloudant) - 一个高度可扩展且高性能的 JSON 数据库。
-- [Cloudnode](https://cloudno.de/) - 一个让你的Javascript Web应用程序启动和运行的地方。
 - [ExtendsClass](https://extendsclass.com/json-storage.html) - 一个简单的JSON存储。
 - [Firebase](https://firebase.google.com/) - 一个云托管的数据库。数据实时同步到每个连接的客户端。
 - [HackMD](https://hackmd.io/) - 在降价中分享知识的最佳方式。
@@ -784,7 +782,7 @@
   - [WebGradients](https://webgradients.com/) - 180个线性渐变的免费集合，您可以将其用作网站任何部分的内容背景。
   - [Whirl](https://whirl.netlify.app/) - CSS 加载动画，毫不费力。
 - HTML
-  - HTML DOM - 使用 vanilla JavaScript 管理 [HTML DOM](https://htmldom.dev/) 的常见任务。
+  - HTML DOM - 使用 vanilla JavaScript 管理 [HTML DOM](https://phuoc.ng/collection/html-dom/) 的常见任务。
   - [Sneat Free Bootstrap HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free) - 开源和 rasy 使用 Bootstrap 5 HTML 管理模板，具有优雅的设计和独特的布局。
 
 ### 新闻，摘要
@@ -792,7 +790,7 @@
 - [Bytes](https://bytes.dev/) - 最有趣（且内容丰富）的 JavaScript 时事通讯。
 - [CSS Weekly](https://css-weekly.com/) - CSS 文章、教程、实验和工具的每周电子邮件综述。
 - [Frontend Dogma](https://frontenddogma.com/) - 前端开发的每日新闻。
-- [Frontend Weekly](https://frontendweekly.co/) - 与前端开发相关的最佳文章，链接和新闻。
+- [Frontend Weekly](https://www.frontendweekly.co/) - 与前端开发相关的最佳文章，链接和新闻。
 - [JavaScript Weekly](https://javascriptweekly.com/) - JavaScript文章，新闻和酷项目的时事通讯。
 - [React Status](https://react.statuscode.com/) - 最新 React 和 React Native 链接和教程的每周汇总。
 
@@ -802,7 +800,7 @@
 - [令人敬畏的算法](https://github.com/tayllan/awesome-algorithms) - 学习和/或练习算法的精彩场所的精选列表。
 - [现代网络浏览器的内部观察](https://developer.chrome.com/blog/inside-browser-part1/)
 - [keepachangelog](https://keepachangelog.com/) - 使用户和贡献者更容易准确地查看项目的每个版本（或版本）之间进行了哪些值得注意的更改。
-- RenderingNG 架构概述 - Chrome [RenderingNG 架构](https://developer.chrome.com/blog/renderingng-architecture/)目标和关键属性概述。
+- RenderingNG 架构概述 - Chrome [RenderingNG 架构](https://developer.chrome.com/blog/renderingng-architecture/) - Chromium RenderingNG 的组件如何设置，以及渲染管道如何流经它们。
 - [小模块的成本](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)（过时） - 表明小模块可以具有惊人的高性能成本，具体取决于您选择的捆绑器和模块系统。
 - [2015 年转译 es2016 的成本](https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016)（已过时）
 - [流行的JavaScript工具依赖于什么？](https://www.telerik.com/blogs/popular-javascript-tools-depend)（已过时）
