@@ -781,6 +781,7 @@
   - UI 代码[段 - UI 代码段](https://ui-snippets.dev/)的集合。
   - [WebGradients](https://webgradients.com/) - 180个线性渐变的免费集合，您可以将其用作网站任何部分的内容背景。
   - [Whirl](https://whirl.netlify.app/) - CSS 加载动画，毫不费力。
+  - [你不需要 JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS 功能强大，不需要 JS 就可以做很多事情。
 - HTML
   - HTML DOM - 使用 vanilla JavaScript 管理 [HTML DOM](https://phuoc.ng/collection/html-dom/) 的常见任务。
   - [Sneat Free Bootstrap HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free) - 开源和 rasy 使用 Bootstrap 5 HTML 管理模板，具有优雅的设计和独特的布局。

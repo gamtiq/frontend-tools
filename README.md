@@ -799,6 +799,7 @@
     - [UI Snippets](https://ui-snippets.dev/) - a collection of UI Snippets.
     - [WebGradients](https://webgradients.com/) - a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
     - [Whirl](https://whirl.netlify.app/) - CSS loading animations with minimal effort.
+    - [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 * HTML <a name="html-examples"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [HTML DOM](https://phuoc.ng/collection/html-dom/) - common tasks of managing HTML DOM with vanilla JavaScript.
     - [Sneat Free Bootstrap HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free) - open-source & rasy to use Bootstrap 5 HTML admin template with elegant design & unique layout.
