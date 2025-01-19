@@ -812,6 +812,7 @@
 * [Frontend Weekly](https://www.frontendweekly.co/) - the best articles, links and news related to frontend development.
 * [JavaScript Weekly](https://javascriptweekly.com/) - a newsletter of JavaScript articles, news and cool projects.
 * [React Status](https://react.statuscode.com/) - a weekly roundup of the latest React and React Native links and tutorials.
+* [Web Tools Weekly](https://webtoolsweekly.com/) - a front-end development and web design newsletter with a focus on tools.
 
 ### Useful articles & resources <a name="resources"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [120+ Places To Find Creative Commons Media](https://www.sitepoint.com/creative-commons-sources/) - resources to search for audio, video, images and more for use in a project.
