@@ -111,7 +111,8 @@
 - [Material-UI -](https://material-ui.com/) 一组实现 Google Material 设计的 React 组件。
 - [Modern.js](https://modernjs.dev/) - 个基于 React 的渐进式 Web 开发框架。
 - [react-md](https://react-md.dev/) - 一个可访问的 React 组件库，基于 Sass 中的材料设计指南构建。
-- React [Toolbox](http://react-toolbox.io/) - 一组实现 Google Material Design 规范的 React 组件。
+- [React Bits](https://www.reactbits.dev/), [Github repo](https://github.com/DavidHDev/react-bits) - 个开源的动画、交互式和完全可定制的 React 组件集合，用于构建令人惊叹、令人难忘的用户界面。
+- [React Toolbox](http://react-toolbox.io/) - 一组实现 Google Material Design 规范的 React 组件。
 - [ReactXP](https://microsoft.github.io/reactxp/) - 一个使用 React 和 React Native 进行跨平台应用程序开发的库。
 - [Rebass](https://rebassjs.org/), [Github](https://github.com/rebassjs/rebass) - 使用 Styled System 构建的 React 基元 UI 组件。
 

@@ -177,11 +177,10 @@
 * [Material-UI](https://material-ui.com/) - a Set of React Components that Implement Google's Material Design.
 * [Modern.js](https://modernjs.dev/) - a progressive web framework based on React.
 * [react-md](https://react-md.dev/) - an accessible React component library built from the Material Design guidelines in Sass.
+* [React Bits](https://www.reactbits.dev/), [Github repo](https://github.com/DavidHDev/react-bits) - an open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
 * [React Toolbox](http://react-toolbox.io) - a set of React components that implements Google Material Design specification.
 * [ReactXP](https://microsoft.github.io/reactxp/) - a library for cross-platform app development using React and React Native.
 * [Rebass](https://rebassjs.org/), [Github repo](https://github.com/rebassjs/rebass) - React primitive UI components built with Styled System.
-* [React-Bits]([https://rebassjs.org/](https://www.reactbits.dev/)), [Github repo]([https://github.com/rebassjs/rebass](https://github.com/DavidHDev/react-bits)) - About
-An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
 
 ### Vue-based library / framework <a name="vue-library"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [BalmUI](https://material.balmjs.com/) - next generation Material UI for Vue.js.
