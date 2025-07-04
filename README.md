@@ -421,6 +421,7 @@
 * [fuite](https://github.com/nolanlawson/fuite) - a CLI tool for finding memory leaks in web apps.
 * [ndb](https://github.com/GoogleChromeLabs/ndb) - an improved debugging experience for Node.js, enabled by Chrome DevTools.
 * [stacktrace.js](https://www.stacktracejs.com/) - generate, parse, and enhance JavaScript stack traces in all web browsers.
+* [SSR (Server-side Rendering) Checker](https://www.crawlably.com/ssr-checker/) - check how server-side rendered version of a URL looks like and visually compare it with the regular version.
 * [vConsole](https://github.com/Tencent/vConsole) - a lightweight, extendable front-end developer tool for mobile web page.
 * [Vorlon.JS](http://www.vorlonjs.com/) - an open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript, powered by node.js and socket.io.
 * [weinre](https://github.com/apache/cordova-weinre) - a debugger for web pages, like FireBug (for FireFox) and Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
