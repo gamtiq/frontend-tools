@@ -371,6 +371,7 @@
 - [Eruda](https://eruda.liriliri.io/) - 移动浏览器的控制台。
 - [fuite](https://github.com/nolanlawson/fuite) - 用于查找 Web 应用程序中内存泄漏的 CLI 工具。
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - 由Chrome DevTools启用的Node.js改进的调试体验。
+- [SSR (Server-side Rendering) Checker](https://www.crawlably.com/ssr-checker/) - 检查 URL 的服务器端渲染版本是什么样子，并将其与常规版本进行视觉比较。
 - [stacktrace.js](https://www.stacktracejs.com/) - 在所有 Web 浏览器中生成、解析和增强 JavaScript 堆栈跟踪。
 - [vConsole](https://github.com/Tencent/vConsole) - 一个轻量、可拓展、针对手机网页的前端开发者调试面板。
 - [Vorlon.JS](http://www.vorlonjs.com/) - 一个开源的、可扩展的、与平台无关的工具，用于远程调试和测试你的JavaScript，由node.js和 socket.io 提供支持。
@@ -505,6 +506,7 @@
 
 - [Bundle Buddy](https://github.com/samccone/bundle-buddy) - 一个工具，帮助你在javascript块/拆分中查找源代码重复。
 - [bundlephobia](https://bundlephobia.com/) - 了解在应用的捆绑包中包含 npm 包对性能的影响。
+- [Core Web Vitals History](https://punits.dev/core-web-vitals-historical/) - 了解 URL 的核心网络生命力在过去六个月内是有所改善、有所下降还是保持稳定。
 - [DebugBear Page Speed Test](https://www.debugbear.com/test/website-speed) - 免费工具来测试您的网站的加载速度。
 - [前端性能清单](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 作为前端开发人员，您应该检查或至少了解并应用于您的项目的元素的详尽列表。
 - [Jampack](https://jampack.divriots.com/) - 优化静态网站以获得最佳用户体验和最佳 Core Web Vitals 分数。

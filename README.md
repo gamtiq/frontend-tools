@@ -420,8 +420,8 @@
 * [Eruda](https://eruda.liriliri.io/) - console for mobile browsers.
 * [fuite](https://github.com/nolanlawson/fuite) - a CLI tool for finding memory leaks in web apps.
 * [ndb](https://github.com/GoogleChromeLabs/ndb) - an improved debugging experience for Node.js, enabled by Chrome DevTools.
-* [stacktrace.js](https://www.stacktracejs.com/) - generate, parse, and enhance JavaScript stack traces in all web browsers.
 * [SSR (Server-side Rendering) Checker](https://www.crawlably.com/ssr-checker/) - check how server-side rendered version of a URL looks like and visually compare it with the regular version.
+* [stacktrace.js](https://www.stacktracejs.com/) - generate, parse, and enhance JavaScript stack traces in all web browsers.
 * [vConsole](https://github.com/Tencent/vConsole) - a lightweight, extendable front-end developer tool for mobile web page.
 * [Vorlon.JS](http://www.vorlonjs.com/) - an open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript, powered by node.js and socket.io.
 * [weinre](https://github.com/apache/cordova-weinre) - a debugger for web pages, like FireBug (for FireFox) and Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
@@ -543,7 +543,7 @@
 ### Analysis, performance, optimization <a name="analysis"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Bundle Buddy](https://github.com/samccone/bundle-buddy) - a tool to help you find source code duplication across your javascript chunks/splits.
 * [Bundle Phobia](https://bundlephobia.com/) - know the performance impact of including an npm package in your app's bundle.
-* [Core Web Vitals History](https://punits.dev/core-web-vitals-historical/) - Know if the Core Web Vitals for a URL or an origin have improved, degraded or remained stable for the last six months.
+* [Core Web Vitals History](https://punits.dev/core-web-vitals-historical/) - know if the Core Web Vitals for a URL or an origin have improved, degraded or remained stable for the last six months.
 * [DebugBear Page Speed Test](https://www.debugbear.com/test/website-speed) - free tool to test the loading speed of your website.
 * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - an exhaustive list of elements you should check or at least be aware of, as a Front-End developer and apply to your project.
 * [Jampack](https://jampack.divriots.com/) - optimizes static websites for best user experience and best Core Web Vitals scores.
