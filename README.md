@@ -545,6 +545,7 @@
 * [Bundle Phobia](https://bundlephobia.com/) - know the performance impact of including an npm package in your app's bundle.
 * [Core Web Vitals History](https://punits.dev/core-web-vitals-historical/) - know if the Core Web Vitals for a URL or an origin have improved, degraded or remained stable for the last six months.
 * [DebugBear Page Speed Test](https://www.debugbear.com/test/website-speed) - free tool to test the loading speed of your website.
+* [Dependency cruiser](https://github.com/sverweij/dependency-cruiser) - validate and visualise dependencies with your rules.
 * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - an exhaustive list of elements you should check or at least be aware of, as a Front-End developer and apply to your project.
 * [Jampack](https://jampack.divriots.com/) - optimizes static websites for best user experience and best Core Web Vitals scores.
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - an open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive web apps, and more.
@@ -556,6 +557,7 @@
 * [Size Limit](https://github.com/ai/size-limit) - calculate the real cost of your JS for end users and throws an error if the cost exceeds the limit.
 * [Source map explorer](https://github.com/danvk/source-map-explorer) - analyze and debug space usage through source maps. The source map explorer determines which file each byte in your minified code came from.
 * [Statcounter GlobalStats](https://gs.statcounter.com) - browser / OS / device market share
+* [TS-Dependency-Graph](https://github.com/PSeitz/ts-dependency-graph) - prints a dependency graph in dot/mermaid format for a TypeScript or React project.
 * [Waterfaller](https://waterfaller.dev/) - focuses on issues in the network waterfall and provides recommendations for improvement.
 * [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 * [Webpack Visualizer](https://github.com/chrisbateman/webpack-visualizer) - visualize and analyze your Webpack bundle to see which modules are taking up space and which might be duplicates.

@@ -508,6 +508,7 @@
 - [bundlephobia](https://bundlephobia.com/) - 了解在应用的捆绑包中包含 npm 包对性能的影响。
 - [Core Web Vitals History](https://punits.dev/core-web-vitals-historical/) - 了解 URL 的核心网络生命力在过去六个月内是有所改善、有所下降还是保持稳定。
 - [DebugBear Page Speed Test](https://www.debugbear.com/test/website-speed) - 免费工具来测试您的网站的加载速度。
+- [Dependency cruiser](https://github.com/sverweij/dependency-cruiser) - 验证并可视化与规则的依赖关系。
 - [前端性能清单](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 作为前端开发人员，您应该检查或至少了解并应用于您的项目的元素的详尽列表。
 - [Jampack](https://jampack.divriots.com/) - 优化静态网站以获得最佳用户体验和最佳 Core Web Vitals 分数。
 - [灯塔](https://developers.google.com/web/tools/lighthouse/) - 用于提高网页质量的开源自动化工具。它具有对性能、可访问性、渐进式 Web 应用程序等的审核。
@@ -519,6 +520,7 @@
 - [size-limit](https://github.com/ai/size-limit) - 计算最终用户的 JS 实际成本，如果成本超过限制，则会引发错误。
 - [source-map-explorer](https://github.com/danvk/source-map-explorer) - 通过源映射分析和调试空间使用情况。源映射资源管理器确定缩小代码中每个字节来自哪个文件。
 - [Statcounter GlobalStats](https://gs.statcounter.com) - 浏览器 / 操作系统 / 设备市场份额
+- [TS-Dependency-Graph](https://github.com/PSeitz/ts-dependency-graph) - 以 dot/mermaid 格式打印 TypeScript 或 React 项目的依赖关系图。
 - [waterfaller](https://waterfaller.dev/) - 专注于网络瀑布中的问题，并提供改进建议。
 - [Webpack 捆绑分析器 - webpack](https://github.com/webpack-contrib/webpack-bundle-analyzer) 插件和 CLI 实用程序，将捆绑包内容表示为方便的交互式可缩放树状图。
 - [Webpack 可视化工具](https://github.com/chrisbateman/webpack-visualizer) - 可视化和分析您的 Webpack 捆绑包，以查看哪些模块占用了空间，哪些模块可能是重复的。
