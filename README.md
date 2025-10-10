@@ -743,6 +743,7 @@
     - [A complete guide to CSS functions](https://css-tricks.com/complete-guide-to-css-functions/)
     - [Bootstrap Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/) - an interactive list of Bootstrap classes, variables, and mixins.
     - [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - a collection of tips to help take your CSS skills pro.
+    - [CSS Tip](https://css-tip.com/) - discover new CSS Tricks and enhance your web development skills. CSS Tip helps you stay up to date with the latest and modern web features.
     - [CSS-Tricks](https://css-tricks.com/) - a site about all things web design and development.
     - [CSS Triggers](https://csstriggers.com/) - a reference for the render impact of mutating CSS properties.
     - [cssdb](https://cssdb.org/) - a comprehensive list of CSS features and their positions in the process of becoming implemented web standards.
@@ -827,6 +828,7 @@
 * [Overview of the RenderingNG architecture](https://developer.chrome.com/docs/chromium/renderingng-architecture) - how Chromium RenderingNG's component pieces are set up, and how the rendering pipeline flows through them.
 * [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/) (outdated) - demonstrates that small modules can have a surprisingly high performance cost depending on your choice of bundler and module system.
 * [The cost of transpiling es2015 in 2016](https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016) (outdated)
+* [The Fundamentals of CSS Alignment](https://css-tip.com/explore/alignment/) - through this exploration, you will understand the logic behind all the alignment properties and how they work in each layout.
 * [What Do the Popular JavaScript Tools Depend On?](https://www.telerik.com/blogs/popular-javascript-tools-depend) (outdated)
 * [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 

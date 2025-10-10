@@ -723,6 +723,7 @@
   - [CSS 函数的完整指南](https://css-tricks.com/complete-guide-to-css-functions/)
   - [Bootstrap Cheatsheet - Bootstrap](https://bootstrap-cheatsheet.themeselection.com/)类、变量和mixin的交互式列表。
   - [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - 一系列提示，可帮助您提高CSS技能专业版。
+  - [CSS Tip](https://css-tip.com/) -发现新的 CSS 技巧，提升你的 Web 开发技能。CSS Tip 助你掌握最新、最现代的 Web 功能。
   - [CSS-Tricks](https://css-tricks.com/) - 一个关于网页设计和开发的所有内容的网站。
   - CSS 触发器 - 更改 [CSS](https://csstriggers.com/) 属性的渲染影响的参考。
   - [cssdb](https://cssdb.org/) - CSS功能及其在成为已实施Web标准过程中的位置的完整列表。
@@ -811,5 +812,6 @@
 - RenderingNG 架构概述 - Chrome [RenderingNG 架构](https://developer.chrome.com/blog/renderingng-architecture/) - Chromium RenderingNG 的组件如何设置，以及渲染管道如何流经它们。
 - [小模块的成本](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)（过时） - 表明小模块可以具有惊人的高性能成本，具体取决于您选择的捆绑器和模块系统。
 - [2015 年转译 es2016 的成本](https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016)（已过时）
+- [CSS 对齐的基础知识](https://css-tip.com/explore/alignment/)
 - [流行的JavaScript工具依赖于什么？](https://www.telerik.com/blogs/popular-javascript-tools-depend)（已过时）
 - [为什么性能很重要](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
