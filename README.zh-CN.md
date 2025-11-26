@@ -308,6 +308,7 @@
 
 - [更改 SVG](https://change-svg-color.edrini.xyz/) 颜色 （[Github](https://github.com/Prottoy2938/change-svg-color)） - 将十六进制、Rgba、HSLA 颜色转换为 CSS 过滤器。CSS过滤器可用于更改SVG颜色。
 - [CSS渐变](https://cssgradient.io/) - 一个网站和免费工具，可让您为网站创建渐变背景。
+- [CSS Stats](https://cssstats.com/) ([Github](https://github.com/cssstats/cssstats)) - 将有关 CSS 的各种统计数据可视化。
 - [关键帧](https://keyframes.app/) - 一个免费的工具包，用于生成和实时预览不同的CSS属性，以及其他一些Web开发工具。
 - [Neumorphism.io](https://neumorphism.io) - 为一种名为拟物化/软UI的新兴流行设计趋势生成CSS代码。
 - [平滑阴影](https://shadows.brumm.af/) - 制作平滑阴影。

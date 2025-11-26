@@ -359,6 +359,7 @@
 ### CSS tool <a name="css-tool"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Change SVG Color](https://change-svg-color.edrini.xyz/) ([Github](https://github.com/Prottoy2938/change-svg-color)) - converts Hex, Rgba, HSLA color to CSS filter. And the CSS filter could be used to change the SVG color.
 * [CSS Gradient](https://cssgradient.io/) - a website and free tool that lets you create a gradient background for websites.
+* [CSS Stats](https://cssstats.com/) ([Github](https://github.com/cssstats/cssstats)) - visualize various stats about your CSS.
 * [Keyframes](https://keyframes.app/) - a free bundle of tools to generate & live preview different CSS properties, plus some other web development tools.
 * [Neumorphism.io](https://neumorphism.io) - CSS code generator for a new popular design trend called Neumorphism/Soft UI.
 * [Smooth Shadow](https://shadows.brumm.af/) - make a smooth shadow.
