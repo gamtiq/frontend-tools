@@ -664,6 +664,7 @@
   - [JS Bundle Size](https://github.com/vicrazumov/js-bundle-size) - 自动将 JavaScript bundle 大小数据添加到 npm 和 github 项目页面。
   - [Measure Everything](https://chromewebstore.google.com/detail/measure-everything/accaohnljoiaebphephigghihhpeknff) - 一个用于测量网页上 DOM 元素之间距离的强大工具。
   - [Screen Ruler: Measure The Web](https://chromewebstore.google.com/detail/screen-ruler-measure-the/jfbbgijjljfbolelfkopkhbfjajjampm) - 测量任何网页上任何元素的尺寸、距离、边距和填充。
+  - [Social Share Preview](https://chromewebstore.google.com/detail/social-share-preview/ggnikicjfklimmffbkhknndafpdlabib) - 查看网站链接在 Facebook、Twitter、LinkedIn 和 Pinterest 上的预览效果。
   - [Z 上下文](https://github.com/gwwar/z-context) - 在元素面板中显示堆叠上下文和 z 索引值。
 
 ## 基准
