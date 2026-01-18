@@ -80,6 +80,7 @@
 * [awesome](https://awesome.re/) - a curated list of awesome lists.
 * [Awesome Open Source](https://awesomeopensource.com/) - find open source by searching, browsing and combining topics.
 * [awesome-react-components](https://github.com/brillout/awesome-react-components) - curated list of React components & libraries.
+* [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators) - a curated list of static web site generators.
 * [Best of JavaScript](https://bestofjs.org/) - a place to find the best components to build amazing web applications.
 * [CSS Script](https://www.cssscript.com/) - a Javascript & CSS code library aims to provide the newest, best and free CSS & javascript resources for web/mobile developers and designers.
 * [Free for developers](https://free-for.dev/) - a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
@@ -668,6 +669,7 @@
 * [Hexo](https://hexo.io/) - a fast, simple and powerful blog framework. You write posts in Markdown (or other languages) and Hexo generates static files with a beautiful theme in seconds.
 * [Hugo](https://gohugo.io/) - a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.
 * [Lektor](https://www.getlektor.com/) - a flexible and powerful static content management system for building complex and beautiful websites out of flat files.
+* [Publii](https://getpublii.com/) ([Github repo](https://github.com/GetPublii/Publii)) - a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 
 ### Emulator, simulator <a name="emulator"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Responsinator](https://www.responsinator.com/) - helps website makers quickly get an indication of how their responsive site will look on the most popular devices.

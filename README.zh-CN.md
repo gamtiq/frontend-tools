@@ -8,6 +8,7 @@
 - [awesome](https://awesome.re/) - 一个精选的awasome列表。
 - [很棒的开源](https://awesomeopensource.com/) - 通过搜索，浏览和组合主题来查找开源。
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - React 组件和库的精选列表。
+- [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators) - 精选的静态网站生成器列表。
 - [最好的JavaScript](https://bestofjs.org/) - 一个找到最好的组件来构建令人惊叹的Web应用程序的地方。
 - [CSS Script](https://www.cssscript.com/) - 一个Javascript和CSS代码库，旨在为Web/移动开发人员和设计师提供最新，最好和免费的CSS和JavaScript资源。
 - [开发人员免费](https://free-for.dev/) - 软件列表（SaaS、PaaS、IaaS 等）和其他为开发人员提供免费层的产品。
@@ -641,6 +642,7 @@
 - [Hexo](https://hexo.io/) - 一个快速，简单和强大的博客框架。您用Markdown（或其他语言）撰写帖子，Hexo在几秒钟内生成具有美丽主题的静态文件。
 - [Hugo](https://gohugo.io/) - 一个用Go编写的静态HTML和CSS网站生成器。它针对速度、易用性和可配置性进行了优化。Hugo 获取一个包含内容和模板的目录，并将它们呈现为一个完整的 HTML 网站。
 - [Lektor](https://www.getlektor.com/) - 一个灵活而强大的静态内容管理系统，用于从平面文件构建复杂而漂亮的网站。
+- [Publii](https://getpublii.com/) ([Github repo](https://github.com/GetPublii/Publii)) - 一款适用于 Windows、Mac 和 Linux 的桌面 CMS，即使是初学者也能快速轻松地创建静态网站。
 
 ## 模拟器，模拟器
 
