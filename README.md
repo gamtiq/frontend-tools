@@ -576,6 +576,7 @@
 * [HTTPie](https://httpie.io/) - a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more.
 * [Insomnia](https://insomnia.rest/) - cross-platform HTTP and GraphQL Client.
 * [LightProxy](https://lightproxy.org/) - cross platform web debugging proxy. LightProxy is a local proxy packet capture software.
+* [Mock Service Worker](https://mswjs.io) ([GitHub repo](https://github.com/mswjs/msw)) - industry standard API mocking for JavaScript.
 * [Postwoman](https://postwoman.io/) - a free, fast and beautiful API request builder (web alternative to Postman).
 * [Wireshark](https://www.wireshark.org/) - the world’s foremost and widely-used network protocol analyzer.
 

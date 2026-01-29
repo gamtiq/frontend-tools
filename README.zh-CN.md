@@ -541,6 +541,7 @@
 - [HTTPie](https://httpie.io/) - 一个命令行HTTP客户端，具有直观的UI，JSON支持，语法突出显示，类似wget的下载，插件等。
 - [insomnia](https://insomnia.rest/) - 跨平台 HTTP 和 GraphQL 客户端。
 - [LightProxy](https://lightproxy.org/) - 跨平台 Web 调试代理。LightProxy是一款本地代理数据包捕获软件。
+- [Mock Service Worker](https://mswjs.io) ([GitHub repo](https://github.com/mswjs/msw)) - 符合行业标准的 JavaScript API 模拟。
 - [Postwoman](https://postwoman.io/) - 一个免费，快速和漂亮的API请求构建器（Postman的网络替代品）。
 - [Wireshark](https://www.wireshark.org/) - 世界上最重要和广泛使用的网络协议分析仪。
 
