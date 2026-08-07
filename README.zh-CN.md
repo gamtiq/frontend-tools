@@ -593,6 +593,10 @@
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - 一个Node.js Windows版本管理实用程序。
 - [nvs（Node版本切换器）](https://github.com/jasongin/nvs) - 一个跨平台的实用程序，用于在Node.js的不同版本和分支之间切换。NVS本身是用node JavaScript编写的。
 
+## TypeScript 工具
+
+- [TypeScript Execute (tsx)](https://github.com/privatenumber/tsx) - 为运行 TypeScript 而对 Node.js 进行的增强。
+
 ## 编辑器， IDE
 
 - [Atom](https://atom.io/) - 一个现代、平易近人但核心可破解的文本编辑器 - 一个您可以自定义以执行任何操作的工具，但也可以在不接触配置文件的情况下高效使用。

@@ -52,6 +52,7 @@
     - [Node.js-based](#dev-server-node)
     - [With PHP support](#dev-server-php)
 * [Node.js version management](#node-manage)
+* [TypeScript tool](#ts-tool)
 * [Editor, IDE](#editor)
 * [Playground, interactive computing](#playground)
 * [Online development/playground](#online-dev)
@@ -624,6 +625,9 @@
 * [nvm (Node Version Manager)](https://github.com/creationix/nvm) - simple bash script to manage multiple active node.js versions.
 * [nvm-windows](https://github.com/coreybutler/nvm-windows) - a node.js version management utility for Windows.
 * [nvs (Node Version Switcher)](https://github.com/jasongin/nvs) - a cross-platform utility for switching between different versions and forks of Node.js. NVS is itself written in node JavaScript.
+
+### TypeScript tool <a name="ts-tool"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [TypeScript Execute (tsx)](https://github.com/privatenumber/tsx) - a Node.js enhancement to run TypeScript.
 
 ### Editor, IDE <a name="editor"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Atom](https://atom.io/) - a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
