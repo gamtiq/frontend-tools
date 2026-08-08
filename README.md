@@ -459,6 +459,7 @@
     - [Minimize](https://github.com/Swaagie/minimize) - a HTML minifier based on the node-htmlparser. Minimize is focussed on HTML5 and will not support older HTML drafts.
 * Images
     - [CompressImage.io](https://compressimage.io/) - compress JPG and PNG images at light speed with browser based image compressor. Private, works offline.
+    - [LeanImg](https://leanimg.com) — Browser-based image toolkit: compress, resize, crop, and convert between JPG, PNG, WebP, AVIF, HEIC, and more. Uses WASM codecs (MozJPEG, OxiPNG, libwebp, libavif).
     - [Compressor.io](https://compressor.io/) - fast & efficient online image compression.
     - [ImageOptim](https://imageoptim.com/mac) - saves disk space & bandwidth by compressing images without losing quality.
     - [Squoosh](https://squoosh.app/) - an image compression web app that allows you to dive into the advanced options provided by various image compressors.
