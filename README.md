@@ -748,6 +748,7 @@
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - carefully curated content to help you ace your next technical interview, with a focus on algorithms.
 * [Unix Toolbox](http://devdoc.net/linux/UnixToolbox.html) - a collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users. This is a practical guide with concise explanations, however the reader is supposed to know what s/he is doing.
 * [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) - an interactive cheatsheet of Vue, Vue Router, and Pinia.
+* [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification) - a free, vendor-neutral interface contract covering design tokens, component states, responsive behavior, accessibility, motion and production review for AI-assisted UI work.
 * [WebGlossary.info](https://webglossary.info/) - large web development glossary.
 * CSS <a name="css-guide"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
     - [30 Seconds of CSS](https://www.30secondsofcode.org/css/) - a curated collection of useful CSS snippets you can understand in 30 seconds or less.
