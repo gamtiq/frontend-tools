@@ -678,6 +678,7 @@
 ## 基准
 
 - [CSS 缩小基准](http://goalsmashers.github.io/css-minification-benchmark/)
+- [JS 压缩基准测试](https://github.com/privatenumber/minification-benchmarks)
 - [JS Web框架基准测试](https://github.com/krausest/js-framework-benchmark) - 比较流行的JavaScript框架的性能。
 - [用户界面基准测试](https://localvoid.github.io/uibench/)
 

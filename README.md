@@ -701,6 +701,7 @@
 
 ### Benchmark <a name="benchmark"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CSS minification benchmark](http://goalsmashers.github.io/css-minification-benchmark/)
+* [JS minification benchmarks](https://github.com/privatenumber/minification-benchmarks)
 * [JS web frameworks benchmark](https://github.com/krausest/js-framework-benchmark) - a comparison of the perfomance of popular javascript frameworks.
 * [UI Benchmark](https://localvoid.github.io/uibench/)
 
