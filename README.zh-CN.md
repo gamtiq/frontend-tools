@@ -282,6 +282,7 @@
 - [microbundle](https://github.com/developit/microbundle) - 用于微型模块的零配置捆绑器。
 - [parceljs](https://parceljs.org/) - 超快、零配置 Web 应用程序捆绑器。
 - [@pika/pack](https://github.com/pikapkg/pack) - 开发人员工具，使用简单的预配置构建插件来创建您的现代包。
+- [pkgroll](https://github.com/privatenumber/pkgroll) - 这是一个基于 Rollup 的 JavaScript 包打包工具，它可以根据 package.json 中定义的入口点自动构建包。无需任何配置。使用 TypeScript/ESM 编写代码，运行 pkgroll 即可获得 ESM/CommonJS/.d.ts 输出。
 - [Poi](https://github.com/egoist/poi/) - 开发功能强大的 Web 应用程序，无需构建配置，直到您需要为止。
 - [Rollup](http://rollupjs.org/) - JavaScript的模块捆绑器，它将小段代码编译成更大更复杂的东西，例如库或应用程序。
 - [SystemJS Builder](https://github.com/systemjs/builder) - 为混合依赖模块树的 SystemJS 提供单文件构建。

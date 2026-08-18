@@ -337,6 +337,7 @@
 * [Microbundle](https://github.com/developit/microbundle) - zero-configuration bundler for tiny modules.
 * [Parcel](https://parceljs.org/) - blazing fast, zero configuration web application bundler.
 * [@pika/pack](https://github.com/pikapkg/pack) - developer tool that uses simple, pre-configured build plugins to create your modern package.
+* [pkgroll](https://github.com/privatenumber/pkgroll) - a JavaScript package bundler powered by Rollup that automatically builds your package from entry-points defined in package.json. No config is necessary. Write your code in TypeScript/ESM and run pkgroll to get ESM/CommonJS/.d.ts outputs.
 * [Poi](https://github.com/egoist/poi/) - develop powerful web app with no build configs until you need.
 * [Rollup](http://rollupjs.org/) - a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.
 * [SystemJS Builder](https://github.com/systemjs/builder) - provides a single-file build for SystemJS of mixed-dependency module trees.
