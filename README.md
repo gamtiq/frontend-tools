@@ -394,6 +394,7 @@
     - [XO](https://github.com/xojs/xo) - opinionated but configurable ESLint wrapper with lots of goodies included.
 
 ### Testing <a name="testing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Agent QA](https://github.com/vostride/agent-qa) - AI-assisted end-to-end regression testing for web applications through CLI or MCP.
 * [AVA](https://github.com/avajs/ava) - a test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that let you write tests more effectively.
 * [BackstopJS](https://garris.github.io/BackstopJS/) - automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
 * [Chai](https://www.chaijs.com/) - a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
