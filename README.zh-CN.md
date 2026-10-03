@@ -415,6 +415,7 @@
   - [CompressImage.io](https://compressimage.io/) - 使用基于浏览器的图像压缩器以光速压缩 JPG 和 PNG 图像。私有，离线工作。
   - [Compressor.io](https://compressor.io/) - 快速高效的在线图像压缩。
   - [ImageOptim](https://imageoptim.com/mac) - 通过压缩图像而不损失质量来节省磁盘空间和带宽。
+  - [PicRecast](https://picrecast.com/image-compressor) - 基于浏览器的图像压缩、转换与尺寸调整，采用本地处理方式。
   - [Squoosh](https://squoosh.app/) - 一个图像压缩网络应用程序，可让您深入了解各种图像压缩器提供的高级选项。
   - [SVGO](https://github.com/svg/svgo) - 一个基于Nodejs的工具，用于优化SVG矢量图形文件。
 - JavaScript
