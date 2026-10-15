@@ -419,6 +419,7 @@
 * [TestCafe](https://devexpress.github.io/testcafe/) - a node.js tool to automate end-to-end web testing.
 * [Testem](https://github.com/testem/testem) - a test runner that makes Javascript unit testing fun.
 * [Testing Library](https://testing-library.com/) - simple and complete testing utilities that encourage good testing practices and help you test UI components in a user-centric way.
+* [UI Verify](https://uiverify.ai) - a visual testing service built for coding agents: it captures your Storybook stories, Playwright pages or Vitest browser tests, shows the agent what its edit changed on screen, and checks each pull request again before merge.
 
 ### Debug <a name="debug"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Chii](https://github.com/liriliri/chii) - remote debugging tool like weinre, replacing web inspector with the latest chrome devtools frontend.
