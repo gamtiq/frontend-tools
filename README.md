@@ -413,6 +413,7 @@
 * [Responsively App](https://responsively.app/) - a modified browser that helps in responsive web development.
 * [QA Wolf](https://www.qawolf.com/) - a Node.js library for creating browser tests.
 * [QUnit](https://qunitjs.com/) - a powerful, easy-to-use JavaScript unit testing framework.
+* [RatedWithAI](https://ratedwithai.com) - a free WCAG 2.2 AA/AAA compliance scanner that runs 150+ automated accessibility checks. Provides instant results with line-by-line fix recommendations for color contrast, keyboard navigation, ARIA, and semantic HTML.
 * [Sazerac](https://sazerac.js.org/) - data-driven testing for JavaScript. It helps you create simple, readable tests and works with Jasmine, Jest, and Mocha.
 * [Taiko](https://taiko.dev/) - an open source node.js library for testing modern web applications.
 * [tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers.
