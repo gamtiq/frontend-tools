@@ -712,6 +712,7 @@
 * [5apps Deploy](https://5apps.com/deploy/) - a turn-key deployment and hosting platform for client-side web apps.
 * [Backendless](https://backendless.com/) - a leading mBaaS and powerful Mobile Application Development Platform that enables rapid development of feature-rich mobile, desktop and browser-based applications.
 * [Cloudant](https://www.ibm.com/cloud/cloudant) - a highly scalable and performant JSON database.
+* [deed.page](https://deed.page) - free hosting for a static HTML page or folder: publish with one HTTP `PUT` (curl or a coding agent) and get a public HTTPS URL.
 * [ExtendsClass](https://extendsclass.com/json-storage.html) - a simple JSON storage.
 * [Firebase](https://firebase.google.com/) - a cloud-hosted database. Data is synchronized in realtime to every connected client.
 * [HackMD](https://hackmd.io/) - best way to share knowledge in markdown.
