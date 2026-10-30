@@ -635,6 +635,7 @@
 
 ## 在线工具
 
+- [CurlShot 整页截图](https://curlshot.com/tools/full-page-screenshot) - 在浏览器中为任意公开网址截取整页截图，无需注册账号。另提供带免费套餐的截图 API（PNG、JPEG、WebP、PDF）。
 - [extendsclass](https://extendsclass.com/) - 面向开发人员的免费在线工具箱。您可以使用语法验证器，代码格式化程序，测试人员，HTTP客户端，模拟服务器以及SQLite浏览器。
 - [在线渐变生成器](https://angrytools.com/gradient/) - 以CSS，RGBA，HEX，Canvas，SVG，SwiftUI和Android XML格式创建渐变代码。此外，您还可以生成渐变图像并下载。
 - [Windframe](https://www.devwares.com/windframe/) - 在线可视化构建器，用于使用顺风CSS快速构建和原型化组件和网站。
