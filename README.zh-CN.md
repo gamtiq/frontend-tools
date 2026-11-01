@@ -344,6 +344,7 @@
 
 ## 测试
 
+- [Agent QA](https://github.com/vostride/agent-qa) - 通过 CLI 或 MCP，为 Web 应用程序提供 AI 辅助的端到端回归测试。
 - [AVA](https://github.com/avajs/ava) - Node的测试运行程序.js具有简洁的API，详细的错误输出，采用新的语言功能和进程隔离，使您可以更有效地编写测试。
 - [BackstopJS](https://garris.github.io/BackstopJS/) - 通过比较一段时间内的 DOM 屏幕截图，自动对响应式 Web UI 进行可视化回归测试。
 - [Chai](https://www.chaijs.com/) - 一个用于Node和浏览器的BDD / TDD断言库，可以与任何javascript测试框架愉快地配对。
