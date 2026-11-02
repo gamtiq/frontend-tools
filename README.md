@@ -700,6 +700,7 @@
   - [Measure Everything](https://chromewebstore.google.com/detail/measure-everything/accaohnljoiaebphephigghihhpeknff) - a powerful tool for measuring distances between DOM Elements on a webpage.
   - [Screen Ruler: Measure The Web](https://chromewebstore.google.com/detail/screen-ruler-measure-the/jfbbgijjljfbolelfkopkhbfjajjampm) - measure sizes, distances, margins and paddings of any element on any web page.
   - [Social Share Preview](https://chromewebstore.google.com/detail/social-share-preview/ggnikicjfklimmffbkhknndafpdlabib) - check how the link previews of a website look like on Facebook, Twitter, LinkedIn and Pinterest.
+  - [Spoof Me](https://spoof-me.com/) - switch user-agent, language, timezone and screen signals to test a site as users in other locales and on other devices (also for Firefox).
   - [Z-Context](https://github.com/gwwar/z-context) - displays stacking contexts and z-index values in the elements panel.
 
 ### Benchmark <a name="benchmark"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
