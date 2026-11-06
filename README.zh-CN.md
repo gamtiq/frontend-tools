@@ -4,7 +4,7 @@
 
 ## 工具目录 / 搜索 / 发现 / 比较服务
 
-- [AlternativeTo](https://alternativeto.net/) - 一项免费服务，可帮助您找到您喜欢和讨厌的产品的更好替代品。  
+- [AlternativeTo](https://alternativeto.net/) - 一项免费服务，可帮助您找到您喜欢和讨厌的产品的更好替代品。
 - [awesome](https://awesome.re/) - 一个精选的awasome列表。
 - [很棒的开源](https://awesomeopensource.com/) - 通过搜索，浏览和组合主题来查找开源。
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - React 组件和库的精选列表。
@@ -812,7 +812,7 @@
 
 - [Bytes](https://bytes.dev/) - 最有趣（且内容丰富）的 JavaScript 时事通讯。
 - [CSS Weekly](https://css-weekly.com/) - CSS 文章、教程、实验和工具的每周电子邮件综述。
-- [Frontend Dogma](https://frontenddogma.com/) - 前端开发的每日新闻。
+- [dxsrc](https://dxsrc.org/) - 前端开发的每日新闻。
 - [Frontend Weekly](https://www.frontendweekly.co/) - 与前端开发相关的最佳文章，链接和新闻。
 - [JavaScript Weekly](https://javascriptweekly.com/) - JavaScript文章，新闻和酷项目的时事通讯。
 - [React Status](https://react.statuscode.com/) - 最新 React 和 React Native 链接和教程的每周汇总。
