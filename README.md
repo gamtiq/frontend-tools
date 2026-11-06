@@ -196,7 +196,7 @@
 * [Vue Material](https://vuematerial.io/) - simple, lightweight and built exactly according to the Google Material Design specs. Build well-designed apps that can fit on every screen with support to all modern Web Browsers with dynamic themes, components on demand and all with an ease-to-use API.
 
 ### Front-end / CSS framework <a name="frontend-framework"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
-* [AgnosticUI](https://www.agnosticui.com/) - a UI component library designed to work with multiple JavaScript frameworks (React, Vue, Svelte, and Angular). 
+* [AgnosticUI](https://www.agnosticui.com/) - a UI component library designed to work with multiple JavaScript frameworks (React, Vue, Svelte, and Angular).
 * [Blaze](https://www.blazeui.com/) - an open source modular toolkit. It provides great structure for building websites quickly with a scalable and maintainable foundation.
 * [Bootflat](http://bootflat.github.io/) - an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework.
 * [Bootstrap](https://getbootstrap.com/) - an open source toolkit for developing with HTML, CSS, and JS.
@@ -356,8 +356,8 @@
 * [EQCSS](http://elementqueries.com/) - A CSS Extension for Element Queries & More.
 * [Less](http://lesscss.org/) - The dynamic stylesheet language.
 * [PostCSS](http://postcss.org/) - A tool for transforming CSS with JavaScript.
-* [Sass](http://sass-lang.com/) - An extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more. 
-* [Stylus](http://stylus-lang.com/) - Expressive, robust, feature-rich language, providing an efficient, dynamic, and expressive way to generate CSS. 
+* [Sass](http://sass-lang.com/) - An extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more.
+* [Stylus](http://stylus-lang.com/) - Expressive, robust, feature-rich language, providing an efficient, dynamic, and expressive way to generate CSS.
 
 ### CSS tool <a name="css-tool"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Change SVG Color](https://change-svg-color.edrini.xyz/) ([Github](https://github.com/Prottoy2938/change-svg-color)) - converts Hex, Rgba, HSLA color to CSS filter. And the CSS filter could be used to change the SVG color.
@@ -390,7 +390,7 @@
     - [quick-lint-js](https://quick-lint-js.com/) - finds bugs in JavaScript programs. Lint any JavaScript file with no configuration.
     - [TSLint](https://palantir.github.io/tslint/) - an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors. It is widely supported across modern editors & build systems and can be customized with your own lint rules, configurations, and formatters.
     - [ts-prune](https://github.com/nadeesha/ts-prune) - find potentially unused exports in your Typescript project with zero configuration.
-    - [unimported](https://github.com/smeijer/unimported) - find and fix dangling files and unused dependencies in your JavaScript projects. 
+    - [unimported](https://github.com/smeijer/unimported) - find and fix dangling files and unused dependencies in your JavaScript projects.
     - [XO](https://github.com/xojs/xo) - opinionated but configurable ESLint wrapper with lots of goodies included.
 
 ### Testing <a name="testing"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -829,7 +829,7 @@
 ### News, digest <a name="news"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Bytes](https://bytes.dev/) - the most entertaining (and informative) JavaScript newsletter.
 * [CSS Weekly](https://css-weekly.com/) - weekly e-mail roundup of CSS articles, tutorials, experiments, and tools.
-* [Frontend Dogma](https://frontenddogma.com/) - daily news (and weekly [tools](https://frontenddogma.com/tools/)) for frontend development.
+* [dxsrc](https://dxsrc.org/) - daily news (and weekly [tools](https://dxsrc.org/tools/)) for web development.
 * [Frontend Weekly](https://www.frontendweekly.co/) - the best articles, links and news related to frontend development.
 * [JavaScript Weekly](https://javascriptweekly.com/) - a newsletter of JavaScript articles, news and cool projects.
 * [React Status](https://react.statuscode.com/) - a weekly roundup of the latest React and React Native links and tutorials.
