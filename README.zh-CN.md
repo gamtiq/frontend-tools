@@ -344,7 +344,7 @@
 
 ## 测试
 
-- [Agent QA](https://github.com/vostride/agent-qa) - 通过 CLI 或 MCP，为 Web 应用程序提供 AI 辅助的端到端回归测试。
+- [agent-qa](https://github.com/vostride/agent-qa) - 通过 CLI 或 MCP，为 Web 应用程序提供 AI 辅助的端到端回归测试。
 - [AVA](https://github.com/avajs/ava) - Node的测试运行程序.js具有简洁的API，详细的错误输出，采用新的语言功能和进程隔离，使您可以更有效地编写测试。
 - [BackstopJS](https://garris.github.io/BackstopJS/) - 通过比较一段时间内的 DOM 屏幕截图，自动对响应式 Web UI 进行可视化回归测试。
 - [Chai](https://www.chaijs.com/) - 一个用于Node和浏览器的BDD / TDD断言库，可以与任何javascript测试框架愉快地配对。
@@ -676,6 +676,7 @@
   - [Measure Everything](https://chromewebstore.google.com/detail/measure-everything/accaohnljoiaebphephigghihhpeknff) - 一个用于测量网页上 DOM 元素之间距离的强大工具。
   - [Screen Ruler: Measure The Web](https://chromewebstore.google.com/detail/screen-ruler-measure-the/jfbbgijjljfbolelfkopkhbfjajjampm) - 测量任何网页上任何元素的尺寸、距离、边距和填充。
   - [Social Share Preview](https://chromewebstore.google.com/detail/social-share-preview/ggnikicjfklimmffbkhknndafpdlabib) - 查看网站链接在 Facebook、Twitter、LinkedIn 和 Pinterest 上的预览效果。
+  - [Spoof Me](https://spoof-me.com/) - 切换用户代理（User-Agent）、语言、时区及屏幕相关参数，从而模拟不同地区、使用不同设备的用户来测试网站（同样适用于 Firefox）。
   - [Z 上下文](https://github.com/gwwar/z-context) - 在元素面板中显示堆叠上下文和 z 索引值。
 
 ## 基准
