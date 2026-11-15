@@ -462,6 +462,7 @@
 * Images
     - [CompressImage.io](https://compressimage.io/) - compress JPG and PNG images at light speed with browser based image compressor. Private, works offline.
     - [Compressor.io](https://compressor.io/) - fast & efficient online image compression.
+    - [Free Image Compressor](https://free-image-compressor.web-free.site/) - browser-based batch compression and conversion of JPG, PNG and WebP images with local processing.
     - [ImageOptim](https://imageoptim.com/mac) - saves disk space & bandwidth by compressing images without losing quality.
     - [PicRecast](https://picrecast.com/image-compressor) - browser-based image compression, conversion and resizing with local processing.
     - [Squoosh](https://squoosh.app/) - an image compression web app that allows you to dive into the advanced options provided by various image compressors.
