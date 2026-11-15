@@ -523,6 +523,7 @@
 * [Playroom](https://github.com/seek-oss/playroom) - Simultaneously design across a variety of themes and screen sizes, powered by JSX and your own component library. Playroom allows you to create a zero-install code-oriented design environment, built into a standalone bundle that can be deployed alongside your existing design system documentation.
 
 ### Graphics/image editor <a name="image-editor"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [AppScreen](https://appscreen.pro/) - a free in-browser editor for App Store and Google Play screenshots: put app captures in iPhone or Android device frames, add captions and backgrounds, and export at the sizes each store requires.
 * [GIMP](https://www.gimp.org/) - a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems.
 * [Inkscape](https://inkscape.org/) - a free and open source vector graphics editor for GNU/Linux, Windows and MacOS X. It offers a rich set of features and is widely used for both artistic and technical illustrations such as cartoons, clip art, logos, typography, diagramming and flowcharting.
 * [Krita](https://krita.org/) - a professional free and open source painting program. It is made by artists that want to see affordable art tools for everyone.
