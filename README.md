@@ -104,6 +104,7 @@
 * [Pika](https://www.pika.dev/) - search npm for fast, modern packages.
 * [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links) - a categorized list of addon libraries for Redux, as well as other libraries that are closely related.
 * [Slant](https://www.slant.co/) - a product recommendation community that helps connect people with the best products for them.
+* [StackScan](https://www.stackscan.com/) - see which frameworks, CMSs and libraries a website uses, and how many sites run each one.
 * [StackShare](https://stackshare.io/) - discover & discuss the best software tools & services.
 * [StaticGen.com](https://www.staticgen.com/) - a leaderboard of top open-source static site generators.
 * [Unheap](http://www.unheap.com/) - a tidy repository of JavaScript plugins.
