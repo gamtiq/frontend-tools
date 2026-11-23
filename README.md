@@ -365,6 +365,7 @@
 * [CSS Stats](https://cssstats.com/) ([Github](https://github.com/cssstats/cssstats)) - visualize various stats about your CSS.
 * [Keyframes](https://keyframes.app/) - a free bundle of tools to generate & live preview different CSS properties, plus some other web development tools.
 * [Neumorphism.io](https://neumorphism.io) - CSS code generator for a new popular design trend called Neumorphism/Soft UI.
+* [PX to REM Converter](https://bestlatestapps.com/tools/px-to-rem/) - converts px, rem, em and pt for any root font size, and turns the px lengths in pasted CSS into rem.
 * [Smooth Shadow](https://shadows.brumm.af/) - make a smooth shadow.
 
 ### Linting, validation, checklist <a name="linting"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
