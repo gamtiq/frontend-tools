@@ -460,6 +460,7 @@
     - [HTMLMinifier](https://github.com/kangax/html-minifier) - a highly configurable, well-tested, JavaScript-based HTML minifier.
     - [Minimize](https://github.com/Swaagie/minimize) - a HTML minifier based on the node-htmlparser. Minimize is focussed on HTML5 and will not support older HTML drafts.
 * Images
+    - [BatchSet](https://batchset.com/tools/image-compressor) - batch image compression, resizing and format conversion in the browser; files stay on your device.
     - [CompressImage.io](https://compressimage.io/) - compress JPG and PNG images at light speed with browser based image compressor. Private, works offline.
     - [Compressor.io](https://compressor.io/) - fast & efficient online image compression.
     - [ImageOptim](https://imageoptim.com/mac) - saves disk space & bandwidth by compressing images without losing quality.
