@@ -520,6 +520,7 @@
 * [Storybook](https://storybook.js.org/) - a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.
 
 ### Design <a name="design"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Kite](https://kite.new) - a design tool your AI agents and your team share. Claude, ChatGPT, Cursor or Codex connect through a hosted MCP server and draw real, editable layers (frames, text, components, auto layout) in the same file the team edits; any frame can be copied as HTML, React or Tailwind. Free plan available.
 * [Playroom](https://github.com/seek-oss/playroom) - Simultaneously design across a variety of themes and screen sizes, powered by JSX and your own component library. Playroom allows you to create a zero-install code-oriented design environment, built into a standalone bundle that can be deployed alongside your existing design system documentation.
 
 ### Graphics/image editor <a name="image-editor"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
