@@ -466,6 +466,7 @@
     - [PicRecast](https://picrecast.com/image-compressor) - browser-based image compression, conversion and resizing with local processing.
     - [Squoosh](https://squoosh.app/) - an image compression web app that allows you to dive into the advanced options provided by various image compressors.
     - [SVGO](https://github.com/svg/svgo) - a Nodejs-based tool for optimizing SVG vector graphics files.
+    - [Tinymast](https://tinymast.com/) - online PDF and image tools; uploads and results are deleted within 24 hours by default.
 * JavaScript
     - [Babel-Minify](https://github.com/babel/minify) - an ES6+ aware minifier based on the Babel toolchain.
     - [UglifyJS](https://github.com/mishoo/UglifyJS2) - a JavaScript parser, minifier, compressor and beautifier toolkit.
